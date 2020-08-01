@@ -3,4 +3,4 @@ Type: file
 Size: 524288
 Last-Modified: '1993-02-17T08:42:44Z'
 SHA-1: D01647365891AA8B08280CF37433B0FAE8B96371
-Description: null
+Description: Must be concatenated to SWW07-0.COM

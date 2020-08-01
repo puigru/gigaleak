@@ -3,4 +3,4 @@ Type: file
 Size: 131072
 Last-Modified: '1993-03-08T13:30:24Z'
 SHA-1: 4F7B33CCEEEB73431CFAA82FE8F680E2BF472E0E
-Description: null
+Description: Must be concatenated to NU803-0.COM

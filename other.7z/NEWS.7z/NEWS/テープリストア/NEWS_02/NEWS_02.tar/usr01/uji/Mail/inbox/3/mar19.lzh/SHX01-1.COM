@@ -3,4 +3,4 @@ Type: file
 Size: 524288
 Last-Modified: '1993-03-11T01:23:20Z'
 SHA-1: 8F3F4244676E64A964B66C5737291B272D8CF141
-Description: null
+Description: Must be concatenated to SHX01-0.COM

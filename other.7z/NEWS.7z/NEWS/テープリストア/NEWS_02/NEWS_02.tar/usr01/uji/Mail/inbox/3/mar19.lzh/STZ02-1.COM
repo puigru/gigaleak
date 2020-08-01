@@ -3,4 +3,4 @@ Type: file
 Size: 524288
 Last-Modified: '1993-03-17T16:04:58Z'
 SHA-1: 4113F4E5829723D87DEEEADEE1FB5C1D0F984B37
-Description: null
+Description: Must be concatenated to STZ02-0.COM

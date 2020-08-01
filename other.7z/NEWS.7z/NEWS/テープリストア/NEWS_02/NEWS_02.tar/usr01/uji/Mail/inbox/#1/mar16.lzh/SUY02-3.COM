@@ -3,4 +3,4 @@ Type: file
 Size: 524288
 Last-Modified: '1993-03-05T11:56:24Z'
 SHA-1: 976FA7A151FD53C4DA74293789C6FDFFF065B141
-Description: null
+Description: Must be concatenated to SUY02-2.COM

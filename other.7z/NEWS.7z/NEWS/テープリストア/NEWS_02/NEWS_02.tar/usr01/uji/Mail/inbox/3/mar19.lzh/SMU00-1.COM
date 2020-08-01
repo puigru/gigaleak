@@ -3,4 +3,4 @@ Type: file
 Size: 524288
 Last-Modified: '1993-03-10T20:21:28Z'
 SHA-1: F37A84E299D2DFE0244147825607AF8277547692
-Description: null
+Description: Must be concatenated to SMU00-0.COM
