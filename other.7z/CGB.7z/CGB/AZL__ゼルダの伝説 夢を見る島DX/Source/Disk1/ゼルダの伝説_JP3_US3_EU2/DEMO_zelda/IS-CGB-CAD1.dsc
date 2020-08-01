@@ -1,0 +1,6 @@
+Name: IS-CGB-CAD1.dsc
+Type: file
+Size: 3072
+Last-Modified: '1998-07-06T10:36:02Z'
+SHA-1: 532CEE7C19644A4F617A8471C3CD1CD73ADF2008
+Description: null

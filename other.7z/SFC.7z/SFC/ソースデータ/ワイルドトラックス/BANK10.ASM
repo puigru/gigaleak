@@ -1,0 +1,6 @@
+Name: BANK10.ASM
+Type: file
+Size: 333
+Last-Modified: '1993-09-20T12:38:42Z'
+SHA-1: 3CF5D6CEA8DA3504A6C3AF8AF4148D019CE5D84F
+Description: null

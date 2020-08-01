@@ -1,0 +1,6 @@
+Name: MS.BAT
+Type: file
+Size: 94
+Last-Modified: '1993-02-01T05:13:36Z'
+SHA-1: F7E61BFDB6CA086A37ADC8B49DA9A6B92AE7205A
+Description: null

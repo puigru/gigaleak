@@ -1,0 +1,6 @@
+Name: TEST3.ASM
+Type: file
+Size: 49
+Last-Modified: '1993-06-01T02:43:10Z'
+SHA-1: 087A8C0C8A08E5A46491308840E257670A031A42
+Description: null

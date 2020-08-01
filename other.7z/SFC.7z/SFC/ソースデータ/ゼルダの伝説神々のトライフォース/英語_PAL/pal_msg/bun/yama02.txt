@@ -1,0 +1,6 @@
+Name: yama02.txt
+Type: file
+Size: 3381
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: F9B3225443AB2A786D1423929B5153C2D4BABB88
+Description: null

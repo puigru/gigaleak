@@ -1,0 +1,6 @@
+Name: D6.txt
+Type: file
+Size: 84
+Last-Modified: '1994-07-28T02:59:40Z'
+SHA-1: 8E44258CDB4F5FD73D0B2BDC66F3847DC1E64505
+Description: null

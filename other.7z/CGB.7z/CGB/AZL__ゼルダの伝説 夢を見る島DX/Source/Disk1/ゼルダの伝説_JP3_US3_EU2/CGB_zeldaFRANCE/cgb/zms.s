@@ -1,0 +1,6 @@
+Name: zms.s
+Type: file
+Size: 12237
+Last-Modified: '1998-11-17T04:07:54Z'
+SHA-1: 08C535E1725ADBD7E6D5406AB633468746CDB673
+Description: null

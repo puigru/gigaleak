@@ -1,0 +1,6 @@
+Name: w_ashi.txt
+Type: file
+Size: 196
+Last-Modified: '1994-07-28T02:45:55Z'
+SHA-1: 361780D9F163FE1697EF9AA01D3AA8C0743E51AB
+Description: null

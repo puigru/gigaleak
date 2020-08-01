@@ -1,0 +1,6 @@
+Name: TEMP.ASM
+Type: file
+Size: 70957
+Last-Modified: '1993-09-07T04:52:44Z'
+SHA-1: 6F4A1BD8483416753705BEDE44DC96C1938BDDBC
+Description: null

@@ -1,0 +1,6 @@
+Name: SOS1.ASM
+Type: file
+Size: 23683
+Last-Modified: '1995-06-24T00:01:00Z'
+SHA-1: 3B8815578BAEC9B9A854AEFFE980ECAE579528C5
+Description: null

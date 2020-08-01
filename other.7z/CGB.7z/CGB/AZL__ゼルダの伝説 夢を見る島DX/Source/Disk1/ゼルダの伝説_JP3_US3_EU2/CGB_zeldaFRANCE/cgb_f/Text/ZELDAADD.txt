@@ -1,0 +1,6 @@
+Name: ZELDAADD.txt
+Type: file
+Size: 5496
+Last-Modified: '1998-11-19T02:49:28Z'
+SHA-1: 83967E9ECF5A1D085DFB1F8C932C910231922BAE
+Description: null

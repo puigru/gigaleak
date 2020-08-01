@@ -1,0 +1,6 @@
+Name: DEMO8.ASM
+Type: file
+Size: 308
+Last-Modified: '1995-06-15T10:41:50Z'
+SHA-1: 4103E86B01D684071530E7C0D18431E08C021A46
+Description: null

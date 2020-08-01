@@ -1,0 +1,6 @@
+Name: CLEAR.ASM
+Type: file
+Size: 3131
+Last-Modified: '1994-11-25T03:02:54Z'
+SHA-1: BD1C799A66005A8763095CA8234DC87A39A4BA08
+Description: null

@@ -1,0 +1,6 @@
+Name: chika_t1.txt
+Type: file
+Size: 1410
+Last-Modified: '1995-01-25T08:20:26Z'
+SHA-1: 5CEBC507C9D122A13E35CFC4CE19387797F37FDC
+Description: null

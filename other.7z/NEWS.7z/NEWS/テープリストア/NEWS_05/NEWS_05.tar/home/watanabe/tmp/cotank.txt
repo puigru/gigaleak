@@ -1,0 +1,6 @@
+Name: cotank.txt
+Type: file
+Size: 689
+Last-Modified: '1994-09-19T06:58:17Z'
+SHA-1: 0E55D4EB7C56FEBFB740A20B3125BFDF3EA93197
+Description: null

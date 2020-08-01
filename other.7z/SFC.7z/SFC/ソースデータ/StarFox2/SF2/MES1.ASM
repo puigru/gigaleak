@@ -1,0 +1,6 @@
+Name: MES1.ASM
+Type: file
+Size: 4408
+Last-Modified: '1994-09-22T08:19:04Z'
+SHA-1: B2208546C46BB3E1A72D8C6F29970B519E514448
+Description: null

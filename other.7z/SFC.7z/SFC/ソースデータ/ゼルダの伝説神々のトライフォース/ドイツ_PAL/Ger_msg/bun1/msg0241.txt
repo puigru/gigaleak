@@ -1,0 +1,6 @@
+Name: msg0241.txt
+Type: file
+Size: 352
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: FB71D5B39C4A846E998508F1F06C9E9497A6F764
+Description: null

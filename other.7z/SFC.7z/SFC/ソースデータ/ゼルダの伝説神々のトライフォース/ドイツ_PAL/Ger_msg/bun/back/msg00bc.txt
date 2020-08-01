@@ -1,0 +1,6 @@
+Name: msg00bc.txt
+Type: file
+Size: 197
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: A05B3C39AC4EB1A084EF1983DA12D5FB4CD5B148
+Description: null

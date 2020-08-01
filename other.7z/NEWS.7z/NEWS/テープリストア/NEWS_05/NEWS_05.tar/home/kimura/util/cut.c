@@ -1,0 +1,6 @@
+Name: cut.c
+Type: file
+Size: 6087
+Last-Modified: '1993-07-13T00:37:18Z'
+SHA-1: 92894BF909B1A7C50FF144A8D593F284E8A54CC8
+Description: null

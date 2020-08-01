@@ -1,0 +1,6 @@
+Name: msg0242.txt
+Type: file
+Size: 119
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: A04D68BE4E74DBAB7B8821C12E55F7F478A88949
+Description: null

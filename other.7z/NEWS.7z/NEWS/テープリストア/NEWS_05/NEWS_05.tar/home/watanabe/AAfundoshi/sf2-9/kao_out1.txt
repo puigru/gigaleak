@@ -1,0 +1,6 @@
+Name: kao_out1.txt
+Type: file
+Size: 791
+Last-Modified: '1994-10-17T06:03:53Z'
+SHA-1: B535E8FBDE263758F6D794B4B805EDC0225208FB
+Description: null

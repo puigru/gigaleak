@@ -1,0 +1,6 @@
+Name: msg0524.txt
+Type: file
+Size: 179
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 9DF5D24814EC5EA4AAED529469C19A14978B66A9
+Description: null

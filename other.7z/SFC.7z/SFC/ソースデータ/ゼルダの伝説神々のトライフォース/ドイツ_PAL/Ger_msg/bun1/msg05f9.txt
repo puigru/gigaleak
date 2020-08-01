@@ -1,0 +1,6 @@
+Name: msg05f9.txt
+Type: file
+Size: 100
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 3BEE27B3D084253043492C6359C7332EED1A7F98
+Description: null

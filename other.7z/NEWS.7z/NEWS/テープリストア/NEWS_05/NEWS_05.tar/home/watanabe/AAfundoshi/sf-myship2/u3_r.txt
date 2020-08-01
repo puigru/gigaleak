@@ -1,0 +1,6 @@
+Name: u3_r.txt
+Type: file
+Size: 162
+Last-Modified: '1994-07-28T02:52:31Z'
+SHA-1: 3883F9C59FC5AFDE3682CBCA573A67B60EDB5068
+Description: null

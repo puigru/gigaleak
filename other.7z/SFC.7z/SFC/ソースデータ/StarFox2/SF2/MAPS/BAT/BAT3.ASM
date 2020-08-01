@@ -1,0 +1,6 @@
+Name: BAT3.ASM
+Type: file
+Size: 2513
+Last-Modified: '1995-05-18T06:18:26Z'
+SHA-1: 10DA206CBBAD48C856F5C6F06F697326BFA09497
+Description: null

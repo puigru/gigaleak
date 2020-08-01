@@ -1,0 +1,6 @@
+Name: d_1.txt
+Type: file
+Size: 236
+Last-Modified: '1994-07-28T02:46:58Z'
+SHA-1: 106A511B239B57436A640CCF1DC36035160092AB
+Description: null

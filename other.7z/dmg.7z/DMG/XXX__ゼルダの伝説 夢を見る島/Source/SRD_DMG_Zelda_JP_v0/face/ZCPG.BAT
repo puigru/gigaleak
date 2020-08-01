@@ -1,0 +1,6 @@
+Name: ZCPG.BAT
+Type: file
+Size: 1525
+Last-Modified: '1993-06-28T00:32:48Z'
+SHA-1: 1C490776A17087AF68E1A615FF56CCA1F1A851E5
+Description: null

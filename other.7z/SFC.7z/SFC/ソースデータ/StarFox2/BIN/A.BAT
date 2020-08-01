@@ -1,0 +1,6 @@
+Name: A.BAT
+Type: file
+Size: 9
+Last-Modified: '1992-10-09T07:13:52Z'
+SHA-1: 59642E90EDDA9F960AE49B76C08A0AF2CD7A1377
+Description: null

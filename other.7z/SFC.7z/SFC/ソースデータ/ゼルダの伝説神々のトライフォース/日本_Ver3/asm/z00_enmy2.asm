@@ -1,0 +1,6 @@
+Name: z00_enmy2.asm
+Type: file
+Size: 366470
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 26DF2D04D825AFFFD9A7DA7A34220D084F28C547
+Description: null

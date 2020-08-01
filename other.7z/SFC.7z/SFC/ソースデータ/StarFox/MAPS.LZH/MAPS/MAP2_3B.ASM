@@ -1,0 +1,6 @@
+Name: MAP2_3B.ASM
+Type: file
+Size: 3864
+Last-Modified: '1992-12-15T23:15:00Z'
+SHA-1: 322F7D53CFBC4EB59437B73D552F823CA40DB1C8
+Description: null

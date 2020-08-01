@@ -1,0 +1,6 @@
+Name: msg0022.txt
+Type: file
+Size: 155
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 5328F3CE547669DC0FA25B7D985B0DD4C11AF334
+Description: null

@@ -1,0 +1,6 @@
+Name: fuse_0_1.txt
+Type: file
+Size: 679
+Last-Modified: '1994-07-28T02:49:54Z'
+SHA-1: CDBC7CBB32A12CA3D86FB8124B53B8FF63F56234
+Description: null

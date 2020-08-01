@@ -1,0 +1,6 @@
+Name: takoashi.txt
+Type: file
+Size: 492
+Last-Modified: '1994-07-28T02:45:55Z'
+SHA-1: 740F126010C530017E3574C6E9BE69660B131328
+Description: null

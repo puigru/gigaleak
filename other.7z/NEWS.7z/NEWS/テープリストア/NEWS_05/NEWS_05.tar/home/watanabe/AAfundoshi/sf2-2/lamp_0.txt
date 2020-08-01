@@ -1,0 +1,6 @@
+Name: lamp_0.txt
+Type: file
+Size: 409
+Last-Modified: '1994-07-28T02:43:53Z'
+SHA-1: 4B794F9A70CA0DA7F853CB3AA25130BC2B726A9C
+Description: null

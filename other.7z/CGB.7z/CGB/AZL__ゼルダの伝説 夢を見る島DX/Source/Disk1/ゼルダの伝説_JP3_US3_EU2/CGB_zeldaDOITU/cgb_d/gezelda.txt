@@ -1,0 +1,6 @@
+Name: gezelda.txt
+Type: file
+Size: 16906
+Last-Modified: '1998-11-18T05:56:22Z'
+SHA-1: 1134B425A49C2E284CD2C24B8001C78DE7ACCD3A
+Description: null

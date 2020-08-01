@@ -1,0 +1,6 @@
+Name: st1_00c.txt
+Type: file
+Size: 282
+Last-Modified: '1994-07-28T03:00:25Z'
+SHA-1: 39194F63F090B501F4F9B5EEC151D2ECCED1D3B6
+Description: null

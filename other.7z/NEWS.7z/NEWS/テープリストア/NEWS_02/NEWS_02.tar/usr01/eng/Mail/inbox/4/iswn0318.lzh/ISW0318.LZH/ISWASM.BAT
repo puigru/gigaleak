@@ -1,0 +1,6 @@
+Name: ISWASM.BAT
+Type: file
+Size: 381
+Last-Modified: '1993-03-17T23:09:02Z'
+SHA-1: 243404D50B0FA0B477852B7E3433855E455BE8E7
+Description: null

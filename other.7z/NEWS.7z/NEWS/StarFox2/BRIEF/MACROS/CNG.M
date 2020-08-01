@@ -1,0 +1,6 @@
+Name: CNG.M
+Type: file
+Size: 1310
+Last-Modified: '1993-09-07T04:51:12Z'
+SHA-1: BE8A02B22C19DD032F3487862E4900681931B2A5
+Description: null

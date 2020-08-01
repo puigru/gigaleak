@@ -1,0 +1,6 @@
+Name: MDATA.MC
+Type: file
+Size: 23376
+Last-Modified: '1993-02-15T08:40:38Z'
+SHA-1: CE0D400C895A6C94B28656757BBF2519F8EE22A2
+Description: null

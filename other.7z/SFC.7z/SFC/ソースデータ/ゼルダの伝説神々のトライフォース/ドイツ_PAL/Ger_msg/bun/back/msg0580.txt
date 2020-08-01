@@ -1,0 +1,6 @@
+Name: msg0580.txt
+Type: file
+Size: 2754
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: AC01C0CF8F1CE1608CDE3D6E09165D6663A78029
+Description: null

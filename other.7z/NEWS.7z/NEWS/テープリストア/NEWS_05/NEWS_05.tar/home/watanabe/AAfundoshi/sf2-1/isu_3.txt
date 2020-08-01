@@ -1,0 +1,6 @@
+Name: isu_3.txt
+Type: file
+Size: 138
+Last-Modified: '1994-07-28T02:42:00Z'
+SHA-1: 85A3C3AE9F58F8FE0CFD7D89EFD3F038159EB65B
+Description: null

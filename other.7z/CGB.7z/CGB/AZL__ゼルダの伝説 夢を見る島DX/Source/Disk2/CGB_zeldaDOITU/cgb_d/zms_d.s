@@ -1,0 +1,6 @@
+Name: zms_d.s
+Type: file
+Size: 20672
+Last-Modified: '1998-11-25T09:28:42Z'
+SHA-1: BC5DE070DAA3EDFDEFFBF759EB5773EBD5BBD616
+Description: null

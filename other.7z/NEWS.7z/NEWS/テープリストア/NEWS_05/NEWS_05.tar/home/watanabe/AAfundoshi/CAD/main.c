@@ -1,0 +1,6 @@
+Name: main.c
+Type: file
+Size: 4484
+Last-Modified: '1995-04-14T01:24:44Z'
+SHA-1: 2E3A44617CE338406839D0ECD64688C7780C856C
+Description: null

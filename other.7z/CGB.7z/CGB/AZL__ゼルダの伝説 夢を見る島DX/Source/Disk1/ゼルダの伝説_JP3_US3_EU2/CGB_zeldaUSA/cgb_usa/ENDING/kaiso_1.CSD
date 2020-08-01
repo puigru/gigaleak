@@ -1,0 +1,6 @@
+Name: kaiso_1.CSD
+Type: file
+Size: 720
+Last-Modified: '1998-10-14T11:32:32Z'
+SHA-1: 733FD3546C54F8E23E72FE6C48FDE31A584EEA83
+Description: null

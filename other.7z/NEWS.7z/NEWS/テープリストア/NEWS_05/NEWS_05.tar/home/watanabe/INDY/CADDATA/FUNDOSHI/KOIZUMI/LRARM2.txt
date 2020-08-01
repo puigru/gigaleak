@@ -1,0 +1,6 @@
+Name: LRARM2.txt
+Type: file
+Size: 629
+Last-Modified: '1994-07-28T02:59:50Z'
+SHA-1: B2363FA953D78A45D1177F091EDEAB455A11C47D
+Description: null

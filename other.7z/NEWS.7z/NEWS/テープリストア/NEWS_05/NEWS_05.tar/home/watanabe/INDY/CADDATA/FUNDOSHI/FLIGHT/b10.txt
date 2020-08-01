@@ -1,0 +1,6 @@
+Name: b10.txt
+Type: file
+Size: 145
+Last-Modified: '1994-07-28T03:00:16Z'
+SHA-1: AB517DCFABCA2DD4AAD76C3309400FC86ADCC5F9
+Description: null

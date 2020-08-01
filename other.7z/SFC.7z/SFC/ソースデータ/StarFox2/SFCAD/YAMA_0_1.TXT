@@ -1,0 +1,6 @@
+Name: YAMA_0_1.TXT
+Type: file
+Size: 229
+Last-Modified: '2016-03-10T08:07:00Z'
+SHA-1: 17778E967560AC2E9CCEC2A16CFA1504743B8DB5
+Description: null

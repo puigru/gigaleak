@@ -1,0 +1,6 @@
+Name: otachi_3.txt
+Type: file
+Size: 474
+Last-Modified: '1994-07-28T02:42:05Z'
+SHA-1: ABD9C1520DB94232EE46B0344EEA44FD0C2B0985
+Description: null

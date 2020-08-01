@@ -1,0 +1,6 @@
+Name: line_t.txt
+Type: file
+Size: 108
+Last-Modified: '1994-07-28T02:43:53Z'
+SHA-1: 36DEC8A0320D4C423C023806CF1419A7C12A1B6F
+Description: null

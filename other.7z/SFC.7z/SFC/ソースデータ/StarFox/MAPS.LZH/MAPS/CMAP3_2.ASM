@@ -1,0 +1,6 @@
+Name: CMAP3_2.ASM
+Type: file
+Size: 7367
+Last-Modified: '1992-12-24T10:02:56Z'
+SHA-1: EA0971FA4A301BAD8498D9FBC95368FBFF5A3570
+Description: null

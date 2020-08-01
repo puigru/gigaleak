@@ -1,0 +1,6 @@
+Name: w_sune.txt
+Type: file
+Size: 64
+Last-Modified: '1994-07-28T02:45:56Z'
+SHA-1: 5D616A23076C7F58E7E73CADB0E50DA903E0B535
+Description: null

@@ -1,0 +1,6 @@
+Name: BANK7.ASM
+Type: file
+Size: 268
+Last-Modified: '1994-07-27T08:30:58Z'
+SHA-1: 6A12A652E2B6E9B692DA99DFAEEA97EED796259C
+Description: null

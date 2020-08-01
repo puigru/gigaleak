@@ -1,0 +1,6 @@
+Name: '#SELOBJ.INC'
+Type: file
+Size: 3676
+Last-Modified: '1994-08-02T01:29:52Z'
+SHA-1: 09E7A2F42994B20CA7ADCDE55597A5DD04BA37E8
+Description: null

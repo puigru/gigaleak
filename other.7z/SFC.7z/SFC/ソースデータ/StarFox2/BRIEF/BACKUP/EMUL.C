@@ -1,0 +1,6 @@
+Name: EMUL.C
+Type: file
+Size: 11594
+Last-Modified: '1994-09-21T10:56:40Z'
+SHA-1: 4D5F50B232E3EE69AB597FDFC90DD3F0A997B9DA
+Description: null

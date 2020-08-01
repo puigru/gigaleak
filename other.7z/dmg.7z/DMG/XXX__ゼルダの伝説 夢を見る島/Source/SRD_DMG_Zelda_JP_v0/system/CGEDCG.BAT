@@ -1,0 +1,6 @@
+Name: CGEDCG.BAT
+Type: file
+Size: 422
+Last-Modified: '1988-04-25T10:11:52Z'
+SHA-1: 216B2E30BECEF20AF31FB29D3EBD0C01BDB34220
+Description: null

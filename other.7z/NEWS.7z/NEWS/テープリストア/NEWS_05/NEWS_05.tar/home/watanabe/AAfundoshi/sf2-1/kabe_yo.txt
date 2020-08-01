@@ -1,0 +1,6 @@
+Name: kabe_yo.txt
+Type: file
+Size: 117
+Last-Modified: '1994-07-28T02:42:00Z'
+SHA-1: B537A35E56D5173A1694E722DD190559262802FC
+Description: null

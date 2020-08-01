@@ -1,0 +1,6 @@
+Name: MAP1_3C.ASM
+Type: file
+Size: 1929
+Last-Modified: '1992-12-19T00:34:30Z'
+SHA-1: 5F6703034471D10CBC853D68127ED241BF86B816
+Description: null

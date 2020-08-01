@@ -1,0 +1,6 @@
+Name: BLINK.ASM
+Type: file
+Size: 1180
+Last-Modified: '1994-06-21T18:30:04Z'
+SHA-1: E42DF9F95B9C919C580FB6F2D447ACCB0ACF4448
+Description: null

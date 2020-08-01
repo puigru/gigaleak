@@ -1,0 +1,6 @@
+Name: MC.BAT
+Type: file
+Size: 113
+Last-Modified: '1992-12-15T18:16:08Z'
+SHA-1: EB0FC35FEF6C9B02325ED90FC2A0D578BE367C63
+Description: null

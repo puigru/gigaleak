@@ -1,0 +1,6 @@
+Name: yama_1_2.txt
+Type: file
+Size: 383
+Last-Modified: '1994-07-28T02:47:23Z'
+SHA-1: 011C73AB4AB9F0B5D01B809E36222687C0C8362D
+Description: null

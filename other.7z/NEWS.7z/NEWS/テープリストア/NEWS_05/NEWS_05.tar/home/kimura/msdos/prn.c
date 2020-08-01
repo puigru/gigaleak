@@ -1,0 +1,6 @@
+Name: prn.c
+Type: file
+Size: 571
+Last-Modified: '1992-12-03T04:54:09Z'
+SHA-1: 357F31420521E44109ED2B7A9EEEB8BBB20C8541
+Description: null

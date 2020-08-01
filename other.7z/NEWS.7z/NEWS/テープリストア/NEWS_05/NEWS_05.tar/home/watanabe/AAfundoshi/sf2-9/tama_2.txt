@@ -1,0 +1,6 @@
+Name: tama_2.txt
+Type: file
+Size: 545
+Last-Modified: '1994-10-28T04:25:16Z'
+SHA-1: EF4C571914AEAA31910075F24D37655EE7F449DF
+Description: null

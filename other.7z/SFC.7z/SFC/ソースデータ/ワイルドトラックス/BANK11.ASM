@@ -1,0 +1,6 @@
+Name: BANK11.ASM
+Type: file
+Size: 279
+Last-Modified: '1993-09-20T12:38:42Z'
+SHA-1: B371D008BBD0232FA66FEDE8836937C6FEF34E6B
+Description: null

@@ -1,0 +1,6 @@
+Name: rz2.ice
+Type: file
+Size: 292
+Last-Modified: '1998-06-16T02:52:30Z'
+SHA-1: 82C4C51AD249596AF119708D862FC008BC05B49F
+Description: null

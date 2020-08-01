@@ -1,0 +1,6 @@
+Name: PPUregs.h
+Type: file
+Size: 1237
+Last-Modified: '1991-10-31T02:03:36Z'
+SHA-1: 86361DF60B7FFD1CF9C5B0CBEE53EE02D65C81E5
+Description: null

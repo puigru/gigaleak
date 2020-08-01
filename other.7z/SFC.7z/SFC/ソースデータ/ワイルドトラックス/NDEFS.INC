@@ -1,0 +1,6 @@
+Name: NDEFS.INC
+Type: file
+Size: 424
+Last-Modified: '1993-07-21T09:39:54Z'
+SHA-1: DC406CC4513B12DE7D2F7C183A24B60AF48945AD
+Description: null

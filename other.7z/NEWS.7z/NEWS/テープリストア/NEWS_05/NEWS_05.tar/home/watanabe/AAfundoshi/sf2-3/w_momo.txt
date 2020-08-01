@@ -1,0 +1,6 @@
+Name: w_momo.txt
+Type: file
+Size: 93
+Last-Modified: '1994-07-28T02:45:56Z'
+SHA-1: 4DDA7CAF7CE08F613B256C7A2C854B39433E7497
+Description: null

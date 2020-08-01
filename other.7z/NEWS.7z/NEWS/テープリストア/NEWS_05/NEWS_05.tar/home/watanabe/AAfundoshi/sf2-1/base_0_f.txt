@@ -1,0 +1,6 @@
+Name: base_0_f.txt
+Type: file
+Size: 1147
+Last-Modified: '1994-07-28T02:41:51Z'
+SHA-1: CB52DD528C70F793A15F8475BA1D818171C5F6E6
+Description: null

@@ -1,0 +1,6 @@
+Name: LHAND.txt
+Type: file
+Size: 78
+Last-Modified: '1994-07-28T02:59:44Z'
+SHA-1: 82CAFA8EA92C8B8008CEB9A3CC0B513859C873FF
+Description: null

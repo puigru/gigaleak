@@ -1,0 +1,6 @@
+Name: MYTEST.MC
+Type: file
+Size: 498
+Last-Modified: '1994-12-05T07:50:46Z'
+SHA-1: AD8842D7062F8E2630EBF39B9D3322D8565011F2
+Description: null

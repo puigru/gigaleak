@@ -1,0 +1,6 @@
+Name: ze6.s
+Type: file
+Size: 157880
+Last-Modified: '1998-12-11T05:41:46Z'
+SHA-1: 83487144EE35B97A921840EB217544577D45F4BD
+Description: null

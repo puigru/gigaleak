@@ -1,0 +1,6 @@
+Name: CL_SHIP.ASM
+Type: file
+Size: 1137
+Last-Modified: '1992-12-17T20:10:12Z'
+SHA-1: 3750C2FE33E13F651F0C6F7427C737A9EE129F62
+Description: null

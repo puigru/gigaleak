@@ -1,0 +1,6 @@
+Name: STG5.ASM
+Type: file
+Size: 23876
+Last-Modified: '1995-06-28T22:24:58Z'
+SHA-1: 3C798D22681DD241E63C85AF1AEE88C753800C71
+Description: null

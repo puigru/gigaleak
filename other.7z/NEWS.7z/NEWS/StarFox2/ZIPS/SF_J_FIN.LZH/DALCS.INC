@@ -1,0 +1,6 @@
+Name: DALCS.INC
+Type: file
+Size: 7745
+Last-Modified: '1995-08-22T09:42:58Z'
+SHA-1: E096C7F9EA88DFF1EE3E5B50C74E3FE15BAE784E
+Description: null

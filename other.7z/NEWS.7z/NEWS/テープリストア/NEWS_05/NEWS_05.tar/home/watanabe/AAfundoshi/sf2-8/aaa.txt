@@ -1,0 +1,6 @@
+Name: aaa.txt
+Type: file
+Size: 1562
+Last-Modified: '1995-07-31T01:45:54Z'
+SHA-1: 815A2826FA31697B334EBC19678A5ADF8C4CC9B5
+Description: null

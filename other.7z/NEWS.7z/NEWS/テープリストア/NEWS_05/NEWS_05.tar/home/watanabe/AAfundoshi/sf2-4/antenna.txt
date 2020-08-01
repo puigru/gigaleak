@@ -1,0 +1,6 @@
+Name: antenna.txt
+Type: file
+Size: 458
+Last-Modified: '1994-07-28T02:46:54Z'
+SHA-1: 5CB14478271E038F61C44FED34A54B18CE4036DA
+Description: null

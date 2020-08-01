@@ -1,0 +1,6 @@
+Name: msg024d.txt
+Type: file
+Size: 153
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: F46B6FA41562399BDA91F341D9EE7E437BA5F19B
+Description: null

@@ -1,0 +1,6 @@
+Name: msg00d3.txt
+Type: file
+Size: 121
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 470BFA13557BF759758590DEBEDEDE78C3565CDE
+Description: null

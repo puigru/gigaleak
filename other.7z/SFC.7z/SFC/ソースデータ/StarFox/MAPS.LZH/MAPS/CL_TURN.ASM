@@ -1,0 +1,6 @@
+Name: CL_TURN.ASM
+Type: file
+Size: 887
+Last-Modified: '1993-02-08T12:59:08Z'
+SHA-1: 6AB3672C157D9EA3996C16CF61C15599F6FD1AE6
+Description: null

@@ -1,0 +1,6 @@
+Name: Translation_new.txt
+Type: file
+Size: 18598
+Last-Modified: '1998-12-03T13:18:00Z'
+SHA-1: 866F620D1CD9EC5A00FE3C7F8F7A387B8BFFC897
+Description: null

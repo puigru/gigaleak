@@ -1,0 +1,6 @@
+Name: STATS.C
+Type: file
+Size: 24666
+Last-Modified: '1995-02-06T07:01:18Z'
+SHA-1: 63E73590A14F6F4220172D4777ECF8B1A2E6E208
+Description: null

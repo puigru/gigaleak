@@ -1,0 +1,6 @@
+Name: my_l.txt
+Type: file
+Size: 197
+Last-Modified: '1994-07-28T02:42:02Z'
+SHA-1: 437B66FEC5DC199E4A01F14F0625A9715A8F203C
+Description: null

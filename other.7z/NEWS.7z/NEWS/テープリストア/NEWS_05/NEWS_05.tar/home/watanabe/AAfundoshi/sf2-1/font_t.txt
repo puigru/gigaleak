@@ -1,0 +1,6 @@
+Name: font_t.txt
+Type: file
+Size: 374
+Last-Modified: '1994-07-28T02:41:58Z'
+SHA-1: 0867394C3168D7FC44BCEDC9C943B6C756C55C6F
+Description: null

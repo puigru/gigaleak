@@ -1,0 +1,6 @@
+Name: swi_pool.txt
+Type: file
+Size: 352
+Last-Modified: '1994-07-28T02:42:07Z'
+SHA-1: A0A9F7C1556D74200D97A88B8B4D7835D906B839
+Description: null

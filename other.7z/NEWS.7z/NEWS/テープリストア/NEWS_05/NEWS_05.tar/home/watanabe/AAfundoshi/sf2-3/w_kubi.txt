@@ -1,0 +1,6 @@
+Name: w_kubi.txt
+Type: file
+Size: 88
+Last-Modified: '1994-07-28T02:45:56Z'
+SHA-1: 0634CBCE39557A9255D21D14496F899DB09DEF7A
+Description: null

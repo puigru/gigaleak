@@ -1,0 +1,6 @@
+Name: mikata.txt
+Type: file
+Size: 1417
+Last-Modified: '1994-09-29T02:23:54Z'
+SHA-1: DF4E5E2F7C77B5C65965035F9BCD7EC29461B48D
+Description: null

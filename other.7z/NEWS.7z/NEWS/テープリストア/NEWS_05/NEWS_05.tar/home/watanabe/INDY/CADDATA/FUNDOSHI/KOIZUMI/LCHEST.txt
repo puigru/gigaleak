@@ -1,0 +1,6 @@
+Name: LCHEST.txt
+Type: file
+Size: 564
+Last-Modified: '1994-07-28T02:59:44Z'
+SHA-1: C5BD94E33DC7731CAD5A67050BEFD7611E65EEF2
+Description: null

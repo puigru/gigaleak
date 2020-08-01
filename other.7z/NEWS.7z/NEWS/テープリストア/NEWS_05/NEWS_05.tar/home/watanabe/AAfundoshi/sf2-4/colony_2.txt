@@ -1,0 +1,6 @@
+Name: colony_2.txt
+Type: file
+Size: 286
+Last-Modified: '1994-07-28T02:46:57Z'
+SHA-1: 0F86403C11F8D96BA61F81CF882C6A312E4E4D7D
+Description: null

@@ -1,0 +1,6 @@
+Name: MenuRes.h
+Type: file
+Size: 2212
+Last-Modified: '1995-02-24T07:49:03Z'
+SHA-1: 00226FD2D7C3A4BDDE00AD74728C38AE4BD485E1
+Description: null

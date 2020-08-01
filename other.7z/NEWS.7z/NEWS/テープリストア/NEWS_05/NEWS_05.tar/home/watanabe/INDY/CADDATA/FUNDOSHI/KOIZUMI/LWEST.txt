@@ -1,0 +1,6 @@
+Name: LWEST.txt
+Type: file
+Size: 670
+Last-Modified: '1994-07-28T02:59:51Z'
+SHA-1: 2C3CDA41807A41DF3BDCC7320219ACACC45C003A
+Description: null

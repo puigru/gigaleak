@@ -1,0 +1,6 @@
+Name: SOSYJ.MC
+Type: file
+Size: 20874
+Last-Modified: '1994-11-22T00:52:34Z'
+SHA-1: F2C57B346AE485EE867708CD4770D2A2AC2062A9
+Description: null

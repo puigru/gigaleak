@@ -1,0 +1,6 @@
+Name: MBOXES.MC
+Type: file
+Size: 9078
+Last-Modified: '1995-06-29T11:15:36Z'
+SHA-1: E33F009DF56EAB06E3981E89D37FFCDAC18435B7
+Description: null

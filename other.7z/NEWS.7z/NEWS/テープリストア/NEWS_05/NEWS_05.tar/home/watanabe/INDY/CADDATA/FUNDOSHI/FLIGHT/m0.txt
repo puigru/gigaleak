@@ -1,0 +1,6 @@
+Name: m0.txt
+Type: file
+Size: 128
+Last-Modified: '1994-07-28T03:00:22Z'
+SHA-1: 7539D573EDC5AF48C4268FC15A5944120FA36484
+Description: null

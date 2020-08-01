@@ -1,0 +1,6 @@
+Name: msg0072.txt
+Type: file
+Size: 107
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: ACCE276EAD4AEA7A2DE2BA75EAD4F384025E2E63
+Description: null

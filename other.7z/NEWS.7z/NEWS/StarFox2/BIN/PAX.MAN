@@ -1,0 +1,6 @@
+Name: PAX.MAN
+Type: file
+Size: 15588
+Last-Modified: '1994-05-24T08:35:04Z'
+SHA-1: 3182AE06BD1B868910300001BF03C39AFC1D5D05
+Description: null

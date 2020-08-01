@@ -1,0 +1,6 @@
+Name: michi_4d.txt
+Type: file
+Size: 208
+Last-Modified: '1994-07-28T02:33:11Z'
+SHA-1: E3775AC594E21C5A022A2B8857B16B9B527B63D8
+Description: null

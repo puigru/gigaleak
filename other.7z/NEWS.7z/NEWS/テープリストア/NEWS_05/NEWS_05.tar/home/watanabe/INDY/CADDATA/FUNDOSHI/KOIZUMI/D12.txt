@@ -1,0 +1,6 @@
+Name: D12.txt
+Type: file
+Size: 94
+Last-Modified: '1994-07-28T02:59:38Z'
+SHA-1: 959B2E6C908B8241DFBF01AAD5A0777883352E5D
+Description: null

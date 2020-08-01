@@ -1,0 +1,6 @@
+Name: .cshrc
+Type: file
+Size: 3987
+Last-Modified: '1994-03-02T23:51:44Z'
+SHA-1: A02E5D74639F3D4EF8B5AA05B4B3AE4E035C37B7
+Description: null

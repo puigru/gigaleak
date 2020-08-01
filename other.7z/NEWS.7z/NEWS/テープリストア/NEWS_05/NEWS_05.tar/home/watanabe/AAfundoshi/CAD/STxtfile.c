@@ -1,0 +1,6 @@
+Name: STxtfile.c
+Type: file
+Size: 9594
+Last-Modified: '1995-04-14T01:24:43Z'
+SHA-1: 8DEBF469D0BC430330F80D000A59E8B157D1AC07
+Description: null

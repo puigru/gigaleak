@@ -1,0 +1,6 @@
+Name: tekikan.txt
+Type: file
+Size: 840
+Last-Modified: '1994-07-28T02:50:06Z'
+SHA-1: A1C93CE839EC64BC5D3071261994F9896AC1F2B9
+Description: null

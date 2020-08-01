@@ -1,0 +1,6 @@
+Name: msg05b3.txt
+Type: file
+Size: 117
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: E33B5C470C552B6A5023E279FE9EA7A15DAADBCE
+Description: null

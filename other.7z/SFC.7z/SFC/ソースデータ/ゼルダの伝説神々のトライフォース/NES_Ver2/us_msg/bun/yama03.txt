@@ -1,0 +1,6 @@
+Name: yama03.txt
+Type: file
+Size: 2785
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: 3003E8402064B6DB78F387218980D9CD91201CDB
+Description: null

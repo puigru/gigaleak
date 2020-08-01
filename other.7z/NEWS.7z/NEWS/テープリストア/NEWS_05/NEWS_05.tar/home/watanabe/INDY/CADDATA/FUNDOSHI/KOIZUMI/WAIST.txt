@@ -1,0 +1,6 @@
+Name: WAIST.txt
+Type: file
+Size: 92
+Last-Modified: '1994-07-28T02:59:54Z'
+SHA-1: FDFA63C2256E2EB58EE8CEEAD130B14B0D49B1F3
+Description: null

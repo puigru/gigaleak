@@ -1,0 +1,6 @@
+Name: DCGDMG.BAT
+Type: file
+Size: 479
+Last-Modified: '1988-06-15T08:13:00Z'
+SHA-1: 39C0B93BAD72B72D3690177A272168FCAE5E4C17
+Description: null

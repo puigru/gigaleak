@@ -1,0 +1,6 @@
+Name: VC_KEY.H
+Type: file
+Size: 164
+Last-Modified: '1993-09-07T04:50:42Z'
+SHA-1: 9EDE8BE2C2F6F57E413F90D5C43493A910B5894F
+Description: null

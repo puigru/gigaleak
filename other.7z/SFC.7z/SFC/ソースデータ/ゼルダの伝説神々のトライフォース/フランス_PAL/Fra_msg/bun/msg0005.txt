@@ -1,0 +1,6 @@
+Name: msg0005.txt
+Type: file
+Size: 41
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: D7B3A774BAD8E10B22C357753C306C5124D3A276
+Description: null

@@ -1,0 +1,6 @@
+Name: CP.BAT
+Type: file
+Size: 12
+Last-Modified: '1994-07-12T04:28:08Z'
+SHA-1: 63E656EA835817B63FEA080EEA0F27906C4CE1C2
+Description: null

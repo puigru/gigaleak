@@ -1,0 +1,6 @@
+Name: LTATE.txt
+Type: file
+Size: 575
+Last-Modified: '1994-07-28T02:59:51Z'
+SHA-1: A2B5F516ACD0854D883F63AB06C7F68D87E36AC7
+Description: null

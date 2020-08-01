@@ -1,0 +1,6 @@
+Name: AAA.txt
+Type: file
+Size: 627
+Last-Modified: '1994-07-28T02:59:36Z'
+SHA-1: 27AF2628804821BC20174427D09E48BF544318CF
+Description: null

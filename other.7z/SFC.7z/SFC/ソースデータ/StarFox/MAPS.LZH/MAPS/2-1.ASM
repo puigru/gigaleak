@@ -1,0 +1,6 @@
+Name: 2-1.ASM
+Type: file
+Size: 9764
+Last-Modified: '1992-12-20T17:50:30Z'
+SHA-1: 2E99EA078354A2F93D8ED91EC9F4EF1132776F00
+Description: null

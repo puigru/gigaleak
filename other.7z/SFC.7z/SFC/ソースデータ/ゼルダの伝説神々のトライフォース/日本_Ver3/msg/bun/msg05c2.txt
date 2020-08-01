@@ -1,0 +1,6 @@
+Name: msg05c2.txt
+Type: file
+Size: 89
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 10E868FADF201EB22EA03276776743B128377A52
+Description: null

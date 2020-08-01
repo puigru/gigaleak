@@ -1,0 +1,6 @@
+Name: MPART.MC
+Type: file
+Size: 14505
+Last-Modified: '1995-03-02T06:27:32Z'
+SHA-1: 7D6354867639F12AAB4E234F3E3DA61056C208AB
+Description: null

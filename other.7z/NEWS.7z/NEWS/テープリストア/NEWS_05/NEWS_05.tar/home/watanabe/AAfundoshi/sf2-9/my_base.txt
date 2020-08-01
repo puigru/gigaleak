@@ -1,0 +1,6 @@
+Name: my_base.txt
+Type: file
+Size: 4638
+Last-Modified: '1994-10-26T05:44:43Z'
+SHA-1: 4CC62CD47FDE0CF8713F6556CF72CC3434F88C32
+Description: null

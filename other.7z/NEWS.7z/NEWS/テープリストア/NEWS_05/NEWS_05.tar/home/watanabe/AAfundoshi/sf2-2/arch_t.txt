@@ -1,0 +1,6 @@
+Name: arch_t.txt
+Type: file
+Size: 930
+Last-Modified: '1994-07-28T02:43:38Z'
+SHA-1: 4DE6E91F3808CB0D4A022D406A554234829FAB0B
+Description: null

@@ -1,0 +1,6 @@
+Name: FONTS.ASM
+Type: file
+Size: 264
+Last-Modified: '1995-06-17T19:32:20Z'
+SHA-1: E20B7843375E9516465E433782CA2A4ED62C293E
+Description: null

@@ -1,0 +1,6 @@
+Name: c_d1211.com
+Type: file
+Size: 1048576
+Last-Modified: '1998-12-11T09:45:44Z'
+SHA-1: 6BCD23A3A8AFDE7C220BC1DA4E32D47749139305
+Description: null

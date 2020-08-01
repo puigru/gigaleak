@@ -1,0 +1,6 @@
+Name: furo_1_0.txt
+Type: file
+Size: 277
+Last-Modified: '1994-07-28T02:49:52Z'
+SHA-1: E56CF956758ECF6E4105274E2D8C1FC5894396C3
+Description: null

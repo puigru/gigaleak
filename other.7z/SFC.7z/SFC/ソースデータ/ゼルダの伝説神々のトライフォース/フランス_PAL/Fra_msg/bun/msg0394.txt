@@ -1,0 +1,6 @@
+Name: msg0394.txt
+Type: file
+Size: 312
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: BF4E81DBF22D0A8E04D4ED27B153D7F66F88A9C2
+Description: null

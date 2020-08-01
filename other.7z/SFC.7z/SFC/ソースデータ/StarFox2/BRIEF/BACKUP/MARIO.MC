@@ -1,0 +1,6 @@
+Name: MARIO.MC
+Type: file
+Size: 939
+Last-Modified: '1994-08-03T10:20:12Z'
+SHA-1: 8E8C8C98EEC078F410497FC8BC3E4153EFC1ED0F
+Description: null

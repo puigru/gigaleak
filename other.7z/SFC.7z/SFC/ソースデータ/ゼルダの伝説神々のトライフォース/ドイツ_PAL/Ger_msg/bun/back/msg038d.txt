@@ -1,0 +1,6 @@
+Name: msg038d.txt
+Type: file
+Size: 83
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: B19B6FB42E582F60A7F77F3232B22CDD97078A44
+Description: null

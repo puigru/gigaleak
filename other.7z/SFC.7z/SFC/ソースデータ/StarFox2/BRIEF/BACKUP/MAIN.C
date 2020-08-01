@@ -1,0 +1,6 @@
+Name: MAIN.C
+Type: file
+Size: 8081
+Last-Modified: '1995-03-27T05:57:08Z'
+SHA-1: 5FFAE91BD5A46AF07E850055826CAB42E047E6CD
+Description: null

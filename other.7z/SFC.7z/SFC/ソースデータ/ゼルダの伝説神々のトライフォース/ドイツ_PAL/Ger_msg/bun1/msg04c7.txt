@@ -1,0 +1,6 @@
+Name: msg04c7.txt
+Type: file
+Size: 72
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 6A62B69413249475788F5D646A0331A2A17AE519
+Description: null

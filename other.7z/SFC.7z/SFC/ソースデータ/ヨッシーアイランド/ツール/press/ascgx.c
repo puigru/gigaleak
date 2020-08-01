@@ -1,0 +1,6 @@
+Name: ascgx.c
+Type: file
+Size: 14505
+Last-Modified: '2016-05-13T04:52:55Z'
+SHA-1: A8779746699BEF608836FA62D8513FB525795813
+Description: null

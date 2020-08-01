@@ -1,0 +1,6 @@
+Name: EXP1.ASM
+Type: file
+Size: 7316
+Last-Modified: '1994-08-26T04:22:36Z'
+SHA-1: F8AAACE18318D6FE45F5FED147DD766CCCB12908
+Description: null

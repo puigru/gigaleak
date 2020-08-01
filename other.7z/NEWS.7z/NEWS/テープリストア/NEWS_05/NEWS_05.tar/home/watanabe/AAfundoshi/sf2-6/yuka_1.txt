@@ -1,0 +1,6 @@
+Name: yuka_1.txt
+Type: file
+Size: 231
+Last-Modified: '1994-07-28T02:33:13Z'
+SHA-1: 4C6D5B1B0F13E95AA2C763DC4C85266E239D5F26
+Description: null

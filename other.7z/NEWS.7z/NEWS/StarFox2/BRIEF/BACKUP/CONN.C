@@ -1,0 +1,6 @@
+Name: CONN.C
+Type: file
+Size: 1823
+Last-Modified: '1995-05-22T10:21:24Z'
+SHA-1: 87C09A2C3CFB2F70259AEDF327480FFCF4AB8318
+Description: null

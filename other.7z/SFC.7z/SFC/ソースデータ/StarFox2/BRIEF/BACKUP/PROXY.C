@@ -1,0 +1,6 @@
+Name: PROXY.C
+Type: file
+Size: 3773
+Last-Modified: '1995-06-21T08:25:04Z'
+SHA-1: DF5133C6B609522A0D7C4184A221176FA86979EB
+Description: null

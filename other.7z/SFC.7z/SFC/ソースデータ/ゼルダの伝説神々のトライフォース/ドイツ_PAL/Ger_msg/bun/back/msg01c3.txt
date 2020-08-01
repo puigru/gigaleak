@@ -1,0 +1,6 @@
+Name: msg01c3.txt
+Type: file
+Size: 33
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: BA5BA7CE573D32F769D853F2A313C857987767C6
+Description: null

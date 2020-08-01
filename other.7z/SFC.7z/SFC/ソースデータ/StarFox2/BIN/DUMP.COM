@@ -1,0 +1,6 @@
+Name: DUMP.COM
+Type: file
+Size: 10728
+Last-Modified: '1991-02-05T07:07:30Z'
+SHA-1: 3E1C6AA0C913C58BE08BE619F26C054DF8614B02
+Description: null

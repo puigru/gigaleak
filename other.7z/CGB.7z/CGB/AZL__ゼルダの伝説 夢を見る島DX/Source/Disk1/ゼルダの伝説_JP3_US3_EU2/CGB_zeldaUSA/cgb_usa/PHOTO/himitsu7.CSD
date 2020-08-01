@@ -1,0 +1,6 @@
+Name: himitsu7.CSD
+Type: file
+Size: 720
+Last-Modified: '1998-10-03T13:46:24Z'
+SHA-1: 88341BBD7CB8C801A1E277729A7D3FA94D32F9ED
+Description: null

@@ -1,0 +1,6 @@
+Name: Coin.asm
+Type: file
+Size: 13814
+Last-Modified: '1992-07-01T15:00:00Z'
+SHA-1: 2362DD819828AF6AB04CE1656714CE5B29FB5F68
+Description: null

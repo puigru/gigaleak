@@ -1,0 +1,6 @@
+Name: D3_3.ASM
+Type: file
+Size: 52636
+Last-Modified: '1995-08-18T11:55:02Z'
+SHA-1: 8FB4FA32A458E4F639B9156F06016C20C7969CAC
+Description: null

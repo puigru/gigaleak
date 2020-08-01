@@ -1,0 +1,6 @@
+Name: MOVER.MC
+Type: file
+Size: 6864
+Last-Modified: '1994-12-19T11:11:02Z'
+SHA-1: 270D4F2AC6FE3990E8F6F93AF5864A82C322C6AC
+Description: null

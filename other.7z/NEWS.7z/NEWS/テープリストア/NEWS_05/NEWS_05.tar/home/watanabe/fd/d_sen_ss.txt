@@ -1,0 +1,6 @@
+Name: d_sen_ss.txt
+Type: file
+Size: 1886
+Last-Modified: '1995-02-06T02:34:31Z'
+SHA-1: C0E39BB9215B22A0F5008ACB8323C9B30120A5A8
+Description: null

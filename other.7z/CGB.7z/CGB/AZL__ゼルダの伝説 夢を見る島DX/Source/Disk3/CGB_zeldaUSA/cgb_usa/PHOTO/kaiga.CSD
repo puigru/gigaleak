@@ -1,0 +1,6 @@
+Name: kaiga.CSD
+Type: file
+Size: 720
+Last-Modified: '1998-09-28T13:42:30Z'
+SHA-1: 7523AD00F6E0A62F38692F0DBADFB94950634B35
+Description: null

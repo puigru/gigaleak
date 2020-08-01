@@ -1,0 +1,6 @@
+Name: b3.txt
+Type: file
+Size: 155
+Last-Modified: '1994-07-28T03:00:18Z'
+SHA-1: 95F97AE7F64F8847A8CAFF4163FC9F2B8DB43E93
+Description: null

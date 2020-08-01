@@ -1,0 +1,6 @@
+Name: MMATHS.MC
+Type: file
+Size: 9242
+Last-Modified: '1994-11-16T05:38:22Z'
+SHA-1: 780BE5970AB47F76EEBF6B5974FDF7201C6FDE07
+Description: null

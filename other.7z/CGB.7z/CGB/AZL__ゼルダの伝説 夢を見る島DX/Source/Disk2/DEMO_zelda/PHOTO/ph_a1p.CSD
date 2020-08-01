@@ -1,0 +1,6 @@
+Name: ph_a1p.CSD
+Type: file
+Size: 720
+Last-Modified: '1998-10-28T02:14:42Z'
+SHA-1: 67FEFE5EB149B1D67879212D449A4EB28ABB8867
+Description: null

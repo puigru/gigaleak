@@ -1,0 +1,6 @@
+Name: FONTS.H
+Type: file
+Size: 505
+Last-Modified: '1994-05-26T02:38:06Z'
+SHA-1: 02BC7C1519153C6CBCC975A93321FFB72B8B9D78
+Description: null

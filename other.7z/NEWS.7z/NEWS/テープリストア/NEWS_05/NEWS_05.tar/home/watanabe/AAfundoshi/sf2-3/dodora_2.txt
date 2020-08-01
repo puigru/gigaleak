@@ -1,0 +1,6 @@
+Name: dodora_2.txt
+Type: file
+Size: 621
+Last-Modified: '1994-07-28T02:45:35Z'
+SHA-1: 742EC9D45C4A3D63CA9666EC156C2DBD3AC51A79
+Description: null

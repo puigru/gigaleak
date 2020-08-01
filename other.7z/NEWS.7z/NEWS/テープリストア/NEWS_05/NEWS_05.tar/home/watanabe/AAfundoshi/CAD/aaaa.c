@@ -1,0 +1,6 @@
+Name: aaaa.c
+Type: file
+Size: 68683
+Last-Modified: '1994-12-27T00:06:06Z'
+SHA-1: 31EE135F9FC296CFD7A849B6391BC4F41235F0A6
+Description: null

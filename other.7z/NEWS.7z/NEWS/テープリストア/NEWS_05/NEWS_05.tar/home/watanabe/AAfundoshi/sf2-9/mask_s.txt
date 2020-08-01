@@ -1,0 +1,6 @@
+Name: mask_s.txt
+Type: file
+Size: 347
+Last-Modified: '1994-10-19T02:12:31Z'
+SHA-1: F0EDB1A9CE8F9945F4F4B41064577634B5E0A02E
+Description: null

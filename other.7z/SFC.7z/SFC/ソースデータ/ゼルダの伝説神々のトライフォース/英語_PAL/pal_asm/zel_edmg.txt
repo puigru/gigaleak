@@ -1,0 +1,6 @@
+Name: zel_edmg.txt
+Type: file
+Size: 467
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: F3A4744226158D0318E450F076B30DE2C9BE29D7
+Description: null

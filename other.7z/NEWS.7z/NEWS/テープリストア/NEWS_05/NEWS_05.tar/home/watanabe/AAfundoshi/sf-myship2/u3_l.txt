@@ -1,0 +1,6 @@
+Name: u3_l.txt
+Type: file
+Size: 164
+Last-Modified: '1994-07-28T02:52:31Z'
+SHA-1: 10D7956B97529D0D13C67EA25222E0446B8633A9
+Description: null

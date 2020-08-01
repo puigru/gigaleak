@@ -1,0 +1,6 @@
+Name: kichi.txt
+Type: file
+Size: 1521
+Last-Modified: '1995-01-25T00:43:43Z'
+SHA-1: ECC5DD660491A23EA19EE0784A58883784DE5A16
+Description: null

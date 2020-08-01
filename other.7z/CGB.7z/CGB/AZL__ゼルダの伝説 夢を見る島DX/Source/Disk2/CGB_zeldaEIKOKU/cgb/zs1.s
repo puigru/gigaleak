@@ -1,0 +1,6 @@
+Name: zs1.s
+Type: file
+Size: 93191
+Last-Modified: '1998-09-30T11:08:06Z'
+SHA-1: 2C96B5D452B69524DB4F7F698BCBD3B7FCF0D32D
+Description: null

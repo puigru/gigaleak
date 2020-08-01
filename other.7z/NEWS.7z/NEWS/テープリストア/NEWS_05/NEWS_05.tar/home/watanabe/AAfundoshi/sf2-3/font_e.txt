@@ -1,0 +1,6 @@
+Name: font_e.txt
+Type: file
+Size: 202
+Last-Modified: '1994-07-28T02:45:37Z'
+SHA-1: A5164BD70586457676672903C835385B6E263A23
+Description: null

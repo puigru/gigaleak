@@ -1,0 +1,6 @@
+Name: msg04c6.txt
+Type: file
+Size: 868
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: C507C4D06AC252EA886683EEBF24675D971DD86C
+Description: null

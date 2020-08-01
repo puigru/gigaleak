@@ -1,0 +1,6 @@
+Name: msg00b2.txt
+Type: file
+Size: 89
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 75B81C5483E1E99CA7A0C681C2F80D0B6984B152
+Description: null

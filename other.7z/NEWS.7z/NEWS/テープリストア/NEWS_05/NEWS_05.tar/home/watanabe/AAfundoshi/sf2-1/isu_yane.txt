@@ -1,0 +1,6 @@
+Name: isu_yane.txt
+Type: file
+Size: 495
+Last-Modified: '1994-07-28T02:42:00Z'
+SHA-1: E54DBF4D1EF60AF6A3674086B3729DB8777E5D20
+Description: null

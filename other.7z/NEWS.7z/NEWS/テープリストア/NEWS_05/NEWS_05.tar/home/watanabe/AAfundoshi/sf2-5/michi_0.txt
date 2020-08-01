@@ -1,0 +1,6 @@
+Name: michi_0.txt
+Type: file
+Size: 231
+Last-Modified: '1994-07-28T02:50:02Z'
+SHA-1: B3155E46FBD36057D52AECE6630FC15A55588B47
+Description: null

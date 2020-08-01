@@ -1,0 +1,6 @@
+Name: MKVARS.MC
+Type: file
+Size: 1357
+Last-Modified: '1994-10-03T11:33:56Z'
+SHA-1: D3872BAA5DBCB8B04607D829414934B89AD5A702
+Description: null

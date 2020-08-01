@@ -1,0 +1,6 @@
+Name: hasi0_0.txt
+Type: file
+Size: 336
+Last-Modified: '1994-07-28T02:43:45Z'
+SHA-1: 67CF94A9005708A358AF4FAEA91DEFE433826D0B
+Description: null

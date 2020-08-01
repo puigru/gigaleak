@@ -1,0 +1,6 @@
+Name: BGcheck.asm
+Type: file
+Size: 14648
+Last-Modified: '1992-11-18T01:48:21Z'
+SHA-1: 1C1BE340AD79BEFA7F7BE3A25E161C604A42AF97
+Description: null

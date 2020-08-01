@@ -1,0 +1,6 @@
+Name: calc.c
+Type: file
+Size: 4074
+Last-Modified: '1992-11-19T04:55:46Z'
+SHA-1: 19CD8D8DD581877141EA3524F4F3BA3376F9712A
+Description: null

@@ -1,0 +1,6 @@
+Name: house_2.txt
+Type: file
+Size: 1325
+Last-Modified: '1994-07-28T02:47:01Z'
+SHA-1: CC8B558926A43771AC4218AAA9BF4E67C1062414
+Description: null

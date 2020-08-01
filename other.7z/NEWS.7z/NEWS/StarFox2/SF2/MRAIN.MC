@@ -1,0 +1,6 @@
+Name: MRAIN.MC
+Type: file
+Size: 4125
+Last-Modified: '1994-11-29T10:58:32Z'
+SHA-1: 77225FDF70FFE3D3E817F0603E684F80F773BF3E
+Description: null

@@ -1,0 +1,6 @@
+Name: fcmp.c
+Type: file
+Size: 1245
+Last-Modified: '1992-12-03T04:54:06Z'
+SHA-1: 13069B3D146BC6A5A22ADD7177FA3255FB96BCC6
+Description: null

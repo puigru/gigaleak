@@ -1,0 +1,6 @@
+Name: TYPE.ASM
+Type: file
+Size: 621
+Last-Modified: '1994-07-18T05:25:42Z'
+SHA-1: 0E47342E6E0A6C7FFA9FD9FF519B25FCE29A7849
+Description: null

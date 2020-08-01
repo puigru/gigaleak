@@ -1,0 +1,6 @@
+Name: kakashi.txt
+Type: file
+Size: 526
+Last-Modified: '1994-07-28T02:43:49Z'
+SHA-1: 1C739F39F43BA6DDE6FADB17E8ECE1E7ED8E8F2F
+Description: null

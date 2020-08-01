@@ -1,0 +1,6 @@
+Name: GUI-DIAL.C
+Type: file
+Size: 51911
+Last-Modified: '1995-03-27T05:57:52Z'
+SHA-1: EF046E8627BAE30E549025DFAC110101C985EBEB
+Description: null

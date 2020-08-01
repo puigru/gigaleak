@@ -1,0 +1,6 @@
+Name: AreaList.c
+Type: file
+Size: 6359
+Last-Modified: '1994-07-28T02:58:36Z'
+SHA-1: 67E689B794951F71B05AAA57C2AEE5414DF0BA01
+Description: null

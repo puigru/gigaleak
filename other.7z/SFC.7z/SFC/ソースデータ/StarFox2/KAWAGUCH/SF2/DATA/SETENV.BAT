@@ -1,0 +1,6 @@
+Name: SETENV.BAT
+Type: file
+Size: 51
+Last-Modified: '1993-10-15T06:32:06Z'
+SHA-1: 8F69447291AF60AD7DC6296E49E86ACBEE065798
+Description: null

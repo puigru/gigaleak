@@ -1,0 +1,6 @@
+Name: LS.BAT
+Type: file
+Size: 8
+Last-Modified: '1994-06-22T08:21:38Z'
+SHA-1: 8E9DF763B92D337C8FDF54FE329D8A7BA6E9F3EB
+Description: null

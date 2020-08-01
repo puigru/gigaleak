@@ -1,0 +1,6 @@
+Name: msge.txt
+Type: file
+Size: 8152
+Last-Modified: '1998-09-18T02:17:38Z'
+SHA-1: 19F47ECC70A0123E6642B2536A666A0DDA8FDFFF
+Description: null

@@ -1,0 +1,6 @@
+Name: FORP1.TXT
+Type: file
+Size: 648
+Last-Modified: '1995-03-08T05:44:52Z'
+SHA-1: 66FC130B96ACD6A547787EB884E41B7DE1564692
+Description: null

@@ -1,0 +1,6 @@
+Name: BANK6.ASM
+Type: file
+Size: 682
+Last-Modified: '1993-02-15T08:40:38Z'
+SHA-1: C1ACAFA3E86F2C1ACE5B23C2E2CC494079FD4433
+Description: null

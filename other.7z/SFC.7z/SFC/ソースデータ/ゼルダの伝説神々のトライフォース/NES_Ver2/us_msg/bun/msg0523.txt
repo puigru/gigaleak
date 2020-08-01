@@ -1,0 +1,6 @@
+Name: msg0523.txt
+Type: file
+Size: 177
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: 663DDFEBB829C64FC70129AABC526CB7003F876B
+Description: null

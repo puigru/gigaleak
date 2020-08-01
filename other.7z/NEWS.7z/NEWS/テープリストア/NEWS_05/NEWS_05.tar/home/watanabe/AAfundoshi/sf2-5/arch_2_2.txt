@@ -1,0 +1,6 @@
+Name: arch_2_2.txt
+Type: file
+Size: 74
+Last-Modified: '1994-07-28T02:49:48Z'
+SHA-1: 9FE5754E035D7F4DFD3F5C5788F73E755E60774F
+Description: null

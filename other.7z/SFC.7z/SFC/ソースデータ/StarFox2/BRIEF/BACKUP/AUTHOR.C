@@ -1,0 +1,6 @@
+Name: AUTHOR.C
+Type: file
+Size: 13752
+Last-Modified: '1995-01-28T06:15:06Z'
+SHA-1: D84D8A702CFAFA637431B351303803DC340E7206
+Description: null

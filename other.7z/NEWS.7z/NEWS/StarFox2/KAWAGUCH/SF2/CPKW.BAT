@@ -1,0 +1,6 @@
+Name: CPKW.BAT
+Type: file
+Size: 715
+Last-Modified: '1995-06-24T06:54:22Z'
+SHA-1: CF59415CFF32CA53576445779758953459EB1C5B
+Description: null

@@ -1,0 +1,6 @@
+Name: CHKLIST.MS
+Type: file
+Size: 108
+Last-Modified: '1994-08-19T09:48:14Z'
+SHA-1: 674F05B97E30C4B4FDD848F48C5A7CA94E6BFC5B
+Description: null

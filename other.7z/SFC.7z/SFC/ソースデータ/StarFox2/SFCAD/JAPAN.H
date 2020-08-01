@@ -1,0 +1,6 @@
+Name: JAPAN.H
+Type: file
+Size: 2417
+Last-Modified: '1994-11-17T07:12:22Z'
+SHA-1: 8BA0A0EE48916B0FF11067911A98BCDB7DE8DA88
+Description: null

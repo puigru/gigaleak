@@ -1,0 +1,6 @@
+Name: cinp.c
+Type: file
+Size: 6424
+Last-Modified: '1993-10-31T17:07:15Z'
+SHA-1: F6C04BE08854BAD4EFAAB9C3DAE5E70761823276
+Description: null

@@ -1,0 +1,6 @@
+Name: SFC.CC
+Type: file
+Size: 4717
+Last-Modified: '1994-06-01T03:40:40Z'
+SHA-1: 978C88D78A50A460359D2727219002BF0A07528B
+Description: null

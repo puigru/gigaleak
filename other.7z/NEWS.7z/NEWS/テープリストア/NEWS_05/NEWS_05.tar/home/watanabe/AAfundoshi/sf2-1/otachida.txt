@@ -1,0 +1,6 @@
+Name: otachida.txt
+Type: file
+Size: 64
+Last-Modified: '1994-07-28T02:42:06Z'
+SHA-1: 3AAD3C5AA0772A46B8D54237EA6DBC8ADAFE464A
+Description: null

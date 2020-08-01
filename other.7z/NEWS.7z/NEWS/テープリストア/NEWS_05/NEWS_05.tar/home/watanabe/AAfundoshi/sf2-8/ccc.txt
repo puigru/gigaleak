@@ -1,0 +1,6 @@
+Name: ccc.txt
+Type: file
+Size: 628
+Last-Modified: '1995-03-17T08:33:22Z'
+SHA-1: 008538C243668A27338389B8A85441C46E4ADED3
+Description: null

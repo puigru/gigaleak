@@ -1,0 +1,6 @@
+Name: RM.BAT
+Type: file
+Size: 24
+Last-Modified: '1995-03-27T05:43:04Z'
+SHA-1: 7A66FA6BF558F6DB29480F5959FF55846B08E354
+Description: null

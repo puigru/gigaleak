@@ -1,0 +1,6 @@
+Name: Textbugs0712.txt
+Type: file
+Size: 2699
+Last-Modified: '1998-12-08T10:59:18Z'
+SHA-1: 5C33BEC1622E19A7AD6329F7242FB84318A4EDA2
+Description: null

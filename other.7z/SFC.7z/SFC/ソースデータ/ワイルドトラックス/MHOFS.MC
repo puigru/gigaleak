@@ -1,0 +1,6 @@
+Name: MHOFS.MC
+Type: file
+Size: 7512
+Last-Modified: '1993-09-20T12:38:42Z'
+SHA-1: D4D778C62404ABD07CDB831AA8D7656C4BDBC5B8
+Description: null

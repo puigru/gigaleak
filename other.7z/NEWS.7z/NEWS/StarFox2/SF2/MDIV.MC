@@ -1,0 +1,6 @@
+Name: MDIV.MC
+Type: file
+Size: 2811
+Last-Modified: '1994-09-30T01:20:26Z'
+SHA-1: DFA3F142F31A3C415C75CC27CA0305BF8AC58D58
+Description: null

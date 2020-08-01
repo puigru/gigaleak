@@ -1,0 +1,6 @@
+Name: be1_00c.txt
+Type: file
+Size: 580
+Last-Modified: '1994-07-28T03:00:20Z'
+SHA-1: 3C7DEC8B5222C7BA47D9941D00AD41E31B88AF5A
+Description: null

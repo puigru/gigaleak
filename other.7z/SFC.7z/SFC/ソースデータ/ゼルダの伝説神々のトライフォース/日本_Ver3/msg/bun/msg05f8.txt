@@ -1,0 +1,6 @@
+Name: msg05f8.txt
+Type: file
+Size: 57
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: DEC3C76E75B105A976D409789C67E6275A669573
+Description: null

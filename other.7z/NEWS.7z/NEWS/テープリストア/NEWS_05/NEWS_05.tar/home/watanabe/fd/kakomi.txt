@@ -1,0 +1,6 @@
+Name: kakomi.txt
+Type: file
+Size: 209
+Last-Modified: '1995-04-17T07:26:34Z'
+SHA-1: 0A71831DA5D6A4E5F7E13F414E64373987C9DFBC
+Description: null

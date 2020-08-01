@@ -1,0 +1,6 @@
+Name: iwa_3.txt
+Type: file
+Size: 506
+Last-Modified: '1994-07-28T02:43:48Z'
+SHA-1: 409C211D21F6973A0B1BB372AD89B27B715A2575
+Description: null

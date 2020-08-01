@@ -1,0 +1,6 @@
+Name: EVENT.ASM
+Type: file
+Size: 2866
+Last-Modified: '1993-02-08T13:19:12Z'
+SHA-1: E744F9BCD24351CB8ED94873151B321A89130DCA
+Description: null

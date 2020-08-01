@@ -1,0 +1,6 @@
+Name: NAMA.C
+Type: file
+Size: 4741
+Last-Modified: '1995-05-22T10:36:34Z'
+SHA-1: 5295D628083FF1800E5F1B52392BF79F6814CE78
+Description: null

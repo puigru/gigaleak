@@ -1,0 +1,6 @@
+Name: bu_1.txt
+Type: file
+Size: 164
+Last-Modified: '1994-07-28T02:41:53Z'
+SHA-1: 9B9B59BB99AB9792B818638E470D6A0F73040FD7
+Description: null

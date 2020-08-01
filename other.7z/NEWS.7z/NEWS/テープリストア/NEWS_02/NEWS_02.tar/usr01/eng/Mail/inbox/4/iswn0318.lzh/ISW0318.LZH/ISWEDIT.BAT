@@ -1,0 +1,6 @@
+Name: ISWEDIT.BAT
+Type: file
+Size: 95
+Last-Modified: '1993-03-18T10:29:00Z'
+SHA-1: FF07F66597722A97BAF258423DCEBB280E33A32E
+Description: null

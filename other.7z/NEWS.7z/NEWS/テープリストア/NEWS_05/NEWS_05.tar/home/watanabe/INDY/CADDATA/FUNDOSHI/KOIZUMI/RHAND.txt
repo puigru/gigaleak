@@ -1,0 +1,6 @@
+Name: RHAND.txt
+Type: file
+Size: 79
+Last-Modified: '1994-07-28T02:59:52Z'
+SHA-1: EEE457C9FB9989B5B567D4BDC24043F4F8B78FB9
+Description: null

@@ -1,0 +1,6 @@
+Name: souko_0.txt
+Type: file
+Size: 269
+Last-Modified: '1994-07-28T02:50:05Z'
+SHA-1: FAF84EDA6F4E649633DCAB807FB4DEF552A620E5
+Description: null

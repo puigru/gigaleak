@@ -1,0 +1,6 @@
+Name: Color GB French Translation_new.txt
+Type: file
+Size: 18708
+Last-Modified: '1998-12-07T13:16:00Z'
+SHA-1: 961A4FC3122AB18F70C7956D8EC90A009D94624A
+Description: null

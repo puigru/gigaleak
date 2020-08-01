@@ -1,0 +1,6 @@
+Name: msg00cf.txt
+Type: file
+Size: 311
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: A37330E8197BBCF84562C96B3EE187BEE631F1D9
+Description: null

@@ -1,0 +1,6 @@
+Name: PC.BAT
+Type: file
+Size: 627
+Last-Modified: '1993-10-15T06:32:06Z'
+SHA-1: D9A3853415EBCB2B30B144C398789AB890F00DF3
+Description: null

@@ -1,0 +1,6 @@
+Name: abc.txt
+Type: file
+Size: 567
+Last-Modified: '1994-10-28T08:22:07Z'
+SHA-1: 4F67FD4A94FD9B0CF27AC2EE34E5D65862EE41D9
+Description: null

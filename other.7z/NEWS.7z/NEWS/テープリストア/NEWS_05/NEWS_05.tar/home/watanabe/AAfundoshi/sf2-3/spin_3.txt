@@ -1,0 +1,6 @@
+Name: spin_3.txt
+Type: file
+Size: 170
+Last-Modified: '1994-07-28T02:45:53Z'
+SHA-1: C14CC1206A3398D2EA0AEE2BE34F24168DEEC317
+Description: null

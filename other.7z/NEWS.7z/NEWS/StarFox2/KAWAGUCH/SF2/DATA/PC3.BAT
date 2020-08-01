@@ -1,0 +1,6 @@
+Name: PC3.BAT
+Type: file
+Size: 641
+Last-Modified: '1993-10-15T06:32:06Z'
+SHA-1: 52D7B0B3EFDD9D7A2A5874135ECC473EFC5283DC
+Description: null

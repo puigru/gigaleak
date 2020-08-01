@@ -1,0 +1,6 @@
+Name: ninja_0.txt
+Type: file
+Size: 665
+Last-Modified: '1994-07-28T02:33:11Z'
+SHA-1: AE089EA8253F9D3408AFDD0A1E593E5C2B17CCEB
+Description: null

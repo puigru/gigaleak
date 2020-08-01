@@ -1,0 +1,6 @@
+Name: 1-3-T2.ASM
+Type: file
+Size: 4044
+Last-Modified: '1992-12-17T23:21:40Z'
+SHA-1: DF22D0AFD024AC42A1441944EAA003AB77A9B4D0
+Description: null

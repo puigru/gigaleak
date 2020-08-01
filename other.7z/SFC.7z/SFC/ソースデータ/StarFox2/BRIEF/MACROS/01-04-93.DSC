@@ -1,0 +1,6 @@
+Name: 01-04-93.DSC
+Type: file
+Size: 2755
+Last-Modified: '1993-09-07T04:53:28Z'
+SHA-1: 703FFB91E36316B50305FCE92677ED492E2CF927
+Description: null

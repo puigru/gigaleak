@@ -1,0 +1,6 @@
+Name: AUTO.BAT
+Type: file
+Size: 16
+Last-Modified: '1994-04-01T09:57:06Z'
+SHA-1: 5B131E50BDB756DE563206B2DF6B204BFE1B9ED5
+Description: null

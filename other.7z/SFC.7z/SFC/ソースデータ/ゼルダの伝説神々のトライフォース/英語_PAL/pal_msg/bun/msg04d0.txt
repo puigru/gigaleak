@@ -1,0 +1,6 @@
+Name: msg04d0.txt
+Type: file
+Size: 389
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 060F98162865E713299CF02BA7B30FA039A59EA4
+Description: null

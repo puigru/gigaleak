@@ -1,0 +1,6 @@
+Name: Picture.c
+Type: file
+Size: 26339
+Last-Modified: '1994-07-28T02:58:38Z'
+SHA-1: C01752AB3E5AB4B7283418E305FC62275FCDF5D0
+Description: null

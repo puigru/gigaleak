@@ -1,0 +1,6 @@
+Name: E1-1.ASM
+Type: file
+Size: 9093
+Last-Modified: '1992-12-22T16:12:22Z'
+SHA-1: C42F33AEEBECD31A368034D00F92087EA978F059
+Description: null

@@ -1,0 +1,6 @@
+Name: msg00ca.txt
+Type: file
+Size: 233
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 2A3648B46BFC4A76E4CC8EE18A60982A81A481DA
+Description: null

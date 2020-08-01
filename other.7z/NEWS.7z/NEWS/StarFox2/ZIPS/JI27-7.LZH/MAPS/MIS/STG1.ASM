@@ -1,0 +1,6 @@
+Name: STG1.ASM
+Type: file
+Size: 26347
+Last-Modified: '1995-06-30T15:02:32Z'
+SHA-1: EB7FBB6C90505F0D33CAC8050B8D440018DF2F6E
+Description: null

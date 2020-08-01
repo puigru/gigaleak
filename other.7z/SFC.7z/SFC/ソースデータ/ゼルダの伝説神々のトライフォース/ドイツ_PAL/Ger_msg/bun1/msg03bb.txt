@@ -1,0 +1,6 @@
+Name: msg03bb.txt
+Type: file
+Size: 97
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 78AF2FAF901581204AA98C8574EA0D055E54C10A
+Description: null

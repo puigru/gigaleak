@@ -1,0 +1,6 @@
+Name: MTITLE.MC
+Type: file
+Size: 4633
+Last-Modified: '1995-06-30T16:15:20Z'
+SHA-1: E287A0A20727179B6ECC52AC83813F4D5053F7C8
+Description: null

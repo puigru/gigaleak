@@ -1,0 +1,6 @@
+Name: comp.c
+Type: file
+Size: 1487
+Last-Modified: '1993-10-31T17:07:15Z'
+SHA-1: 69CE3B176954145E450AE136DF361A6C20BCBB28
+Description: null

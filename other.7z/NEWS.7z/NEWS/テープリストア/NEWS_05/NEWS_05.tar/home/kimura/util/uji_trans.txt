@@ -1,0 +1,6 @@
+Name: uji_trans.txt
+Type: file
+Size: 1333
+Last-Modified: '1993-05-27T00:24:12Z'
+SHA-1: 9E8BC89F021A91177B4A1290F211D37BD5BF485D
+Description: null

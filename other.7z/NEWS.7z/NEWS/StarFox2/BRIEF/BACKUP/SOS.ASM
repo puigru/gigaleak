@@ -1,0 +1,6 @@
+Name: SOS.ASM
+Type: file
+Size: 31
+Last-Modified: '1994-08-13T07:29:02Z'
+SHA-1: 38ADDF7F56F9C1EA67A1DF93CC7ACED916F3871B
+Description: null

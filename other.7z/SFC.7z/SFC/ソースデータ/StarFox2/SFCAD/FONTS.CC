@@ -1,0 +1,6 @@
+Name: FONTS.CC
+Type: file
+Size: 16646
+Last-Modified: '1994-11-17T07:12:22Z'
+SHA-1: 065A206A5618AC24317D96DDF4AF8610C7C4BE9C
+Description: null

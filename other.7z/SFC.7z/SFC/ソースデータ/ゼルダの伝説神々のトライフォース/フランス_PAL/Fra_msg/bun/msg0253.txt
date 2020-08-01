@@ -1,0 +1,6 @@
+Name: msg0253.txt
+Type: file
+Size: 85
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 860007C22B31CDD0B0CAE51661E2FD2B1F456942
+Description: null

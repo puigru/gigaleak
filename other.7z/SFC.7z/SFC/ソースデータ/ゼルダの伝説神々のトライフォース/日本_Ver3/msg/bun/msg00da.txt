@@ -1,0 +1,6 @@
+Name: msg00da.txt
+Type: file
+Size: 61
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 5BA94351E56EC87113527EC891B29140F6B8B71A
+Description: null

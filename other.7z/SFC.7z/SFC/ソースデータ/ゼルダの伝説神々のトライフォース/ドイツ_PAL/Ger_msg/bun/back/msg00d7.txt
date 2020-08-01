@@ -1,0 +1,6 @@
+Name: msg00d7.txt
+Type: file
+Size: 108
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: C0DDA9A39C4A588AE680689CF1DB1C7552079540
+Description: null

@@ -1,0 +1,6 @@
+Name: GAKKI.ASM
+Type: file
+Size: 1689
+Last-Modified: '1995-06-12T18:58:54Z'
+SHA-1: F6458AD1BA605AEE3C62751E92C86DB1F7D50DCF
+Description: null

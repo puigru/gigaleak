@@ -1,0 +1,6 @@
+Name: zma.s
+Type: file
+Size: 44245
+Last-Modified: '1998-09-01T08:08:06Z'
+SHA-1: 59CE70B3F00019E26C2C3CACCE310670BF2F8F21
+Description: null

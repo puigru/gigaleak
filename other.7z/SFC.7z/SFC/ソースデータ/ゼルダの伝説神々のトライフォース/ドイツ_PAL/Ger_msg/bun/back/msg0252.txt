@@ -1,0 +1,6 @@
+Name: msg0252.txt
+Type: file
+Size: 138
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 103ABDDFCF8ECA07E3E78444788D613297BA6868
+Description: null

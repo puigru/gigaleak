@@ -1,0 +1,6 @@
+Name: sen.txt
+Type: file
+Size: 6057
+Last-Modified: '1995-01-23T10:11:26Z'
+SHA-1: 155132C5524F254679B2AFFC028D0AD3593D1153
+Description: null

@@ -1,0 +1,6 @@
+Name: oka_0.txt
+Type: file
+Size: 156
+Last-Modified: '1994-07-28T02:42:04Z'
+SHA-1: 6FC0032B10BFF2AD997BCAB38422C70A03E8887B
+Description: null

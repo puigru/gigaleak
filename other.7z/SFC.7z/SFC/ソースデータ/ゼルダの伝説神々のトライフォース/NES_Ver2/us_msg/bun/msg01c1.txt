@@ -1,0 +1,6 @@
+Name: msg01c1.txt
+Type: file
+Size: 153
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: BCC3C5E074BA71B8699D5322308E13C1F63E56C4
+Description: null

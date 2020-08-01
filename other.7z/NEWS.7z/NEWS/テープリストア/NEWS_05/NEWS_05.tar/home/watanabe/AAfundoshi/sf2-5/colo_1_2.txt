@@ -1,0 +1,6 @@
+Name: colo_1_2.txt
+Type: file
+Size: 359
+Last-Modified: '1994-07-28T02:49:50Z'
+SHA-1: 1CFF87EED28F7C95B37A9F1040B592E5B338AD6A
+Description: null

@@ -1,0 +1,6 @@
+Name: yama0a.txt
+Type: file
+Size: 3821
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: EE5F546DEFE81237D064CDE1DCCDAF54C17FB464
+Description: null

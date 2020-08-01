@@ -1,0 +1,6 @@
+Name: DRAW.ASM
+Type: file
+Size: 4235
+Last-Modified: '1993-02-15T08:40:38Z'
+SHA-1: 8883D956B4E5660A1DE288E2DD4A1DACAE34AB7F
+Description: null

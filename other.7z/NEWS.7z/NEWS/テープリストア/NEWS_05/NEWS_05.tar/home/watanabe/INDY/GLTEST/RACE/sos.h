@@ -1,0 +1,6 @@
+Name: sos.h
+Type: file
+Size: 4436
+Last-Modified: '1994-07-28T02:59:14Z'
+SHA-1: 02D4A413D6B9CB5D2DDD04ADA599952F36E5C081
+Description: null

@@ -1,0 +1,6 @@
+Name: ike_0.txt
+Type: file
+Size: 1348
+Last-Modified: '1994-07-28T02:47:02Z'
+SHA-1: B921AB589A0714FC195E3A5BCC052A3454CA2336
+Description: null

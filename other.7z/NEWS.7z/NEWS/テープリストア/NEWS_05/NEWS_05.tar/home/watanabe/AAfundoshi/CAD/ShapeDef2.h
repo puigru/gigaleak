@@ -1,0 +1,6 @@
+Name: ShapeDef2.h
+Type: file
+Size: 156
+Last-Modified: '1995-02-24T07:49:03Z'
+SHA-1: 27AE9A1B5AC38F719AA132D9434A2E91EA036FB1
+Description: null

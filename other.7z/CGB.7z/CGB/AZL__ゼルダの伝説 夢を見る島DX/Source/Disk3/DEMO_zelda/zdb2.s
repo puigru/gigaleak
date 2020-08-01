@@ -1,0 +1,6 @@
+Name: zdb2.s
+Type: file
+Size: 140061
+Last-Modified: '1998-10-09T10:34:28Z'
+SHA-1: 3E7948F8A1F63DD8B7C0E106975FD1CA1002AC05
+Description: null

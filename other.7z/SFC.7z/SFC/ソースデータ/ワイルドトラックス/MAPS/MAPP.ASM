@@ -1,0 +1,6 @@
+Name: MAPP.ASM
+Type: file
+Size: 290
+Last-Modified: '1993-07-10T04:42:20Z'
+SHA-1: 18A9B818C6BB234B07FDFC03FD09D38399FA0EB8
+Description: null

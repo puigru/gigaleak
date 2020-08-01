@@ -1,0 +1,6 @@
+Name: COMPILE.C
+Type: file
+Size: 8998
+Last-Modified: '1994-12-09T05:14:42Z'
+SHA-1: 111D90074CCBD609F84BF583DDFB592F9A4FB000
+Description: null

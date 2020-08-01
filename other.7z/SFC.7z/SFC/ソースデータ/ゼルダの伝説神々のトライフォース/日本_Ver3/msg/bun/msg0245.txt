@@ -1,0 +1,6 @@
+Name: msg0245.txt
+Type: file
+Size: 149
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 4B8E003F7FA6C6E69B9458C388D49B6262573CC0
+Description: null

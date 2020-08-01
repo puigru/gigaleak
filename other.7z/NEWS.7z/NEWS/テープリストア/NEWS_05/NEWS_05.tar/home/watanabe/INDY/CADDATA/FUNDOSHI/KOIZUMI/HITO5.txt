@@ -1,0 +1,6 @@
+Name: HITO5.txt
+Type: file
+Size: 984
+Last-Modified: '1994-07-28T02:59:42Z'
+SHA-1: 82790845E7AF3040406C25BBECFC0D85412C4BCB
+Description: null

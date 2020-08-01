@@ -1,0 +1,6 @@
+Name: 3-4-T.ASM
+Type: file
+Size: 3082
+Last-Modified: '1992-12-17T10:50:28Z'
+SHA-1: B0053E2A24FE1CC3661390A9C7A380DA2EADDA48
+Description: null

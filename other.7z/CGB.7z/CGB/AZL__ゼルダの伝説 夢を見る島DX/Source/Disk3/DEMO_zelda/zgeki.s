@@ -1,0 +1,6 @@
+Name: zgeki.s
+Type: file
+Size: 70714
+Last-Modified: '1998-11-06T11:45:20Z'
+SHA-1: 89BA9F1251DF57D874FE5B5E94BCC28C58FAE716
+Description: null

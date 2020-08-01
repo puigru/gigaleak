@@ -1,0 +1,6 @@
+Name: font_a.txt
+Type: file
+Size: 169
+Last-Modified: '1994-07-28T02:45:37Z'
+SHA-1: 64524F512EA27629DEA1414E9DDC489307B5E043
+Description: null

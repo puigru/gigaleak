@@ -1,0 +1,6 @@
+Name: font_u.txt
+Type: file
+Size: 151
+Last-Modified: '1994-07-28T02:45:38Z'
+SHA-1: 97E3C5A21BEEAB02C397384B769355A54DE19E9C
+Description: null

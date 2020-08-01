@@ -1,0 +1,6 @@
+Name: BATTER.txt
+Type: file
+Size: 1460
+Last-Modified: '1994-07-28T02:59:37Z'
+SHA-1: 7B6E43315EBF13265368DA6CB25CD46B5CA898C5
+Description: null

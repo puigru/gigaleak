@@ -1,0 +1,6 @@
+Name: ZCPS.BAT
+Type: file
+Size: 1524
+Last-Modified: '1993-06-28T00:31:40Z'
+SHA-1: 3759032D651DEADA7AAFD88CCD8013798C3FCC73
+Description: null

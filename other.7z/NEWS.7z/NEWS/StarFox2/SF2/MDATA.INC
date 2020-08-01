@@ -1,0 +1,6 @@
+Name: MDATA.INC
+Type: file
+Size: 2260
+Last-Modified: '1993-10-15T06:30:30Z'
+SHA-1: 95AE28F1869E44493C2F6086A482CF02ABEA3229
+Description: null

@@ -1,0 +1,6 @@
+Name: DISK.BAT
+Type: file
+Size: 1027
+Last-Modified: '1994-08-16T07:23:00Z'
+SHA-1: 985277AD2F4B46D5EDB06739E933822F44A44A69
+Description: null

@@ -1,0 +1,6 @@
+Name: kabe_0.txt
+Type: file
+Size: 765
+Last-Modified: '1994-07-28T02:47:03Z'
+SHA-1: 2DEA339EC7B454506B9A3286595BA02A9120CD21
+Description: null

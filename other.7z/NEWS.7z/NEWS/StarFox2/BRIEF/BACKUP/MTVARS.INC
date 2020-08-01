@@ -1,0 +1,6 @@
+Name: MTVARS.INC
+Type: file
+Size: 896
+Last-Modified: '1994-07-27T11:24:16Z'
+SHA-1: 2BC4A0634789E7D1FB19F3057662F83C382498BA
+Description: null

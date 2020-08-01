@@ -1,0 +1,6 @@
+Name: msg0086.txt
+Type: file
+Size: 48
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 34E50EF78CB3AAF9726441357FB36077ABE2B8F9
+Description: null

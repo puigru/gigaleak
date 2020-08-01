@@ -1,0 +1,6 @@
+Name: rex.txt
+Type: file
+Size: 4189
+Last-Modified: '1994-07-28T02:45:50Z'
+SHA-1: 81EA5E3AFCCC836D949A9A42FD6F0EC4F5A78B79
+Description: null

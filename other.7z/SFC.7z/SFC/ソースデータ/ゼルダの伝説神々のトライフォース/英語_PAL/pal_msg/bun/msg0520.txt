@@ -1,0 +1,6 @@
+Name: msg0520.txt
+Type: file
+Size: 113
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 16620C7BEFC314093EDA962D26BB0632350203FA
+Description: null

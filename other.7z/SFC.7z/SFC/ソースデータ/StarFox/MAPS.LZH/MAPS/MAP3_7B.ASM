@@ -1,0 +1,6 @@
+Name: MAP3_7B.ASM
+Type: file
+Size: 12
+Last-Modified: '1992-12-16T03:48:00Z'
+SHA-1: B4875B0406FAF5D16B69C157D4876A5AEA2E2063
+Description: null

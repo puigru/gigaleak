@@ -1,0 +1,6 @@
+Name: ando1.txt
+Type: file
+Size: 1997
+Last-Modified: '1994-10-12T12:25:08Z'
+SHA-1: D61DA4691471421391B714DE76DD761E14DE28EE
+Description: null

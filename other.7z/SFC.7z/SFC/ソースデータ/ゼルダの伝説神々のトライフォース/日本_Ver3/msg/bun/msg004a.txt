@@ -1,0 +1,6 @@
+Name: msg004a.txt
+Type: file
+Size: 109
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 7B0EB5EC2301820A24C68AFD631A3C573527F56C
+Description: null

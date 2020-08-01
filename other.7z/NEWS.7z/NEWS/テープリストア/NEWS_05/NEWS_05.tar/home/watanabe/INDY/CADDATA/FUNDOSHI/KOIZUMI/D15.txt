@@ -1,0 +1,6 @@
+Name: D15.txt
+Type: file
+Size: 29
+Last-Modified: '1994-07-28T02:59:38Z'
+SHA-1: 63CD9BCDDCEF5A1D6D06416DA260A63EAD26A8D4
+Description: null

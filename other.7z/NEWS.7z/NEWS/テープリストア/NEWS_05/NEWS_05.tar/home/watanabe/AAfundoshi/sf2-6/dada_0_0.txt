@@ -1,0 +1,6 @@
+Name: dada_0_0.txt
+Type: file
+Size: 758
+Last-Modified: '1994-07-28T02:33:11Z'
+SHA-1: 6DC188B2C8B4DEC106C57217321FE917488EAAA3
+Description: null

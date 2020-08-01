@@ -1,0 +1,6 @@
+Name: msg0442.txt
+Type: file
+Size: 42
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 9F765F0D8D0A0D3A33B9509038F8CB43AF65B0E3
+Description: null

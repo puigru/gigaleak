@@ -1,0 +1,6 @@
+Name: MAP1_3A.ASM
+Type: file
+Size: 1326
+Last-Modified: '1992-11-24T15:15:04Z'
+SHA-1: FCA24B9937BA540BE7516E3688D5424CE80A186F
+Description: null

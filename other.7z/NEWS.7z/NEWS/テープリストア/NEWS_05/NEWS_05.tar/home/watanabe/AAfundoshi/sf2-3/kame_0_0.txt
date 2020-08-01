@@ -1,0 +1,6 @@
+Name: kame_0_0.txt
+Type: file
+Size: 428
+Last-Modified: '1994-07-28T02:45:44Z'
+SHA-1: B3234BBE2196513ADE9BF56B539084141B3C3D31
+Description: null

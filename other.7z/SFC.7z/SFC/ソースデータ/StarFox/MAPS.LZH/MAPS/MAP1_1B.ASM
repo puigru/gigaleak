@@ -1,0 +1,6 @@
+Name: MAP1_1B.ASM
+Type: file
+Size: 7493
+Last-Modified: '1993-02-05T08:52:48Z'
+SHA-1: 3FCF075055FDB5D6167301D583BC0A50447FAECE
+Description: null

@@ -1,0 +1,6 @@
+Name: D3.txt
+Type: file
+Size: 86
+Last-Modified: '1994-07-28T02:59:39Z'
+SHA-1: 43F52A033CA16EA1858401DD3F6777E16C9CFEF9
+Description: null

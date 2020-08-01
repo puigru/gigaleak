@@ -1,0 +1,6 @@
+Name: msg0500.txt
+Type: file
+Size: 815
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 64DD171FD97952B95E3A8AEAE1538F5374D9C4C3
+Description: null

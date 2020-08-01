@@ -1,0 +1,6 @@
+Name: sen_2.txt
+Type: file
+Size: 3972
+Last-Modified: '1995-01-23T08:19:23Z'
+SHA-1: 01A7DB6BFD306890B6E6BE70A7DD2351E3AB94F7
+Description: null

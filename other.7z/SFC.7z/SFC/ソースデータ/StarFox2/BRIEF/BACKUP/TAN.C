@@ -1,0 +1,6 @@
+Name: TAN.C
+Type: file
+Size: 519
+Last-Modified: '1994-07-18T05:04:30Z'
+SHA-1: E2DB6DA0F8611BAB8E49A22CE99644B48D17BD58
+Description: null

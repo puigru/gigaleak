@@ -1,0 +1,6 @@
+Name: main3D.c
+Type: file
+Size: 4196
+Last-Modified: '1994-07-28T02:58:35Z'
+SHA-1: E156B5ADFE76F2916F9067F7C54A9706F38131C1
+Description: null

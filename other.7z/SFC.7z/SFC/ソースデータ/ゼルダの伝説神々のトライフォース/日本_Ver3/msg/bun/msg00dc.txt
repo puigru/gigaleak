@@ -1,0 +1,6 @@
+Name: msg00dc.txt
+Type: file
+Size: 111
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 31435783EDE9F4E6F680B92A1DFC8D2BC02E4255
+Description: null

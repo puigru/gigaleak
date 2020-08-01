@@ -1,0 +1,6 @@
+Name: VI.TXT
+Type: file
+Size: 12834
+Last-Modified: '1993-09-07T04:52:34Z'
+SHA-1: B9104C0CE18D72E8DA719CD32E496CF357C716E8
+Description: null

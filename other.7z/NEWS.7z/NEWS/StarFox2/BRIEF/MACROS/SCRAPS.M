@@ -1,0 +1,6 @@
+Name: SCRAPS.M
+Type: file
+Size: 19464
+Last-Modified: '1993-09-07T04:52:52Z'
+SHA-1: 79C3E85554BB01C470D83957865B7842D1A00B9A
+Description: null

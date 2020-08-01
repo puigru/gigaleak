@@ -1,0 +1,6 @@
+Name: msg04d2.txt
+Type: file
+Size: 107
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: B84CDE921E392DD52309EFCBA65EF6BC1F7580F4
+Description: null

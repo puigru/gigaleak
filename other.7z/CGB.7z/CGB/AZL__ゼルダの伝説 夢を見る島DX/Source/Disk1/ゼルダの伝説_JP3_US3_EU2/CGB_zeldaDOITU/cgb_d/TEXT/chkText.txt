@@ -1,0 +1,6 @@
+Name: chkText.txt
+Type: file
+Size: 584
+Last-Modified: '1998-11-24T06:55:02Z'
+SHA-1: 0796F2FF3A9202F949E88FD0043A92D3D97B7306
+Description: null

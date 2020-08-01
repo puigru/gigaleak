@@ -1,0 +1,6 @@
+Name: GAL3.BAT
+Type: file
+Size: 444
+Last-Modified: '1998-04-03T07:22:50Z'
+SHA-1: 20DB1A68CEEA09D6AE16E17EB40CCAFAA6C4EF77
+Description: null

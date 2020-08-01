@@ -1,0 +1,6 @@
+Name: MHUD.MC
+Type: file
+Size: 8531
+Last-Modified: '1994-10-06T11:48:24Z'
+SHA-1: F939AB5AE7FC6E0E1F985F505B2B2E44D36F2734
+Description: null

@@ -1,0 +1,6 @@
+Name: 新規ﾃｷｽﾄ.txt
+Type: file
+Size: 19447
+Last-Modified: '1998-10-01T14:30:08Z'
+SHA-1: 10ECE622AFE0D8340163AB4E84ADA90565F90D47
+Description: null

@@ -1,0 +1,6 @@
+Name: msg0392.txt
+Type: file
+Size: 87
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 787F76E4FEDCE566C1BF0495EB733BC2FD578C48
+Description: null

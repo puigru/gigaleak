@@ -1,0 +1,6 @@
+Name: ss2.txt
+Type: file
+Size: 508
+Last-Modified: '1994-07-28T03:00:04Z'
+SHA-1: 54B158FA43A32B4F7AF5D84AC8F97D3CB03FE071
+Description: null

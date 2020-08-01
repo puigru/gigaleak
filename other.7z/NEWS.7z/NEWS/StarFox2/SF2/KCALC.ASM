@@ -1,0 +1,6 @@
+Name: KCALC.ASM
+Type: file
+Size: 1350
+Last-Modified: '1995-06-16T06:20:44Z'
+SHA-1: 1A42E3A761621A10902B8B4F8DC4F5CD113CB121
+Description: null

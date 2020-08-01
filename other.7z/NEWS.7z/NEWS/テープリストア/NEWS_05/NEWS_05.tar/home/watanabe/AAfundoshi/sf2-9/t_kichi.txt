@@ -1,0 +1,6 @@
+Name: t_kichi.txt
+Type: file
+Size: 919
+Last-Modified: '1994-10-01T09:34:05Z'
+SHA-1: DF8DA63D800D2082D5766266F04AEDD3BE334522
+Description: null

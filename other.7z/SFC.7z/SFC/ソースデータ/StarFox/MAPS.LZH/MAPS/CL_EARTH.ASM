@@ -1,0 +1,6 @@
+Name: CL_EARTH.ASM
+Type: file
+Size: 899
+Last-Modified: '1992-12-17T20:04:14Z'
+SHA-1: BC4D729D4837E2C29EB6010131374C4A2B5E829A
+Description: null

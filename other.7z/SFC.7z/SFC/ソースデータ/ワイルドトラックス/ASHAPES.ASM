@@ -1,0 +1,6 @@
+Name: ASHAPES.ASM
+Type: file
+Size: 3
+Last-Modified: '1993-09-20T12:38:42Z'
+SHA-1: 9E9069D76F97F0C705C355F1EE3969ECFB60F4D1
+Description: null

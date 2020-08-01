@@ -1,0 +1,6 @@
+Name: mimizu.txt
+Type: file
+Size: 517
+Last-Modified: '1994-07-28T02:42:01Z'
+SHA-1: BC3E2F3871062217BFF67E055B780AFC1465E222
+Description: null

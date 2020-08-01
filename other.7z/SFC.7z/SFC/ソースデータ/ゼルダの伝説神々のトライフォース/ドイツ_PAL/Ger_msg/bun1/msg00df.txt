@@ -1,0 +1,6 @@
+Name: msg00df.txt
+Type: file
+Size: 162
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 3DB6C3B2570B95166E2C585DC8885C017D421BA2
+Description: null

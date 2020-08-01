@@ -1,0 +1,6 @@
+Name: hangar.txt
+Type: file
+Size: 298
+Last-Modified: '1994-07-28T03:00:22Z'
+SHA-1: FB195748806194C2930059B3ED9704043CFBDE4D
+Description: null

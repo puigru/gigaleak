@@ -1,0 +1,6 @@
+Name: msg0082.txt
+Type: file
+Size: 68
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 7E9AD8EB7E1407AD5B4A3DD8A57ED0C0EFE86894
+Description: null

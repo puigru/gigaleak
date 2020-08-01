@@ -1,0 +1,6 @@
+Name: base_0_2.txt
+Type: file
+Size: 829
+Last-Modified: '1994-07-28T02:49:48Z'
+SHA-1: 226C4C4CA6435CA3CA84BFF7D3578B53A1B6ED81
+Description: null

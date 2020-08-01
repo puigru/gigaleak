@@ -1,0 +1,6 @@
+Name: zgb.s
+Type: file
+Size: 2062
+Last-Modified: '1998-11-09T01:40:30Z'
+SHA-1: AE451F3D6C2E9602F5910337E58CF2016679392A
+Description: null

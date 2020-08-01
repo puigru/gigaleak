@@ -1,0 +1,6 @@
+Name: spin_0.txt
+Type: file
+Size: 386
+Last-Modified: '1994-07-28T02:45:52Z'
+SHA-1: DA16B480F1A9DDEBD3D75592C70252E457AD1AE8
+Description: null

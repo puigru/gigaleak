@@ -1,0 +1,6 @@
+Name: ddd.txt
+Type: file
+Size: 841
+Last-Modified: '1995-03-20T01:01:39Z'
+SHA-1: 2B7CB47D90BA15A047F1063B80DC37C83C7E319B
+Description: null

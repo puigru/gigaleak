@@ -1,0 +1,6 @@
+Name: CRLF.BAT
+Type: file
+Size: 36
+Last-Modified: '1994-02-22T05:03:50Z'
+SHA-1: D25523251FA11C6BFC2006C539C34AD7BB6EA559
+Description: null

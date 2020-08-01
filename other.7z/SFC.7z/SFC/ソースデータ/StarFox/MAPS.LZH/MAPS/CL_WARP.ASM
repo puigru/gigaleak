@@ -1,0 +1,6 @@
+Name: CL_WARP.ASM
+Type: file
+Size: 937
+Last-Modified: '1992-12-10T23:51:36Z'
+SHA-1: 39CFDB096DC5ACEAD3C05F8456C781526B5E7A3C
+Description: null

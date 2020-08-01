@@ -1,0 +1,6 @@
+Name: c_ufo_bo.txt
+Type: file
+Size: 266
+Last-Modified: '1994-07-28T02:52:10Z'
+SHA-1: C39F804DFE893C7B9AEAA69416FADE2F694A6403
+Description: null

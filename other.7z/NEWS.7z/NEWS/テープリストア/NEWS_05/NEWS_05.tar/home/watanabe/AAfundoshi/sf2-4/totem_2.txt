@@ -1,0 +1,6 @@
+Name: totem_2.txt
+Type: file
+Size: 900
+Last-Modified: '1994-07-28T02:47:19Z'
+SHA-1: 257AC1EE85B292829B320DE72E0DF7F1E9559777
+Description: null

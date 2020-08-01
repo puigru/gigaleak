@@ -1,0 +1,6 @@
+Name: TEST2.txt
+Type: file
+Size: 1642
+Last-Modified: '1994-07-28T02:59:54Z'
+SHA-1: 29736D954DC8B811938010A2C647D07B96997442
+Description: null

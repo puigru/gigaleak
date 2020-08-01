@@ -1,0 +1,6 @@
+Name: way_1.txt
+Type: file
+Size: 483
+Last-Modified: '1994-07-28T02:50:09Z'
+SHA-1: 5154EC9F2B5F2948A3347631E5D5D139E3FB1F96
+Description: null

@@ -1,0 +1,6 @@
+Name: ISPK-7F.asm
+Type: file
+Size: 7126
+Last-Modified: '1992-11-18T01:48:28Z'
+SHA-1: 400651203ED6A799C714653A1813CC19EBAF8039
+Description: null

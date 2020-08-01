@@ -1,0 +1,6 @@
+Name: tou_0.txt
+Type: file
+Size: 809
+Last-Modified: '1994-07-28T02:44:05Z'
+SHA-1: 3709879D11F0F87ED4A7E65C7FCEE4381223D166
+Description: null

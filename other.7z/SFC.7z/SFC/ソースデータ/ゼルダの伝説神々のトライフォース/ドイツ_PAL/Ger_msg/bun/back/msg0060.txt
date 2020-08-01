@@ -1,0 +1,6 @@
+Name: msg0060.txt
+Type: file
+Size: 91
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 2EEEDF921CCD8B3C3DE4E1B7C6FEB70A0D08756B
+Description: null

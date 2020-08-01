@@ -1,0 +1,6 @@
+Name: zwin.s
+Type: file
+Size: 36797
+Last-Modified: '1998-08-27T07:03:14Z'
+SHA-1: 2A2640F69B7664AC5C663DD89679F956A27D34C9
+Description: null

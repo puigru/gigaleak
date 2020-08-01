@@ -1,0 +1,6 @@
+Name: gbmsdt.s
+Type: file
+Size: 172652
+Last-Modified: '1998-12-11T10:06:12Z'
+SHA-1: 85F1D1EC97FD20C869D34BB234FCF0296355C226
+Description: null

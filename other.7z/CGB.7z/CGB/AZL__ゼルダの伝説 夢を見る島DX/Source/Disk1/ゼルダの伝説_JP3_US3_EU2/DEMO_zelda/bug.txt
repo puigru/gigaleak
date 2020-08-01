@@ -1,0 +1,6 @@
+Name: bug.txt
+Type: file
+Size: 10358
+Last-Modified: '1998-10-15T11:24:56Z'
+SHA-1: 3796F517BDBABB6E127880F4F886C8134E8BE60D
+Description: null

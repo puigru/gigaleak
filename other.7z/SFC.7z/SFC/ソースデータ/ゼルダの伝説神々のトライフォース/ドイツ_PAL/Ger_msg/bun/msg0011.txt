@@ -1,0 +1,6 @@
+Name: msg0011.txt
+Type: file
+Size: 601
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: B3D64529C0450ADDDD2E16F542BD6D0FB5AFF0ED
+Description: null

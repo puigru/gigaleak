@@ -1,0 +1,6 @@
+Name: DIALOG.H
+Type: file
+Size: 2215
+Last-Modified: '1993-09-07T04:51:20Z'
+SHA-1: 01A30427B2EB7197ECE2807D9188CA5250AA0DF5
+Description: null

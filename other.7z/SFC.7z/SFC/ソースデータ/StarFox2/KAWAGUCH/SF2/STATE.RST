@@ -1,0 +1,6 @@
+Name: STATE.RST
+Type: file
+Size: 263
+Last-Modified: '1995-03-20T12:40:12Z'
+SHA-1: A8C7EE023A7FB8B5A338FE45019D13D62B7E9C66
+Description: null

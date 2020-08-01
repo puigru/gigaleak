@@ -1,0 +1,6 @@
+Name: CMP.C
+Type: file
+Size: 4039
+Last-Modified: '1994-07-14T11:27:34Z'
+SHA-1: D63B326454DF5B40B75803814048184279DFBCF3
+Description: null

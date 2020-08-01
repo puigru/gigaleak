@@ -1,0 +1,6 @@
+Name: Meter.c
+Type: file
+Size: 671
+Last-Modified: '1994-07-28T02:58:38Z'
+SHA-1: 67CB95A205B81EEC8F08A263B57B73D383519F39
+Description: null

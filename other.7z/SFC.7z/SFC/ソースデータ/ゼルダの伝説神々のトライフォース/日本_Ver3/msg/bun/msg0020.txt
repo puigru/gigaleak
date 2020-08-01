@@ -1,0 +1,6 @@
+Name: msg0020.txt
+Type: file
+Size: 97
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: F356B316D7981B91338DE9031FBA3AA9536289C1
+Description: null

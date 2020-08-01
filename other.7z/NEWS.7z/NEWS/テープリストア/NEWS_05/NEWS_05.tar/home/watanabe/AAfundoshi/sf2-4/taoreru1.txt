@@ -1,0 +1,6 @@
+Name: taoreru1.txt
+Type: file
+Size: 1465
+Last-Modified: '1994-07-28T02:47:19Z'
+SHA-1: DA523D82295A1CEB4CE57415B33CAF9F0D3338EF
+Description: null

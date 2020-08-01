@@ -1,0 +1,6 @@
+Name: a_robo.txt
+Type: file
+Size: 251
+Last-Modified: '1994-07-28T02:51:54Z'
+SHA-1: CD820B4F63429EE7FFD9C84349D168BEB292842D
+Description: null

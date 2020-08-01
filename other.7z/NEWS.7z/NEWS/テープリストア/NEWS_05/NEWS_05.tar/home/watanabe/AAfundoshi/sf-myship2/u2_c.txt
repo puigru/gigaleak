@@ -1,0 +1,6 @@
+Name: u2_c.txt
+Type: file
+Size: 161
+Last-Modified: '1994-07-28T02:52:30Z'
+SHA-1: BC0AA5A29C62775AFC70D088495D9DD0E11462F0
+Description: null

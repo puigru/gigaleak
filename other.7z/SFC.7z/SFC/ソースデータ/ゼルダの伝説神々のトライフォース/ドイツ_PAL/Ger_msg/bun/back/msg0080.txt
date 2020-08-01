@@ -1,0 +1,6 @@
+Name: msg0080.txt
+Type: file
+Size: 134
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 77021030385E7F8A6C50E4C27EC8D337D02E833D
+Description: null

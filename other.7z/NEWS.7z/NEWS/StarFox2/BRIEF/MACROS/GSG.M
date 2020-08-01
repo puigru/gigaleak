@@ -1,0 +1,6 @@
+Name: GSG.M
+Type: file
+Size: 1297
+Last-Modified: '1993-09-07T04:51:10Z'
+SHA-1: 957D695A7B98BEC90EC2433EF36073D9115A277A
+Description: null

@@ -1,0 +1,6 @@
+Name: tsu_hou.txt
+Type: file
+Size: 339
+Last-Modified: '1994-07-28T02:50:07Z'
+SHA-1: 8B156C291F76ED066425A925B4CC743EE2BF6C07
+Description: null

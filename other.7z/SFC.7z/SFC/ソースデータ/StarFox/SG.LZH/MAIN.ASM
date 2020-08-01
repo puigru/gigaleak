@@ -1,0 +1,6 @@
+Name: MAIN.ASM
+Type: file
+Size: 39968
+Last-Modified: '1993-02-15T08:40:36Z'
+SHA-1: C619BF1B4E376BFDC695446B194CD94CE19EECDE
+Description: null

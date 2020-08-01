@@ -1,0 +1,6 @@
+Name: MAP2_5.ASM
+Type: file
+Size: 6144
+Last-Modified: '1992-12-20T16:15:42Z'
+SHA-1: F718CE4D212D115D8F7E5A485D0F028F3448A846
+Description: null

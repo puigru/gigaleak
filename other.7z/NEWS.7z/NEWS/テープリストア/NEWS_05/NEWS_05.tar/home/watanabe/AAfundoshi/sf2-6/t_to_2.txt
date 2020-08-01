@@ -1,0 +1,6 @@
+Name: t_to_2.txt
+Type: file
+Size: 1036
+Last-Modified: '1994-07-28T02:33:12Z'
+SHA-1: 7D849367AA40C358B7CB5C572D2988537DB5C659
+Description: null

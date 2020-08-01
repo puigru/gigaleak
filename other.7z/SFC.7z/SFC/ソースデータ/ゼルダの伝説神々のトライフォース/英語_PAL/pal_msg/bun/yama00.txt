@@ -1,0 +1,6 @@
+Name: yama00.txt
+Type: file
+Size: 3927
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 8B35AA47AFBC7B123FFC3A478590AAA083E99643
+Description: null

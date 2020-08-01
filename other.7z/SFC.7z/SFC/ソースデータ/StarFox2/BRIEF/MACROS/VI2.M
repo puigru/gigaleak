@@ -1,0 +1,6 @@
+Name: VI2.M
+Type: file
+Size: 21756
+Last-Modified: '1993-09-07T04:53:00Z'
+SHA-1: 1A972306B7ABE6715E5DF1C081F9C68A469529F3
+Description: null

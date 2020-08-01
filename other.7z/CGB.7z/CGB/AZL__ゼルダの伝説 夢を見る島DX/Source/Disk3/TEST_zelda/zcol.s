@@ -1,0 +1,6 @@
+Name: zcol.s
+Type: file
+Size: 88789
+Last-Modified: '1998-09-01T10:58:24Z'
+SHA-1: 676E05FDE4400519A1225697B55E750EFFFD343A
+Description: null

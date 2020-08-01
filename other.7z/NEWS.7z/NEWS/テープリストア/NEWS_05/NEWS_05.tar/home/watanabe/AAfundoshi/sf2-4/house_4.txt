@@ -1,0 +1,6 @@
+Name: house_4.txt
+Type: file
+Size: 142
+Last-Modified: '1994-07-28T02:47:01Z'
+SHA-1: 08CBE3B060A41484B6727FA07C0A4A75B6F12EE6
+Description: null

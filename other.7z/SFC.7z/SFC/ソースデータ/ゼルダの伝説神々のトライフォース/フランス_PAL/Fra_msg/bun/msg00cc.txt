@@ -1,0 +1,6 @@
+Name: msg00cc.txt
+Type: file
+Size: 101
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 8068ACD8DFDFD123A1E3D6A0E07CAA32F08D9892
+Description: null

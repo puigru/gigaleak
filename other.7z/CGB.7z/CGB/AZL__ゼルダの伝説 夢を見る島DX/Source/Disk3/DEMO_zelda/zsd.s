@@ -1,0 +1,6 @@
+Name: zsd.s
+Type: file
+Size: 1494
+Last-Modified: '1998-06-18T04:20:08Z'
+SHA-1: E36A36A616B8F07E22DE4783AF77392FFACB3016
+Description: null

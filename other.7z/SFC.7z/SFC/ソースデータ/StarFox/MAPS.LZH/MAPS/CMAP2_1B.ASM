@@ -1,0 +1,6 @@
+Name: CMAP2_1B.ASM
+Type: file
+Size: 265
+Last-Modified: '1992-12-22T16:38:16Z'
+SHA-1: 83AF7F0463738789EBECDB4E787C982E2D6B2373
+Description: null

@@ -1,0 +1,6 @@
+Name: yajiro_1.txt
+Type: file
+Size: 285
+Last-Modified: '1994-07-28T02:44:06Z'
+SHA-1: B8977B406A39238476A3AC54F975B289B54E574E
+Description: null

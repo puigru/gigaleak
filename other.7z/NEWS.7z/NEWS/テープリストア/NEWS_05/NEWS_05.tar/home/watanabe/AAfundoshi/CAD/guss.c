@@ -1,0 +1,6 @@
+Name: guss.c
+Type: file
+Size: 4943
+Last-Modified: '1995-04-14T01:24:44Z'
+SHA-1: 993EE0F7BABCCC7D910A6898B241924EA75D7F5D
+Description: null

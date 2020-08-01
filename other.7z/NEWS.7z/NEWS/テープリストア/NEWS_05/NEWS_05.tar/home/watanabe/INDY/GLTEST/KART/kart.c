@@ -1,0 +1,6 @@
+Name: kart.c
+Type: file
+Size: 1951
+Last-Modified: '1994-07-28T02:59:35Z'
+SHA-1: 385E4BD9D0B878A3FA831EB8DBD3D4BF29314769
+Description: null

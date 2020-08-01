@@ -1,0 +1,6 @@
+Name: PWD.BAT
+Type: file
+Size: 6
+Last-Modified: '1994-06-22T08:23:56Z'
+SHA-1: 33B848D9D6B03C87AD5695B90578AEDF0E80FE6F
+Description: null

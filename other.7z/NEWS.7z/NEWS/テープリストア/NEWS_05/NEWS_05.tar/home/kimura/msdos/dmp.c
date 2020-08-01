@@ -1,0 +1,6 @@
+Name: dmp.c
+Type: file
+Size: 1374
+Last-Modified: '1992-12-03T04:54:05Z'
+SHA-1: 616D3E0BE91EAA5604048CF80615384F9C684CA9
+Description: null

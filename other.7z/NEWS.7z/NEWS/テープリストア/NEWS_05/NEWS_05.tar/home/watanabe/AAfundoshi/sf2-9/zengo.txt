@@ -1,0 +1,6 @@
+Name: zengo.txt
+Type: file
+Size: 633
+Last-Modified: '1994-11-07T12:26:59Z'
+SHA-1: 0ACF4AEAEB15AEFEA70DD5AF5D7EB347CB2FA0CA
+Description: null

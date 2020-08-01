@@ -1,0 +1,6 @@
+Name: MWROT.MC
+Type: file
+Size: 1008
+Last-Modified: '1994-02-15T05:15:52Z'
+SHA-1: 32086733351BF4E08EC21DFA13DE0C063118371D
+Description: null

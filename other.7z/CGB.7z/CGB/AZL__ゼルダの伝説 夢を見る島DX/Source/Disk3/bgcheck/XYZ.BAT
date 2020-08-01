@@ -1,0 +1,6 @@
+Name: XYZ.BAT
+Type: file
+Size: 125
+Last-Modified: '1998-07-08T08:35:04Z'
+SHA-1: 92F22AF38883C8BD73B829AE0A99FEBFF3D9F34C
+Description: null

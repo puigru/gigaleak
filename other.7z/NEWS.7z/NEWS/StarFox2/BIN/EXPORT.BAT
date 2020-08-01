@@ -1,0 +1,6 @@
+Name: EXPORT.BAT
+Type: file
+Size: 178
+Last-Modified: '1993-03-18T07:09:56Z'
+SHA-1: 3B993126A026BCE63CE317A2C10005B42443E06D
+Description: null

@@ -1,0 +1,6 @@
+Name: msg0088.txt
+Type: file
+Size: 51
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: F7681BFE97428F775BBFD258B53F8A733369B856
+Description: null

@@ -1,0 +1,6 @@
+Name: msg00cd.txt
+Type: file
+Size: 201
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: E43C912B905A9402984317A3B2E974ADC605409C
+Description: null

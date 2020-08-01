@@ -1,0 +1,6 @@
+Name: chika_kt.txt
+Type: file
+Size: 1410
+Last-Modified: '1995-01-25T08:02:25Z'
+SHA-1: A8B626BB3F69A6599300945BB1B9898DF78BA30C
+Description: null

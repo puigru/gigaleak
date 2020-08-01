@@ -1,0 +1,6 @@
+Name: c_ufo_r.txt
+Type: file
+Size: 193
+Last-Modified: '1994-07-28T02:52:10Z'
+SHA-1: FE1334C975C7AB8F11A9ACF9D8B5EEB55340CAA6
+Description: null

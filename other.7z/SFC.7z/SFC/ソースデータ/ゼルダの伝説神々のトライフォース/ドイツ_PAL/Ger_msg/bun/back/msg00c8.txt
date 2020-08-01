@@ -1,0 +1,6 @@
+Name: msg00c8.txt
+Type: file
+Size: 83
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 027D0858012DAA69287F2329148B34A827BF8EE3
+Description: null

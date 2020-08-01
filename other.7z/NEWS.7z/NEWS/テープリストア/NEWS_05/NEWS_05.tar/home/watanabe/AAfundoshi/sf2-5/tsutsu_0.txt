@@ -1,0 +1,6 @@
+Name: tsutsu_0.txt
+Type: file
+Size: 490
+Last-Modified: '1994-07-28T02:50:08Z'
+SHA-1: B49A37B6F89983CA545B79B239F7989D8A8671FF
+Description: null

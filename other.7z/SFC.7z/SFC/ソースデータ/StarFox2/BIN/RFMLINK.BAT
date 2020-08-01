@@ -1,0 +1,6 @@
+Name: RFMLINK.BAT
+Type: file
+Size: 58
+Last-Modified: '1994-12-13T06:01:14Z'
+SHA-1: 369116DF6317864827A2312C16F378AF4936909E
+Description: null

@@ -1,0 +1,6 @@
+Name: EALCS.INC
+Type: file
+Size: 6
+Last-Modified: '1995-06-21T14:18:58Z'
+SHA-1: 405C32FD869BFBF5DD1BC74A2F0F84FB0432E961
+Description: null

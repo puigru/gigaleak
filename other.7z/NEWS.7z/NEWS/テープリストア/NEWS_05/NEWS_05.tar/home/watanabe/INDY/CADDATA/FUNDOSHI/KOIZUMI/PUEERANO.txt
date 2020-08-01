@@ -1,0 +1,6 @@
+Name: PUEERANO.txt
+Type: file
+Size: 605
+Last-Modified: '1994-07-28T02:59:51Z'
+SHA-1: 03D08BC885750656BF0373E17F330DF9F2DFD3AA
+Description: null

@@ -1,0 +1,6 @@
+Name: msg0089.txt
+Type: file
+Size: 61
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 7F013FF8206F3E27756B4830ABC690BCEE041E81
+Description: null

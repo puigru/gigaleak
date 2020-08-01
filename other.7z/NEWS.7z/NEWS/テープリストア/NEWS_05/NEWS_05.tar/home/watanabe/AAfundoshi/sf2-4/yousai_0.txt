@@ -1,0 +1,6 @@
+Name: yousai_0.txt
+Type: file
+Size: 1300
+Last-Modified: '1994-07-28T02:47:24Z'
+SHA-1: 84EFA82C4EA804B0DDDE6F582B238D3E99D8323B
+Description: null

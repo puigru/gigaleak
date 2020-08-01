@@ -1,0 +1,6 @@
+Name: 服の最後ボス.txt
+Type: file
+Size: 361
+Last-Modified: '1998-10-05T00:27:40Z'
+SHA-1: 56589B5F9246F063C0B51AF554D05969DBF1FB5C
+Description: null

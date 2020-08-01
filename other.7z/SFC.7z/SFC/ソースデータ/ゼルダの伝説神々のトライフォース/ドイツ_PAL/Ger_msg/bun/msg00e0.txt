@@ -1,0 +1,6 @@
+Name: msg00e0.txt
+Type: file
+Size: 163
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 740027EA478A86C93B809A3D1BBE9445A9BB7B43
+Description: null

@@ -1,0 +1,6 @@
+Name: AUDAN.C
+Type: file
+Size: 16835
+Last-Modified: '1995-03-27T05:43:50Z'
+SHA-1: D18C9C749FC62BCDBCB994B294BA7536C296E17D
+Description: null

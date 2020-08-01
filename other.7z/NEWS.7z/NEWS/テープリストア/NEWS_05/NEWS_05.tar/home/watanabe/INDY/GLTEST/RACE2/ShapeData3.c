@@ -1,0 +1,6 @@
+Name: ShapeData3.c
+Type: file
+Size: 249601
+Last-Modified: '1994-07-28T02:59:21Z'
+SHA-1: 8BE4017BC235C2A3C21C2C6928A1469DFD0798CD
+Description: null

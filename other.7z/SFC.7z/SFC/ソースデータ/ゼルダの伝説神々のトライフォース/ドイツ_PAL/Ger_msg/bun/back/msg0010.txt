@@ -1,0 +1,6 @@
+Name: msg0010.txt
+Type: file
+Size: 110
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 15116004B8FEFEB2787BD7E704CB28F1F9D3693D
+Description: null

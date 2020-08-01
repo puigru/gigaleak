@@ -1,0 +1,6 @@
+Name: HELP.TXT
+Type: file
+Size: 73482
+Last-Modified: '1992-10-31T04:07:20Z'
+SHA-1: 91AB12368F1DA32DF43BE76575AC5AD64FD18234
+Description: null

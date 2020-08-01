@@ -1,0 +1,6 @@
+Name: yama05.txt
+Type: file
+Size: 2871
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 851F7AA44B57541ED85542057B46E00DE7D4FAD6
+Description: null

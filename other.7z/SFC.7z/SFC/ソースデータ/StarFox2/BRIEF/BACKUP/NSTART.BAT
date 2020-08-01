@@ -1,0 +1,6 @@
+Name: NSTART.BAT
+Type: file
+Size: 54
+Last-Modified: '1994-08-22T06:35:00Z'
+SHA-1: F3B1F00BEDC53A366BC0ECA1907A58A1CE9AF3C0
+Description: null

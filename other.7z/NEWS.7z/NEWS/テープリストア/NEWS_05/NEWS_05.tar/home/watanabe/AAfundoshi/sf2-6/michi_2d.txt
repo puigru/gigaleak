@@ -1,0 +1,6 @@
+Name: michi_2d.txt
+Type: file
+Size: 208
+Last-Modified: '1994-07-28T02:33:11Z'
+SHA-1: 7F6433E6E2426C114F9022D16083851DAFBDD39D
+Description: null

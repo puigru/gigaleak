@@ -1,0 +1,6 @@
+Name: MVARS.MC
+Type: file
+Size: 7103
+Last-Modified: '1993-02-15T08:40:38Z'
+SHA-1: 14F6F9CE0E3D904EF3185ABE290F079AAFD69502
+Description: null

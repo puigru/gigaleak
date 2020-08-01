@@ -1,0 +1,6 @@
+Name: MOSAIC.H
+Type: file
+Size: 26954
+Last-Modified: '1995-03-27T05:44:04Z'
+SHA-1: 2D247FF8585AAE86096BB0A72E0E311B02C87731
+Description: null

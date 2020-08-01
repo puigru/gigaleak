@@ -1,0 +1,6 @@
+Name: msg0342.txt
+Type: file
+Size: 78
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: F8ECAEE3DDB6D71412B54496265736A6A29871F8
+Description: null

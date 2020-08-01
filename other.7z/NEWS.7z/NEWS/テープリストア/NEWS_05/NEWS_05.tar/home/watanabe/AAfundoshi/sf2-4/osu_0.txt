@@ -1,0 +1,6 @@
+Name: osu_0.txt
+Type: file
+Size: 393
+Last-Modified: '1994-07-28T02:47:11Z'
+SHA-1: 22978DD6972829F52799A409E3C1D33E463FDC53
+Description: null

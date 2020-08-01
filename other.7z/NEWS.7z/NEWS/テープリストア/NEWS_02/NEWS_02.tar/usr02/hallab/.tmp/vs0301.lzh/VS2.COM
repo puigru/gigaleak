@@ -1,0 +1,6 @@
+Name: VS2.COM
+Type: file
+Size: 524288
+Last-Modified: '1993-03-01T19:38:34Z'
+SHA-1: B2CD78BBA7A1F65B708AE595B4D428BB0B99FE7F
+Description: null

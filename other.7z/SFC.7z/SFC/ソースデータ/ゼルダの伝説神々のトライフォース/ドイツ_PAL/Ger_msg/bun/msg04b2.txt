@@ -1,0 +1,6 @@
+Name: msg04b2.txt
+Type: file
+Size: 82
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: E40ECCEE1B7F49B06DBE2DFF4F464EED04970150
+Description: null

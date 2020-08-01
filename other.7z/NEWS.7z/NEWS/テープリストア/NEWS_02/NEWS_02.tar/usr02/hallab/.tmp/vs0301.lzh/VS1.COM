@@ -1,0 +1,6 @@
+Name: VS1.COM
+Type: file
+Size: 524288
+Last-Modified: '1993-03-01T19:45:26Z'
+SHA-1: 6AB0A9A760DB4E83A68A2E957A3161F037FEBB26
+Description: null

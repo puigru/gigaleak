@@ -1,0 +1,6 @@
+Name: msg00a3.txt
+Type: file
+Size: 77
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 5A576E564A5CC2C199BEE0F2DB42FE29BDC0C05E
+Description: null

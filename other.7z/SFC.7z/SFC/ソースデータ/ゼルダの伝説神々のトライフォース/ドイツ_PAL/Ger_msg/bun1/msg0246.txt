@@ -1,0 +1,6 @@
+Name: msg0246.txt
+Type: file
+Size: 270
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 9CECB0BA9C11A06820582BBBA65BE12F5E9A6945
+Description: null

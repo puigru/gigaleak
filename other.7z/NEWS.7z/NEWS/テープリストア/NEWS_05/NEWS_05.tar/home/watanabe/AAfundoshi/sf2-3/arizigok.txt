@@ -1,0 +1,6 @@
+Name: arizigok.txt
+Type: file
+Size: 241
+Last-Modified: '1994-07-28T02:45:33Z'
+SHA-1: 951B3AB8585EF716079473498D429C4B63DBD4EA
+Description: null

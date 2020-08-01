@@ -1,0 +1,6 @@
+Name: msg05d1.txt
+Type: file
+Size: 339
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 90D14B9D8EE15F2649BC2B502F981D633BF6C23E
+Description: null

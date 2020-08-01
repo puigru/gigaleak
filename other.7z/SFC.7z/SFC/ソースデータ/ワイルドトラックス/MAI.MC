@@ -1,0 +1,6 @@
+Name: MAI.MC
+Type: file
+Size: 6111
+Last-Modified: '1993-09-20T12:38:42Z'
+SHA-1: 1CCEEC9E6608716DFAAF8B65CD65C1E50577DEEB
+Description: null

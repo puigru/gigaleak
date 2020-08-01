@@ -1,0 +1,6 @@
+Name: TRA1.ASM
+Type: file
+Size: 10368
+Last-Modified: '1995-06-17T10:39:18Z'
+SHA-1: 0C67A28AC05623DFDCB908C54E982DEF3BCC1C5B
+Description: null

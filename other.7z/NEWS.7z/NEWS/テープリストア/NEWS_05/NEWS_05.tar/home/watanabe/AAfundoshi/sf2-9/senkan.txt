@@ -1,0 +1,6 @@
+Name: senkan.txt
+Type: file
+Size: 3313
+Last-Modified: '1994-09-30T02:44:36Z'
+SHA-1: 4DD1B4DDDF445D8CD629D9DCEDA3E6298D36610B
+Description: null

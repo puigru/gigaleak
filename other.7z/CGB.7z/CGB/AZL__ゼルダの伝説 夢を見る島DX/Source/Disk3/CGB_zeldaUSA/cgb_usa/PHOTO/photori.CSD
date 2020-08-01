@@ -1,0 +1,6 @@
+Name: photori.CSD
+Type: file
+Size: 720
+Last-Modified: '1998-10-18T05:34:48Z'
+SHA-1: 015721F6BE65346E7D1189FE4B77390C9891CB14
+Description: null

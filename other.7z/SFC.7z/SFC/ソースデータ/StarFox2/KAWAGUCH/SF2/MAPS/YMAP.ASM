@@ -1,0 +1,6 @@
+Name: YMAP.ASM
+Type: file
+Size: 1133
+Last-Modified: '1994-02-23T05:10:22Z'
+SHA-1: 57FFC693FBA89C45B2F92B1C2B41406C05EA643F
+Description: null

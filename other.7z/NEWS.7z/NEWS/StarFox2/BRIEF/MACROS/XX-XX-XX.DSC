@@ -1,0 +1,6 @@
+Name: XX-XX-XX.DSC
+Type: file
+Size: 2755
+Last-Modified: '1993-09-07T04:53:24Z'
+SHA-1: 9BC41F75301D1FE63CD0F2885F977FB42EE62F1C
+Description: null

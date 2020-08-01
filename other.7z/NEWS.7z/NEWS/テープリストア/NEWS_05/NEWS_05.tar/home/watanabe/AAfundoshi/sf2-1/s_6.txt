@@ -1,0 +1,6 @@
+Name: s_6.txt
+Type: file
+Size: 84
+Last-Modified: '1994-07-28T02:42:07Z'
+SHA-1: 35F8D05D35BF5DE54A07558B1DBB36EF74735D3E
+Description: null

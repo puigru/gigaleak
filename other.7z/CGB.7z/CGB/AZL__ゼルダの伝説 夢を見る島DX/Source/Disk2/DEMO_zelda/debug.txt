@@ -1,0 +1,6 @@
+Name: debug.txt
+Type: file
+Size: 1172
+Last-Modified: '1998-11-11T08:29:32Z'
+SHA-1: 3553A5A8F05654D1F294BAE24203B29711813057
+Description: null

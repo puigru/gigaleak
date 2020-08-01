@@ -1,0 +1,6 @@
+Name: 3.TXT
+Type: file
+Size: 71680
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 8A3DD3AA5D88CDC587F29FD9165794B215A8BA96
+Description: null

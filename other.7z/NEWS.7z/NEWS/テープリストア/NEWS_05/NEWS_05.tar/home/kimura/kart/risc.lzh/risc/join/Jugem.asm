@@ -1,0 +1,6 @@
+Name: Jugem.asm
+Type: file
+Size: 25729
+Last-Modified: '1992-11-18T01:48:23Z'
+SHA-1: 8775BDD18E72D9D27E15C4B7E554133A0FC3F9FC
+Description: null

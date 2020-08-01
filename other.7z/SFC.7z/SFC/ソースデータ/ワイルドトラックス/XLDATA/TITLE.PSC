@@ -1,0 +1,6 @@
+Name: TITLE.PSC
+Type: file
+Size: 1304
+Last-Modified: '1993-05-30T07:19:50Z'
+SHA-1: 134D5386988338B9ABB21332C377871087120080
+Description: null

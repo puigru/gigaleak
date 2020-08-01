@@ -1,0 +1,6 @@
+Name: xmodmap.sun.org
+Type: file
+Size: 226
+Last-Modified: '1990-09-28T08:07:03Z'
+SHA-1: 2ABAB1B5BB5F1BBD584234B624E6F4FC5664D136
+Description: null

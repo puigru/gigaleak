@@ -1,0 +1,6 @@
+Name: zco.s
+Type: file
+Size: 15896
+Last-Modified: '1998-11-17T04:19:20Z'
+SHA-1: DB9CEABC4E1E6CB96A874D87E222ACECF3C2970E
+Description: null

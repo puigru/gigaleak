@@ -1,0 +1,6 @@
+Name: Camera.c
+Type: file
+Size: 1440
+Last-Modified: '1994-07-28T02:58:36Z'
+SHA-1: 0D94964AB80D449A52FB75E0A371E2F8CC1222D8
+Description: null

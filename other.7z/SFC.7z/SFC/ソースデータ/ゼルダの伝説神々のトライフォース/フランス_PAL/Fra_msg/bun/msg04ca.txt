@@ -1,0 +1,6 @@
+Name: msg04ca.txt
+Type: file
+Size: 833
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: FEE51167C2198E1C69405BD88D9A54FA6989974C
+Description: null

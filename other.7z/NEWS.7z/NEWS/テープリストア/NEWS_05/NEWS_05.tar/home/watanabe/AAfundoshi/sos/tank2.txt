@@ -1,0 +1,6 @@
+Name: tank2.txt
+Type: file
+Size: 6297
+Last-Modified: '1994-09-20T11:29:23Z'
+SHA-1: 7CB2283B765702DA856AA86DB1DB15664A306CF4
+Description: null

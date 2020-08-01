@@ -1,0 +1,6 @@
+Name: s_8.txt
+Type: file
+Size: 106
+Last-Modified: '1994-07-28T02:42:07Z'
+SHA-1: 44A2453337790B64346C217B6BE473790973E2DA
+Description: null

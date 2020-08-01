@@ -1,0 +1,6 @@
+Name: msg0052.txt
+Type: file
+Size: 265
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 12899F7A1C45B94E051EC883E17EBE327A537182
+Description: null

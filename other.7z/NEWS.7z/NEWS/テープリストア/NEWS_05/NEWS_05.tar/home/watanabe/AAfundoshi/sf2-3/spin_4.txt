@@ -1,0 +1,6 @@
+Name: spin_4.txt
+Type: file
+Size: 172
+Last-Modified: '1994-07-28T02:45:53Z'
+SHA-1: A2C2024C41E3ED41A212C7B82A31B34DC0A6EC4A
+Description: null

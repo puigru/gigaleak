@@ -1,0 +1,6 @@
+Name: zca.s
+Type: file
+Size: 11930
+Last-Modified: '1998-10-02T04:56:16Z'
+SHA-1: C21EAD0B00FED6DDC480ADBF89529F7406388676
+Description: null

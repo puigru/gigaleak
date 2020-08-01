@@ -1,0 +1,6 @@
+Name: PolyPack.h
+Type: file
+Size: 1700
+Last-Modified: '1995-02-24T07:49:03Z'
+SHA-1: 17AA7D9762C334EC56AB6719CE8421DBCBF21C4F
+Description: null

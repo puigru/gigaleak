@@ -1,0 +1,6 @@
+Name: xmodmap.news.org
+Type: file
+Size: 210
+Last-Modified: '1990-09-28T08:07:03Z'
+SHA-1: EFBEA0769B7409EF49788B97B9A8797612C61DC2
+Description: null

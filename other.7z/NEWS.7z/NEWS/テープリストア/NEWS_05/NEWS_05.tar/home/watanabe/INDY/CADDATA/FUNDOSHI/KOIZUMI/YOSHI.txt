@@ -1,0 +1,6 @@
+Name: YOSHI.txt
+Type: file
+Size: 2471
+Last-Modified: '1994-07-28T02:59:55Z'
+SHA-1: A4D4A5F991744DF4B1301F0FC120C0FA1981FB2E
+Description: null

@@ -1,0 +1,6 @@
+Name: tetra_2.txt
+Type: file
+Size: 98
+Last-Modified: '1994-07-28T02:44:03Z'
+SHA-1: 2E06276632E933BFE318A045A551A8D40B07960A
+Description: null

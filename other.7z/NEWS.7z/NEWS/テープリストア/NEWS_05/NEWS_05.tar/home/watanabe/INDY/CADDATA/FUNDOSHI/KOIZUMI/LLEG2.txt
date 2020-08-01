@@ -1,0 +1,6 @@
+Name: LLEG2.txt
+Type: file
+Size: 65
+Last-Modified: '1994-07-28T02:59:49Z'
+SHA-1: AE16A1BBC03F2072C0BC208473167C50A52F2FE4
+Description: null

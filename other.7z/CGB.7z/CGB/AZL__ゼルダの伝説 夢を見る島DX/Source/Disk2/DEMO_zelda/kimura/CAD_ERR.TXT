@@ -1,0 +1,6 @@
+Name: CAD_ERR.TXT
+Type: file
+Size: 272
+Last-Modified: '1998-11-10T05:46:46Z'
+SHA-1: A14DF84F120913A795A32178A100A7BB734F129D
+Description: null

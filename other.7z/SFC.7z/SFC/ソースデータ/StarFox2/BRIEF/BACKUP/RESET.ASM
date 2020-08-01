@@ -1,0 +1,6 @@
+Name: RESET.ASM
+Type: file
+Size: 3728
+Last-Modified: '1994-08-02T05:59:14Z'
+SHA-1: 5884F3D69F282DE32FF61A57A89E2FED0DCEDF08
+Description: null

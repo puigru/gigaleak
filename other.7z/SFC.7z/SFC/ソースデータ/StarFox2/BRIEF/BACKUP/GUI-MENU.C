@@ -1,0 +1,6 @@
+Name: GUI-MENU.C
+Type: file
+Size: 59949
+Last-Modified: '1995-03-27T05:43:56Z'
+SHA-1: FE99F97E0B57FD8DF530021DF8D1A8B622DF4D0C
+Description: null

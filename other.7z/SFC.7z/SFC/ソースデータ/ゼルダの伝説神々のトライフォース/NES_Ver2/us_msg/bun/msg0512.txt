@@ -1,0 +1,6 @@
+Name: msg0512.txt
+Type: file
+Size: 35
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: DC1A0B2B3757D859C0491221E98035B099441593
+Description: null

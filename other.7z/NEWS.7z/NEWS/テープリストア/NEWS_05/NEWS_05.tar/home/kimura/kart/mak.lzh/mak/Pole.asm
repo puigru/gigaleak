@@ -1,0 +1,6 @@
+Name: Pole.asm
+Type: file
+Size: 32120
+Last-Modified: '1992-02-13T07:47:46Z'
+SHA-1: 30B836E3053C39BDC70EDBDC9FAAEB76D6130D49
+Description: null

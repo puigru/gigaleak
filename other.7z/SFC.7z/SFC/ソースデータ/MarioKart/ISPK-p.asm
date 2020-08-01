@@ -1,0 +1,6 @@
+Name: ISPK-p.asm
+Type: file
+Size: 5647
+Last-Modified: '1992-07-29T15:00:00Z'
+SHA-1: 763E3197297D8AEB9BCFF757A63564A86A6E0729
+Description: null

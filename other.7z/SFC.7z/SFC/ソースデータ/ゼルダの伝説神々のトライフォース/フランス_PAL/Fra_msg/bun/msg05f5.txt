@@ -1,0 +1,6 @@
+Name: msg05f5.txt
+Type: file
+Size: 138
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: E16E1EBCAFED6ACD1688D3F276D5502335EDCD41
+Description: null

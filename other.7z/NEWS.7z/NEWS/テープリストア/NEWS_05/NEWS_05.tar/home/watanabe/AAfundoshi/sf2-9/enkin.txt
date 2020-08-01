@@ -1,0 +1,6 @@
+Name: enkin.txt
+Type: file
+Size: 751
+Last-Modified: '1994-11-12T11:11:06Z'
+SHA-1: 95536C7302F24E980EC272BB6598EA64F99EECB4
+Description: null

@@ -1,0 +1,6 @@
+Name: D_EXT.ASM
+Type: file
+Size: 6330
+Last-Modified: '1994-08-16T01:58:28Z'
+SHA-1: 645C24A5D6A328275666C5950832728FD3CEF1EA
+Description: null

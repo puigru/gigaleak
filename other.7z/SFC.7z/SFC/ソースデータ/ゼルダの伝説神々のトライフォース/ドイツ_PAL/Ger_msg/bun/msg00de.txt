@@ -1,0 +1,6 @@
+Name: msg00de.txt
+Type: file
+Size: 88
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 8CF3DC0A45FCD8D4EC2D6AD021C6867C80A54CA9
+Description: null

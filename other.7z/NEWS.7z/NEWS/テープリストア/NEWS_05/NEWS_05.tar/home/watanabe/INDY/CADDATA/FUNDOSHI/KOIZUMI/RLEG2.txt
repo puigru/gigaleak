@@ -1,0 +1,6 @@
+Name: RLEG2.txt
+Type: file
+Size: 65
+Last-Modified: '1994-07-28T02:59:53Z'
+SHA-1: 04264B632A43ED7D0930BDFB2D81F52677916D15
+Description: null

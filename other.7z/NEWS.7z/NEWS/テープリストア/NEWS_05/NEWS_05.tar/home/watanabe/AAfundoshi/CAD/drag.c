@@ -1,0 +1,6 @@
+Name: drag.c
+Type: file
+Size: 14603
+Last-Modified: '1995-04-14T01:24:44Z'
+SHA-1: 1CB5F047A86D79AF4A3DD7C8034E795FEDD53E98
+Description: null

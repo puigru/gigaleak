@@ -1,0 +1,6 @@
+Name: car7.txt
+Type: file
+Size: 629
+Last-Modified: '1994-07-28T03:00:22Z'
+SHA-1: 6406CC233FDF7296CC7C5BC09C400166DF96F111
+Description: null

@@ -1,0 +1,6 @@
+Name: EALCS.INC
+Type: file
+Size: 123
+Last-Modified: '1992-12-20T21:22:28Z'
+SHA-1: 466085171D7868D471307A99E74ABB00E12BED20
+Description: null

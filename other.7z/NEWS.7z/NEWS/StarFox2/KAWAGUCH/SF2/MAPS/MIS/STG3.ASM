@@ -1,0 +1,6 @@
+Name: STG3.ASM
+Type: file
+Size: 14483
+Last-Modified: '1995-09-05T07:14:02Z'
+SHA-1: B4401946DC89BCBACAC16840ADF65C04D28F5DB3
+Description: null

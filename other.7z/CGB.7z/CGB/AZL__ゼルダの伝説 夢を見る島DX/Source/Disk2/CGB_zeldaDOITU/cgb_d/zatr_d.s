@@ -1,0 +1,6 @@
+Name: zatr_d.s
+Type: file
+Size: 101914
+Last-Modified: '1998-12-09T01:34:42Z'
+SHA-1: A47438851643A1FEEA3FFF1DA7DE4A7DBA8C8E8B
+Description: null

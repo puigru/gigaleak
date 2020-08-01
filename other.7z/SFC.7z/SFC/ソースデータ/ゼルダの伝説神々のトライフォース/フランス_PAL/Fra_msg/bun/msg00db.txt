@@ -1,0 +1,6 @@
+Name: msg00db.txt
+Type: file
+Size: 130
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 2924F32C0D9D6DB2D617CF0AE9673ADFCCC0923D
+Description: null

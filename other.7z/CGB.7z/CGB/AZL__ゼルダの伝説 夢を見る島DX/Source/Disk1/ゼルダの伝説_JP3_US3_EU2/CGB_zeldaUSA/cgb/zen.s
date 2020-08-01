@@ -1,0 +1,6 @@
+Name: zen.s
+Type: file
+Size: 223377
+Last-Modified: '1998-09-30T11:07:00Z'
+SHA-1: 9710FA44921D6C46E360B4AE039BF198D5AAE1DE
+Description: null

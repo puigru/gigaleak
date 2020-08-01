@@ -1,0 +1,6 @@
+Name: zsgb.s
+Type: file
+Size: 9527
+Last-Modified: '1998-11-10T00:22:40Z'
+SHA-1: F1A219B2755EA4EC0562AA82C6D7874A52B79492
+Description: null

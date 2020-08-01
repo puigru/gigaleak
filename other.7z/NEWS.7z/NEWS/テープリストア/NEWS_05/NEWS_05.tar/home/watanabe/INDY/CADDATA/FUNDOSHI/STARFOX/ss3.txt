@@ -1,0 +1,6 @@
+Name: ss3.txt
+Type: file
+Size: 577
+Last-Modified: '1994-07-28T03:00:04Z'
+SHA-1: 561B3C5E794A2DE2E23DFEFB33F3C146B7AC23C5
+Description: null

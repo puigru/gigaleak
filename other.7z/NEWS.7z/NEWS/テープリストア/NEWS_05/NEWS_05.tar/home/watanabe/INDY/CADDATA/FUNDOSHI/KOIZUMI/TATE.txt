@@ -1,0 +1,6 @@
+Name: TATE.txt
+Type: file
+Size: 79
+Last-Modified: '1994-07-28T02:59:53Z'
+SHA-1: 521F62F58846C7B83F40D8FEB6DEF9D687C93BBF
+Description: null

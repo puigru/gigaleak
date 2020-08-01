@@ -1,0 +1,6 @@
+Name: coin_0.txt
+Type: file
+Size: 257
+Last-Modified: '1994-07-28T02:41:55Z'
+SHA-1: 81A9B1459857529E78CD8634884E9E67FD7414DE
+Description: null

@@ -1,0 +1,6 @@
+Name: msg00bf.txt
+Type: file
+Size: 114
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 8AB0F40D9FBC03EE409AEFE208B5C8CD90435DB2
+Description: null

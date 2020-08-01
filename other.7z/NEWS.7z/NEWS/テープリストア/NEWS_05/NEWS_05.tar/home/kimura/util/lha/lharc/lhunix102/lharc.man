@@ -1,0 +1,6 @@
+Name: lharc.man
+Type: file
+Size: 7038
+Last-Modified: '1994-07-07T04:55:03Z'
+SHA-1: E7C61402011C018BD22B03D94C3F7C3A47B26F55
+Description: null

@@ -1,0 +1,6 @@
+Name: msg00c7.txt
+Type: file
+Size: 123
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 557616871DA5FA513A1AA29D1BD3F0BA65CEF838
+Description: null

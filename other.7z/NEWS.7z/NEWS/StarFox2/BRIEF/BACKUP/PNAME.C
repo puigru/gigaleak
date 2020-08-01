@@ -1,0 +1,6 @@
+Name: PNAME.C
+Type: file
+Size: 2936
+Last-Modified: '1995-05-22T10:21:26Z'
+SHA-1: DDADA6A400C20A2649A5C6E04DD389414F297E0A
+Description: null

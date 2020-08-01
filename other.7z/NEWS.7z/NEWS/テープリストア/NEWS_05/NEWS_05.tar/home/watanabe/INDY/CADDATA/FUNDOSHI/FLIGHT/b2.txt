@@ -1,0 +1,6 @@
+Name: b2.txt
+Type: file
+Size: 143
+Last-Modified: '1994-07-28T03:00:17Z'
+SHA-1: C15527D7C275089BB27176F3FAF3BA7155EC5F03
+Description: null

@@ -1,0 +1,6 @@
+Name: bbb.txt
+Type: file
+Size: 897
+Last-Modified: '1995-07-31T06:30:55Z'
+SHA-1: 61CE9C74AFDCE307AE882E6DCDCAF1CE51DCD9C1
+Description: null

@@ -1,0 +1,6 @@
+Name: EXT2.ASM
+Type: file
+Size: 18386
+Last-Modified: '1995-07-04T09:06:58Z'
+SHA-1: AA36F68608AAF7E5C719CA2E43DECDC6B09DEED7
+Description: null

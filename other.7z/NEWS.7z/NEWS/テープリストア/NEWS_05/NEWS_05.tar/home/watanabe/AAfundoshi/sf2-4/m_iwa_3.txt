@@ -1,0 +1,6 @@
+Name: m_iwa_3.txt
+Type: file
+Size: 355
+Last-Modified: '1994-07-28T02:47:05Z'
+SHA-1: E17117945873E462F08640A3867660F89A80D262
+Description: null

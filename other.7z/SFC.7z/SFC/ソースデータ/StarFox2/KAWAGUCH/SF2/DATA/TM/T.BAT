@@ -1,0 +1,6 @@
+Name: T.BAT
+Type: file
+Size: 19
+Last-Modified: '1992-11-28T09:25:34Z'
+SHA-1: 2ADF21CE9FE34386E446F1B6F50CCD449D758E7F
+Description: null

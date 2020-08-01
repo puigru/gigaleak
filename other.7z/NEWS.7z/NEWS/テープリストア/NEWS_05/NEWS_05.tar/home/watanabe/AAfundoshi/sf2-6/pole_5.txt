@@ -1,0 +1,6 @@
+Name: pole_5.txt
+Type: file
+Size: 671
+Last-Modified: '1994-07-28T02:33:12Z'
+SHA-1: A5B8E0A6ACA1682709E55F3F61B11B7684919A04
+Description: null

@@ -1,0 +1,6 @@
+Name: TEST.BAT
+Type: file
+Size: 147
+Last-Modified: '1994-12-06T03:48:34Z'
+SHA-1: 79CB246639F04F63CA5ED706A77CDA599E71B30A
+Description: null

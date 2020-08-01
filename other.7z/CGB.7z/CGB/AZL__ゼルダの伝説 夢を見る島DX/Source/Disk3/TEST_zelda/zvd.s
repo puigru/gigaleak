@@ -1,0 +1,6 @@
+Name: zvd.s
+Type: file
+Size: 80088
+Last-Modified: '1998-08-01T13:49:20Z'
+SHA-1: 8D70A8D5E08052CB3D3B7465B27490E60451BAD9
+Description: null

@@ -1,0 +1,6 @@
+Name: C3-1.ASM
+Type: file
+Size: 3945
+Last-Modified: '1992-12-24T09:49:20Z'
+SHA-1: 81E1BD43C8BF7837C6B8FE7C9B729C4B26538E24
+Description: null

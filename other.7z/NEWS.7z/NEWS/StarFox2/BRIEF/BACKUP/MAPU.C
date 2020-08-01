@@ -1,0 +1,6 @@
+Name: MAPU.C
+Type: file
+Size: 671
+Last-Modified: '1995-05-22T10:21:26Z'
+SHA-1: 29139543AA229EC19C164FC4BB967F60A449C073
+Description: null

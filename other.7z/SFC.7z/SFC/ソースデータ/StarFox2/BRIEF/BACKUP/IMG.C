@@ -1,0 +1,6 @@
+Name: IMG.C
+Type: file
+Size: 19798
+Last-Modified: '1995-03-27T05:44:00Z'
+SHA-1: 49E1FCEB9A489191BC26D2BB44095458BD93AFCA
+Description: null

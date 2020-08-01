@@ -1,0 +1,6 @@
+Name: zatr.s
+Type: file
+Size: 102497
+Last-Modified: '1998-11-04T06:22:36Z'
+SHA-1: CDA9255C6D6C527C35F9F942DAA8868278656D3A
+Description: null

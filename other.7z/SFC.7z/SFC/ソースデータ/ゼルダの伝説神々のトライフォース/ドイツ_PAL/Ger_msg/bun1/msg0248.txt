@@ -1,0 +1,6 @@
+Name: msg0248.txt
+Type: file
+Size: 96
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 981912ECD4F8BA041FF96461112315CD4A426390
+Description: null

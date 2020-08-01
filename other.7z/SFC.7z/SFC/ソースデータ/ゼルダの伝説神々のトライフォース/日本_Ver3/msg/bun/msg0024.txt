@@ -1,0 +1,6 @@
+Name: msg0024.txt
+Type: file
+Size: 93
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: AAE435B1B182FA6648FAE1F20838F5B5297D1A87
+Description: null

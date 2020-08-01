@@ -1,0 +1,6 @@
+Name: EVAL.BAT
+Type: file
+Size: 18
+Last-Modified: '1994-04-13T04:43:20Z'
+SHA-1: 7B4C3CF72A28D14045F01F914E3843E723C0810A
+Description: null

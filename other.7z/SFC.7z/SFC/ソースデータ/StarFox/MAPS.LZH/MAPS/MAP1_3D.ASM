@@ -1,0 +1,6 @@
+Name: MAP1_3D.ASM
+Type: file
+Size: 58
+Last-Modified: '1992-11-06T10:28:42Z'
+SHA-1: C15A485F6DEB30882EFCE3FFA2DEB61F3628018C
+Description: null

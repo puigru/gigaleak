@@ -1,0 +1,6 @@
+Name: M.TXT
+Type: file
+Size: 7596
+Last-Modified: '1992-12-07T18:00:00Z'
+SHA-1: AE39727C75FDF3DDB43B166FEBFBB3C9FB12CA02
+Description: null

@@ -1,0 +1,6 @@
+Name: ALCS.INC
+Type: file
+Size: 12055
+Last-Modified: '1995-05-17T11:12:30Z'
+SHA-1: 599BA20B3309366C6B4E16CB51B1DAE3ABCB63DA
+Description: null

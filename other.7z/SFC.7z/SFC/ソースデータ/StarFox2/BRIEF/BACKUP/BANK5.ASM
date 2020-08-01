@@ -1,0 +1,6 @@
+Name: BANK5.ASM
+Type: file
+Size: 481
+Last-Modified: '1994-12-08T04:20:54Z'
+SHA-1: DA765D899DA857377D0115A0A98D41B7D1F217A7
+Description: null

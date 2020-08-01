@@ -1,0 +1,6 @@
+Name: zaco_1.txt
+Type: file
+Size: 694
+Last-Modified: '1995-02-18T08:52:45Z'
+SHA-1: 41B2BED98E2DBE594AA21A5C28732F134A0C10E9
+Description: null

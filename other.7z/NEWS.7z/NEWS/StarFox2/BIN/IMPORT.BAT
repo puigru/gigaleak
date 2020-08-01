@@ -1,0 +1,6 @@
+Name: IMPORT.BAT
+Type: file
+Size: 22
+Last-Modified: '1993-03-18T06:33:52Z'
+SHA-1: 50F57FA2935CEC78FBAC086DF591FF1A4F548735
+Description: null

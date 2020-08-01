@@ -1,0 +1,6 @@
+Name: msg0243.txt
+Type: file
+Size: 232
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: EFE082963742405CB49BD4E817DA3CE398C7E955
+Description: null

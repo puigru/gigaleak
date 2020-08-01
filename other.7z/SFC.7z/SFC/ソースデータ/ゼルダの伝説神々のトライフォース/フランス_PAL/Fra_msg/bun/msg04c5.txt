@@ -1,0 +1,6 @@
+Name: msg04c5.txt
+Type: file
+Size: 680
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: F0CE35087B7E3209F4CFBC61614E8AC7D8B3D167
+Description: null

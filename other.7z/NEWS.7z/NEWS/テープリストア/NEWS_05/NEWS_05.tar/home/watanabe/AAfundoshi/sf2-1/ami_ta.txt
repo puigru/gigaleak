@@ -1,0 +1,6 @@
+Name: ami_ta.txt
+Type: file
+Size: 352
+Last-Modified: '1994-07-28T02:41:43Z'
+SHA-1: B0E0B6918BC4214A0E2183DF60A359F7B106BB28
+Description: null

@@ -1,0 +1,6 @@
+Name: zex.s
+Type: file
+Size: 201442
+Last-Modified: '1998-09-30T11:06:56Z'
+SHA-1: C8C0BC1F39EA0CF385186FCC1F8B89749223B3B6
+Description: null

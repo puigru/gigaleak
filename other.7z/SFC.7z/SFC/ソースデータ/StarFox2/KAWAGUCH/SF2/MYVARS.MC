@@ -1,0 +1,6 @@
+Name: MYVARS.MC
+Type: file
+Size: 1988
+Last-Modified: '1994-10-13T04:05:50Z'
+SHA-1: 7F223FFD5D301164D875CFB0A0A6DD9B17E00A08
+Description: null

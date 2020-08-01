@@ -1,0 +1,6 @@
+Name: MGDOTS.MC
+Type: file
+Size: 8026
+Last-Modified: '1993-09-20T12:38:42Z'
+SHA-1: F07B002B8C423305CC185C84D473291CF9D33434
+Description: null

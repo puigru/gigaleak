@@ -1,0 +1,6 @@
+Name: 1-3-T1.ASM
+Type: file
+Size: 2387
+Last-Modified: '1992-12-17T23:21:40Z'
+SHA-1: 39F3BF3B75AB03184ECDAB7C5877D86FD3A589F4
+Description: null

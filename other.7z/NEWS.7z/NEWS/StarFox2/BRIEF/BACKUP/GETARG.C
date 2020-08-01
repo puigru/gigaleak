@@ -1,0 +1,6 @@
+Name: GETARG.C
+Type: file
+Size: 25555
+Last-Modified: '1990-09-05T22:19:10Z'
+SHA-1: 2ADE2F85BA6CAA01B72E518A4083E02D09628ED7
+Description: null

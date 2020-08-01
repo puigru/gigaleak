@@ -1,0 +1,6 @@
+Name: data.c
+Type: file
+Size: 193938
+Last-Modified: '1994-07-28T02:58:43Z'
+SHA-1: 18C7D5EDB91635A9F95E6E4A3BA4544A8C9477D4
+Description: null

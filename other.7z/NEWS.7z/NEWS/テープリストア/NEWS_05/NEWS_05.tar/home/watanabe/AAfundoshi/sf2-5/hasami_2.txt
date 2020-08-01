@@ -1,0 +1,6 @@
+Name: hasami_2.txt
+Type: file
+Size: 145
+Last-Modified: '1994-07-28T02:49:54Z'
+SHA-1: 061160B49B5E4939CB32ACE2ED5E3715D3904EB3
+Description: null

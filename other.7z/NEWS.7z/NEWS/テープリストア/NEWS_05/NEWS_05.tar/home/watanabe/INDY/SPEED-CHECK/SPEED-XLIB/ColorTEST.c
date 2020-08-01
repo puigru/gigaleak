@@ -1,0 +1,6 @@
+Name: ColorTEST.c
+Type: file
+Size: 3618
+Last-Modified: '1994-07-28T02:58:37Z'
+SHA-1: A48BD85AB5A0C8D19D7EE3641F62638FA85F80B7
+Description: null

@@ -1,0 +1,6 @@
+Name: MDECRU.MC
+Type: file
+Size: 4219
+Last-Modified: '1993-09-20T12:38:42Z'
+SHA-1: E72165D78F3DA5D0F362106F666BC2DF5AE5AF80
+Description: null

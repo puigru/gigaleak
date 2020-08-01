@@ -1,0 +1,6 @@
+Name: E.BAT
+Type: file
+Size: 88
+Last-Modified: '1994-04-11T04:35:06Z'
+SHA-1: FC263CB61F549D1CB610A4C3F7B9BC2FA846F40D
+Description: null

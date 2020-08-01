@@ -1,0 +1,6 @@
+Name: kado_d.txt
+Type: file
+Size: 208
+Last-Modified: '1994-07-28T02:50:00Z'
+SHA-1: C7C2FFCB9CE304898CE3A77EA624655B51592FB7
+Description: null

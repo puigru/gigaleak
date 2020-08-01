@@ -1,0 +1,6 @@
+Name: fhoto.CSD
+Type: file
+Size: 720
+Last-Modified: '1998-10-27T12:31:38Z'
+SHA-1: E3B0FEF2184DA2864A37C5CC027549AFCA048C06
+Description: null

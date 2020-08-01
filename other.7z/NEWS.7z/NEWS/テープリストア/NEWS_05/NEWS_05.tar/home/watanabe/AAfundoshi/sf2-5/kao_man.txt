@@ -1,0 +1,6 @@
+Name: kao_man.txt
+Type: file
+Size: 808
+Last-Modified: '1994-07-28T02:50:01Z'
+SHA-1: 548B00932808D63A68651493AEC0C9334344D407
+Description: null

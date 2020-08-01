@@ -1,0 +1,6 @@
+Name: LRFOT3.txt
+Type: file
+Size: 213
+Last-Modified: '1994-07-28T02:59:51Z'
+SHA-1: 43F05E794D185D0091EE6EDBCE03794AE0EDBC41
+Description: null

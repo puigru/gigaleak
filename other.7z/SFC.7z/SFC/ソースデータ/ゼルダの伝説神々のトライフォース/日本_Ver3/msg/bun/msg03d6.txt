@@ -1,0 +1,6 @@
+Name: msg03d6.txt
+Type: file
+Size: 123
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 7D5C71CDBA67D7F37FDED0E4BDC77D03533BA93F
+Description: null

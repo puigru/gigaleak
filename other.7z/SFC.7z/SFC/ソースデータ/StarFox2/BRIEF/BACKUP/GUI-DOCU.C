@@ -1,0 +1,6 @@
+Name: GUI-DOCU.C
+Type: file
+Size: 34800
+Last-Modified: '1995-03-27T05:43:54Z'
+SHA-1: 7AD3757D0F8A9E93CEC71089482B7DE53368F275
+Description: null

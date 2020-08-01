@@ -1,0 +1,6 @@
+Name: Meter.asm
+Type: file
+Size: 18078
+Last-Modified: '1992-02-13T07:47:45Z'
+SHA-1: F3FCCB6D8504948C5611AA6EA39BEABEC5A9BB4C
+Description: null

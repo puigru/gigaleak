@@ -1,0 +1,6 @@
+Name: d_robo_1.txt
+Type: file
+Size: 630
+Last-Modified: '1994-07-28T02:43:42Z'
+SHA-1: 6442924B6F5F49EAF3D490022AF58DA26D478CBE
+Description: null

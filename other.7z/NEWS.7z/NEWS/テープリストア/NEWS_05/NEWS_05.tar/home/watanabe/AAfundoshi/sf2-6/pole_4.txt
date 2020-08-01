@@ -1,0 +1,6 @@
+Name: pole_4.txt
+Type: file
+Size: 74
+Last-Modified: '1994-07-28T02:33:12Z'
+SHA-1: 50C2D7B5096409F0A224011B130323666F7F7C37
+Description: null

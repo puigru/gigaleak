@@ -1,0 +1,6 @@
+Name: msg00d2.txt
+Type: file
+Size: 217
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: 10464064EF7B543B0704B6BFF3EF139C0E8D9751
+Description: null

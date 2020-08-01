@@ -1,0 +1,6 @@
+Name: GAL.BAT
+Type: file
+Size: 450
+Last-Modified: '1993-04-09T13:27:02Z'
+SHA-1: 4EBCC83A4361251345D3A381A14F1A4137503496
+Description: null

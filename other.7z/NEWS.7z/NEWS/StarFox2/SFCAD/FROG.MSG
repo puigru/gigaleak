@@ -1,0 +1,6 @@
+Name: FROG.MSG
+Type: file
+Size: 179
+Last-Modified: '1994-06-02T13:03:34Z'
+SHA-1: C5AFD03E82A5C4CD6044DC3129BA06691B639C37
+Description: null

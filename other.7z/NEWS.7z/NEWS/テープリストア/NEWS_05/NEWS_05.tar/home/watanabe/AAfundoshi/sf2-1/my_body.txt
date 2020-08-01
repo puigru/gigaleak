@@ -1,0 +1,6 @@
+Name: my_body.txt
+Type: file
+Size: 244
+Last-Modified: '1994-07-28T02:42:02Z'
+SHA-1: 9818E11496792CCCAAA17AA69B7BB60D740DF286
+Description: null

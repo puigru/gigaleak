@@ -1,0 +1,6 @@
+Name: TEST.ASM
+Type: file
+Size: 339
+Last-Modified: '1994-11-28T05:37:46Z'
+SHA-1: A3498335F6CD9D12477FFA0B4BE3CFE88C268580
+Description: null

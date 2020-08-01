@@ -1,0 +1,6 @@
+Name: msg055d.txt
+Type: file
+Size: 72
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: AB2F0DD71A67E62C03A0DF5E3381A36BAAF80B33
+Description: null

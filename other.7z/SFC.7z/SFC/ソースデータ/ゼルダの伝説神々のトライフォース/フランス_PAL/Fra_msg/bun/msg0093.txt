@@ -1,0 +1,6 @@
+Name: msg0093.txt
+Type: file
+Size: 140
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: CAABC55890300BBF53D46F55436A6EBE44EFC024
+Description: null

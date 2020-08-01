@@ -1,0 +1,6 @@
+Name: zbd.s
+Type: file
+Size: 62195
+Last-Modified: '1998-11-11T07:18:48Z'
+SHA-1: D100FC2A5A545529D700744989D37FA4A3753470
+Description: null

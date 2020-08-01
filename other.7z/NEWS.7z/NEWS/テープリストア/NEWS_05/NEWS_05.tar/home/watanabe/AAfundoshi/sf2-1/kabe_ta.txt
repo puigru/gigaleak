@@ -1,0 +1,6 @@
+Name: kabe_ta.txt
+Type: file
+Size: 117
+Last-Modified: '1994-07-28T02:42:00Z'
+SHA-1: 96F9F6A783F6E6E225BD87C33181E57BBE3F9746
+Description: null

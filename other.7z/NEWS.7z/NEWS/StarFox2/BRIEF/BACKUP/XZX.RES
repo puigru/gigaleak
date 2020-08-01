@@ -1,0 +1,6 @@
+Name: XZX.RES
+Type: file
+Size: 1441
+Last-Modified: '1994-09-22T11:39:16Z'
+SHA-1: B6F3055044940A32671BCC92B3BA5FE2B8BD6F12
+Description: null

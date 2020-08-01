@@ -1,0 +1,6 @@
+Name: colo11d.txt
+Type: file
+Size: 155
+Last-Modified: '1994-07-28T02:49:49Z'
+SHA-1: B25821C892F1721FF3C16F1AB0B4E5FFF50FBCC6
+Description: null

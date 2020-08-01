@@ -1,0 +1,6 @@
+Name: Color GB French Trans Add.txt
+Type: file
+Size: 7085
+Last-Modified: '1998-11-17T16:22:00Z'
+SHA-1: AE18C1B85A0102DE8EEA4809DB027D17EAF287A7
+Description: null

@@ -1,0 +1,6 @@
+Name: kazan_0.txt
+Type: file
+Size: 933
+Last-Modified: '1994-07-28T02:50:01Z'
+SHA-1: AA3D5081AC367177D1171E7CA5CDBADAB47BD1FA
+Description: null

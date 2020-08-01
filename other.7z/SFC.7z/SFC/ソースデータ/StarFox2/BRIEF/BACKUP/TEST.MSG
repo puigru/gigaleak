@@ -1,0 +1,6 @@
+Name: TEST.MSG
+Type: file
+Size: 106
+Last-Modified: '1994-06-01T04:17:58Z'
+SHA-1: 45F8BAED25521BDC123B4DA312E29538F1DD1E73
+Description: null

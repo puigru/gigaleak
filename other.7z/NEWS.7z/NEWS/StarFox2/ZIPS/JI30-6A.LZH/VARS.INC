@@ -1,0 +1,6 @@
+Name: VARS.INC
+Type: file
+Size: 15918
+Last-Modified: '1995-06-29T23:17:06Z'
+SHA-1: 9A762EE22396BD5A6F2A2182A4F5FCD7A8935DA9
+Description: null

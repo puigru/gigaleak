@@ -1,0 +1,6 @@
+Name: BACK1.PSC
+Type: file
+Size: 188
+Last-Modified: '1993-05-03T09:16:04Z'
+SHA-1: 9CE46654F3FBD4F819E37EB3CA458CAD0F22D2C6
+Description: null

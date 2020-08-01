@@ -1,0 +1,6 @@
+Name: msg008e.txt
+Type: file
+Size: 59
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 65EC676E6DA63F0040E1D9C3470FCB471E6A161E
+Description: null

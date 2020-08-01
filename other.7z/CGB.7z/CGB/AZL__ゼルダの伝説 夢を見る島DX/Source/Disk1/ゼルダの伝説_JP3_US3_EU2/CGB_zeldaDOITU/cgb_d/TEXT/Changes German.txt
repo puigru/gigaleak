@@ -1,0 +1,6 @@
+Name: Changes German.txt
+Type: file
+Size: 3751
+Last-Modified: '1998-12-08T11:36:46Z'
+SHA-1: 88746C7F228E664EF3BD00FF5AB0566F9B0FA118
+Description: null

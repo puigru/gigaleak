@@ -1,0 +1,6 @@
+Name: MTEST.MC
+Type: file
+Size: 1106
+Last-Modified: '1994-08-04T06:26:12Z'
+SHA-1: 1F381CBCA6684EE2FCDCD73C42A0688E5B558389
+Description: null

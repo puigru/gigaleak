@@ -1,0 +1,6 @@
+Name: tako_2.txt
+Type: file
+Size: 165
+Last-Modified: '1994-07-28T02:45:55Z'
+SHA-1: 412F3715456895CB243DFD81D50DF107F2EAAF08
+Description: null

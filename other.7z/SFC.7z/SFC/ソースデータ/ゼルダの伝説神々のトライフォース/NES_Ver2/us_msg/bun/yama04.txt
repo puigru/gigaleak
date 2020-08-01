@@ -1,0 +1,6 @@
+Name: yama04.txt
+Type: file
+Size: 3999
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: 570C5A9756F3C8D37BA002BF981D4BA297C757EE
+Description: null

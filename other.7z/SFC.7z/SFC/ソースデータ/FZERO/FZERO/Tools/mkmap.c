@@ -1,0 +1,6 @@
+Name: mkmap.c
+Type: file
+Size: 10592
+Last-Modified: '1991-10-22T08:48:44Z'
+SHA-1: 26457A4859BB5F992A91DC8F850497C573BB7A78
+Description: null

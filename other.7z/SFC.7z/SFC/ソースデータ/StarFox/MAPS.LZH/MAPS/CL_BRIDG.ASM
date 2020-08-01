@@ -1,0 +1,6 @@
+Name: CL_BRIDG.ASM
+Type: file
+Size: 790
+Last-Modified: '1992-12-08T18:09:24Z'
+SHA-1: 00B56931DE6B8BBEF60FB836D99ADC65258C8B85
+Description: null

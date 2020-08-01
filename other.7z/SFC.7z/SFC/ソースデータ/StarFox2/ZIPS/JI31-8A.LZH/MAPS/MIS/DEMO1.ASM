@@ -1,0 +1,6 @@
+Name: DEMO1.ASM
+Type: file
+Size: 516
+Last-Modified: '1995-05-22T16:46:10Z'
+SHA-1: AFDFB5E7778837555429567140F061CB4C4824E5
+Description: null

@@ -1,0 +1,6 @@
+Name: 新規英文テキスト.txt
+Type: file
+Size: 17306
+Last-Modified: '1998-11-10T00:57:10Z'
+SHA-1: 39760382E3C2449C1D6FB6F83433BF4619E8AEA8
+Description: null

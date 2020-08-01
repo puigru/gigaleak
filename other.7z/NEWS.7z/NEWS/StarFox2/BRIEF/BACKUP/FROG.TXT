@@ -1,0 +1,6 @@
+Name: FROG.TXT
+Type: file
+Size: 133
+Last-Modified: '1995-01-27T08:49:40Z'
+SHA-1: 3FA83E4670D4727D4503E74559BC10D6DC5206D0
+Description: null

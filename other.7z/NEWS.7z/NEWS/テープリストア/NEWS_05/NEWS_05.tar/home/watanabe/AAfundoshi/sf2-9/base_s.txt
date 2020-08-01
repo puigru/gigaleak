@@ -1,0 +1,6 @@
+Name: base_s.txt
+Type: file
+Size: 1641
+Last-Modified: '1994-10-26T06:21:21Z'
+SHA-1: EDC5E7C28BB2EF6EDE8977E2C190006B537BA0DB
+Description: null

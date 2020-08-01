@@ -1,0 +1,6 @@
+Name: ami_yo.txt
+Type: file
+Size: 434
+Last-Modified: '1994-07-28T02:41:44Z'
+SHA-1: 19851F17049E900ECCE94BF6D71827322E22D738
+Description: null

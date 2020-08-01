@@ -1,0 +1,6 @@
+Name: MOBJ.MC
+Type: file
+Size: 100947
+Last-Modified: '1995-03-06T04:40:00Z'
+SHA-1: C073C188E55A9B5BCB703F4E737F718AFFDA4A83
+Description: null

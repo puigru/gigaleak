@@ -1,0 +1,6 @@
+Name: Car.asm
+Type: file
+Size: 32737
+Last-Modified: '1992-02-13T07:47:42Z'
+SHA-1: B7F5A91A16757DF05695B3656DC46C1B5D34BCF7
+Description: null

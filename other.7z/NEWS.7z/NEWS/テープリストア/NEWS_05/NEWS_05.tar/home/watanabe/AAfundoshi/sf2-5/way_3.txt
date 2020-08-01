@@ -1,0 +1,6 @@
+Name: way_3.txt
+Type: file
+Size: 442
+Last-Modified: '1994-07-28T02:50:09Z'
+SHA-1: 353CBE386EC6EDDABA5C17AD57F149EFEC41B166
+Description: null

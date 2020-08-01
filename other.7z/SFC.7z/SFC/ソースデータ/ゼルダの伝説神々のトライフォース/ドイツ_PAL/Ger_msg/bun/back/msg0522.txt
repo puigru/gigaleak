@@ -1,0 +1,6 @@
+Name: msg0522.txt
+Type: file
+Size: 59
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: FCE48ABFDF574563C9D3D5DA01F3A71854C1B509
+Description: null

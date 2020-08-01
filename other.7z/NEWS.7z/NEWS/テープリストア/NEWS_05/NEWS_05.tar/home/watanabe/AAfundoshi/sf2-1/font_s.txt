@@ -1,0 +1,6 @@
+Name: font_s.txt
+Type: file
+Size: 1293
+Last-Modified: '1994-07-28T02:41:58Z'
+SHA-1: ADC6FFE25FC0A13802D890FC744AAD96BCE37656
+Description: null

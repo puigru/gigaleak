@@ -1,0 +1,6 @@
+Name: type.c
+Type: file
+Size: 3438
+Last-Modified: '1992-11-19T04:55:51Z'
+SHA-1: 0433D6245C4A4B553CFA61C31E510EA2664C2647
+Description: null

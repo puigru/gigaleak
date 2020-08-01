@@ -1,0 +1,6 @@
+Name: BKDISK.BAT
+Type: file
+Size: 510
+Last-Modified: '1994-07-26T02:10:38Z'
+SHA-1: 6DAB62478BEF52C6C3E69AF78971842DFF856873
+Description: null

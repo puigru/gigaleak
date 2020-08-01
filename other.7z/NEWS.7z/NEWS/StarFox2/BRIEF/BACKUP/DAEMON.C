@@ -1,0 +1,6 @@
+Name: DAEMON.C
+Type: file
+Size: 343
+Last-Modified: '1995-05-22T10:21:26Z'
+SHA-1: 24A06FD15AACBFEBD567C708F0AF3BE520C95B6F
+Description: null

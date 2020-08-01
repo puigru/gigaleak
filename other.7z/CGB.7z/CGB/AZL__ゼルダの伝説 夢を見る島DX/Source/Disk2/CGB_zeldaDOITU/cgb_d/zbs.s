@@ -1,0 +1,6 @@
+Name: zbs.s
+Type: file
+Size: 69972
+Last-Modified: '1998-12-10T10:22:20Z'
+SHA-1: 704A5B4514EE777427379888119905F4946015B8
+Description: null

@@ -1,0 +1,6 @@
+Name: b6.txt
+Type: file
+Size: 143
+Last-Modified: '1994-07-28T03:00:19Z'
+SHA-1: 501DB7F3B08F1962076D95C39AFC7FCCA2DF0E8C
+Description: null

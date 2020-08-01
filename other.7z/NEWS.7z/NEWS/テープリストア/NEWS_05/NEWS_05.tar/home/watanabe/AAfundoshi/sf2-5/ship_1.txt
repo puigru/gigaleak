@@ -1,0 +1,6 @@
+Name: ship_1.txt
+Type: file
+Size: 744
+Last-Modified: '1994-07-28T02:50:04Z'
+SHA-1: 3FB1973FAD15003DB5211F12444AAF7AA735C7D9
+Description: null

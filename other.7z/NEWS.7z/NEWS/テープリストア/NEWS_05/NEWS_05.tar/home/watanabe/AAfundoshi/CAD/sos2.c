@@ -1,0 +1,6 @@
+Name: sos2.c
+Type: file
+Size: 63668
+Last-Modified: '1995-04-14T01:24:45Z'
+SHA-1: 6C8B70B8EA8333D1EE18B3CF9AD82F20140FAE7F
+Description: null

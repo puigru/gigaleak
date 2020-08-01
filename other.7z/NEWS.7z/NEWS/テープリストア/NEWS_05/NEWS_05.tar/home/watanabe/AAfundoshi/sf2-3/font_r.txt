@@ -1,0 +1,6 @@
+Name: font_r.txt
+Type: file
+Size: 266
+Last-Modified: '1994-07-28T02:45:38Z'
+SHA-1: D23E6972E6B20A245921D22393451C7D369851B6
+Description: null

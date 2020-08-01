@@ -1,0 +1,6 @@
+Name: tmp.cmd
+Type: file
+Size: 11265
+Last-Modified: '1993-07-02T02:10:57Z'
+SHA-1: 2E4D7A3BFCC665D7AAE8BB5EC6A0987D36413943
+Description: null

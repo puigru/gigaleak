@@ -1,0 +1,6 @@
+Name: LARM1.txt
+Type: file
+Size: 69
+Last-Modified: '1994-07-28T02:59:43Z'
+SHA-1: 77FFC5F000EF7DA2DBB04A5A051CC596E091F5DE
+Description: null

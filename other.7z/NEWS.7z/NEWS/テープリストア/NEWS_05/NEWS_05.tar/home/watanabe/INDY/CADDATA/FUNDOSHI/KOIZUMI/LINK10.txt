@@ -1,0 +1,6 @@
+Name: LINK10.txt
+Type: file
+Size: 193
+Last-Modified: '1994-07-28T02:59:45Z'
+SHA-1: 44CD25AC3C4F7ACE56A136C20328A00E10333AE9
+Description: null

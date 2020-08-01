@@ -1,0 +1,6 @@
+Name: item.txt
+Type: file
+Size: 4977
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: 345E03060FFF818C7BDBB6213DAC38F0F02DE4CE
+Description: null

@@ -1,0 +1,6 @@
+Name: BANK8.ASM
+Type: file
+Size: 641
+Last-Modified: '1995-06-16T19:49:52Z'
+SHA-1: EF46A23C97DEFC3C04A52E4495CA780B1FA0C8BA
+Description: null

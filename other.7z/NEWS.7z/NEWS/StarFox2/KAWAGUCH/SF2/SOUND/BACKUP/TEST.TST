@@ -1,0 +1,6 @@
+Name: TEST.TST
+Type: file
+Size: 7412
+Last-Modified: '1994-03-24T00:13:44Z'
+SHA-1: 54EF839A663B959C987EDB5A5A35A3B8A3C49DE1
+Description: null

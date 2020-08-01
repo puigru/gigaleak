@@ -1,0 +1,6 @@
+Name: msg0008.txt
+Type: file
+Size: 71
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 9B7243BC4BFA78D0344431D742CA88EDC72C3D4C
+Description: null

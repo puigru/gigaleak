@@ -1,0 +1,6 @@
+Name: CHILD.C
+Type: file
+Size: 2222
+Last-Modified: '1995-03-27T05:43:50Z'
+SHA-1: CEF8A0FBC42261FBC9AB3B8E8D1AC1D6B07399F1
+Description: null

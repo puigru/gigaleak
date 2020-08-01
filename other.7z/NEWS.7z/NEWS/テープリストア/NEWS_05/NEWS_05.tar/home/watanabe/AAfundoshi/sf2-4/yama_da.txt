@@ -1,0 +1,6 @@
+Name: yama_da.txt
+Type: file
+Size: 257
+Last-Modified: '1994-07-28T02:47:23Z'
+SHA-1: 8DE77BD2F116FF0A8FBCBD6FBB0C838603EC1658
+Description: null

@@ -1,0 +1,6 @@
+Name: d_0.txt
+Type: file
+Size: 242
+Last-Modified: '1994-07-28T02:46:57Z'
+SHA-1: 6AE22A9105116B201C1E250D2FBDE4AE7CFE2140
+Description: null

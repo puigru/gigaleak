@@ -1,0 +1,6 @@
+Name: mukade_0.txt
+Type: file
+Size: 345
+Last-Modified: '1994-07-28T02:50:04Z'
+SHA-1: 9E692860F30BDF613B53AB518AFF8016AD274D2B
+Description: null

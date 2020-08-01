@@ -1,0 +1,6 @@
+Name: msg00dd.txt
+Type: file
+Size: 95
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 43B1965C9EA0AFED651E31643A3FCC92565C43B2
+Description: null

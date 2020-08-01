@@ -1,0 +1,6 @@
+Name: zes.s
+Type: file
+Size: 31053
+Last-Modified: '1998-08-11T05:24:56Z'
+SHA-1: D2224A1ADFA77269A2DEF644AE66F6F21219C91F
+Description: null

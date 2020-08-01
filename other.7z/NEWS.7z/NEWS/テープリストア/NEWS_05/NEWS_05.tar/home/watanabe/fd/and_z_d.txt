@@ -1,0 +1,6 @@
+Name: and_z_d.txt
+Type: file
+Size: 225
+Last-Modified: '1995-06-17T13:42:22Z'
+SHA-1: 7E9923284EC47B0188130ED3A4D5C738BB4C0C3A
+Description: null

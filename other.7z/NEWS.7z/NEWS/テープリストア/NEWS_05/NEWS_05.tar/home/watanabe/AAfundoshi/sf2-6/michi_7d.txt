@@ -1,0 +1,6 @@
+Name: michi_7d.txt
+Type: file
+Size: 168
+Last-Modified: '1994-07-28T02:33:11Z'
+SHA-1: 54C23863615510B447C2D22AD79089EA26724BDD
+Description: null

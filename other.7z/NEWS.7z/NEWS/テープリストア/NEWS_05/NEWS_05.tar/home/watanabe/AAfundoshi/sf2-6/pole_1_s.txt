@@ -1,0 +1,6 @@
+Name: pole_1_s.txt
+Type: file
+Size: 60
+Last-Modified: '1994-07-28T02:33:12Z'
+SHA-1: 86496D571406D300EE06EA345C2E5D7A3A9100F9
+Description: null

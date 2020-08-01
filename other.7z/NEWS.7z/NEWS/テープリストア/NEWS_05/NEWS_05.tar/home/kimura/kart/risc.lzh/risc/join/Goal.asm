@@ -1,0 +1,6 @@
+Name: Goal.asm
+Type: file
+Size: 1365
+Last-Modified: '1992-04-13T07:01:43Z'
+SHA-1: FC85B0D85E10B2B6EB6137A7504587B773CF669F
+Description: null

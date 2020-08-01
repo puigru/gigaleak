@@ -1,0 +1,6 @@
+Name: ASIN.C
+Type: file
+Size: 526
+Last-Modified: '1994-07-18T05:06:10Z'
+SHA-1: EC439991938B15C756405CFEC15D8AD87DE923F3
+Description: null

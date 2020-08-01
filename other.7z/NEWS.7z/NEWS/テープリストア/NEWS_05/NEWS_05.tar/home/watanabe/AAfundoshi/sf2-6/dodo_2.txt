@@ -1,0 +1,6 @@
+Name: dodo_2.txt
+Type: file
+Size: 144
+Last-Modified: '1994-07-28T02:33:11Z'
+SHA-1: 5BFF1EE1222900E4EE35FEC66DF8ACFB40241052
+Description: null

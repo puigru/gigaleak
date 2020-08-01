@@ -1,0 +1,6 @@
+Name: s_4.txt
+Type: file
+Size: 56
+Last-Modified: '1994-07-28T02:42:06Z'
+SHA-1: 619EEF850F9143205D748F77666221850EF253AD
+Description: null

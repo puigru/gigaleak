@@ -1,0 +1,6 @@
+Name: QFTP.C
+Type: file
+Size: 3296
+Last-Modified: '1995-03-02T08:22:28Z'
+SHA-1: 868688E88396AB80F9C11C46920D6855D80CB6FE
+Description: null

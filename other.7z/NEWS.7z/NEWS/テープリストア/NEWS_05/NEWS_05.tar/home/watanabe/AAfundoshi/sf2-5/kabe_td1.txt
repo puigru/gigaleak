@@ -1,0 +1,6 @@
+Name: kabe_td1.txt
+Type: file
+Size: 353
+Last-Modified: '1994-07-28T02:49:58Z'
+SHA-1: 8481DEE5D4614AD955EEA821B1C5D7BDACF75D66
+Description: null

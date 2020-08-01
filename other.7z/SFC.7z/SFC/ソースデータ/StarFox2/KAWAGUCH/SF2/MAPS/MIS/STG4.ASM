@@ -1,0 +1,6 @@
+Name: STG4.ASM
+Type: file
+Size: 25538
+Last-Modified: '1995-09-04T01:05:32Z'
+SHA-1: 634978EFFC440AA24A2108979D6D84AAA050F27D
+Description: null

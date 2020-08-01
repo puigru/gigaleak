@@ -1,0 +1,6 @@
+Name: .txt
+Type: file
+Size: 2989
+Last-Modified: '1994-09-17T07:13:07Z'
+SHA-1: 33231FC7ECEC9AE27C638EC87A2F3B5198719007
+Description: null

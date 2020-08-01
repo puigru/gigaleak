@@ -1,0 +1,6 @@
+Name: msg0518.txt
+Type: file
+Size: 53
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: B5605176EEC17A4C5EB04866763F77E30F986E18
+Description: null

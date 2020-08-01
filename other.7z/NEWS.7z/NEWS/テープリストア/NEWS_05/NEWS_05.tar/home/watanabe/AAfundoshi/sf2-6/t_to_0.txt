@@ -1,0 +1,6 @@
+Name: t_to_0.txt
+Type: file
+Size: 560
+Last-Modified: '1994-07-28T02:33:12Z'
+SHA-1: 21E0B721C8A64433763055A3B63B91918FC219D4
+Description: null

@@ -1,0 +1,6 @@
+Name: michi_3d.txt
+Type: file
+Size: 168
+Last-Modified: '1994-07-28T02:33:11Z'
+SHA-1: 5101A785B930D7473166E4EC24EA0F272AE9DBAA
+Description: null

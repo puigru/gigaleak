@@ -1,0 +1,6 @@
+Name: RS232C.asm
+Type: file
+Size: 13217
+Last-Modified: '1994-04-27T05:38:42Z'
+SHA-1: 50BB2576D8A5842F99E3EE0EE7CE891BEDA92C87
+Description: null

@@ -1,0 +1,6 @@
+Name: pyramidd.txt
+Type: file
+Size: 834
+Last-Modified: '1994-07-28T02:43:56Z'
+SHA-1: AF34326723B907A035137FF98055675E881919D6
+Description: null

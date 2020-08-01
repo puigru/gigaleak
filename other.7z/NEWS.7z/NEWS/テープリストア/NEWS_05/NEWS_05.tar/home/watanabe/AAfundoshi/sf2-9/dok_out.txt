@@ -1,0 +1,6 @@
+Name: dok_out.txt
+Type: file
+Size: 5272
+Last-Modified: '1994-10-17T06:45:37Z'
+SHA-1: 4A2C0B4AAFDED681EB7330467CD23EF76440953C
+Description: null

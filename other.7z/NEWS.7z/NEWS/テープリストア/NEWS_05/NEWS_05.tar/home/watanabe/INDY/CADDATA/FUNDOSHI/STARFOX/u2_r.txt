@@ -1,0 +1,6 @@
+Name: u2_r.txt
+Type: file
+Size: 248
+Last-Modified: '1994-07-28T03:00:06Z'
+SHA-1: 0BF181BF648052260682D09DF4B9A8E1AF0F2297
+Description: null

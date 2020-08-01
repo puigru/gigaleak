@@ -1,0 +1,6 @@
+Name: msg0530.txt
+Type: file
+Size: 91
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 4669F68A0642C2E6D79A228ABE4F0F1568952E62
+Description: null

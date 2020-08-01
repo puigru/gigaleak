@@ -1,0 +1,6 @@
+Name: hito.txt
+Type: file
+Size: 1241
+Last-Modified: '1994-07-28T02:58:50Z'
+SHA-1: 801A6F7E0F5D5889FF49B1BAE6423885894B0E9E
+Description: null

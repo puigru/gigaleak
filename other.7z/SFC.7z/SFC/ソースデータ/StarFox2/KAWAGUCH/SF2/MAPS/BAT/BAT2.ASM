@@ -1,0 +1,6 @@
+Name: BAT2.ASM
+Type: file
+Size: 4642
+Last-Modified: '1995-05-18T06:19:46Z'
+SHA-1: E79C2F75926B2B948D115BFE26D8E8CFAD9EBB0F
+Description: null

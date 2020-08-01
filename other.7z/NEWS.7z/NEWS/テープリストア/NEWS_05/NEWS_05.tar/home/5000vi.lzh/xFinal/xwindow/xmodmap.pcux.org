@@ -1,0 +1,6 @@
+Name: xmodmap.pcux.org
+Type: file
+Size: 212
+Last-Modified: '1990-09-28T08:07:03Z'
+SHA-1: 3C54055A542B3EDCE3E567E64226FA6D86B3151A
+Description: null

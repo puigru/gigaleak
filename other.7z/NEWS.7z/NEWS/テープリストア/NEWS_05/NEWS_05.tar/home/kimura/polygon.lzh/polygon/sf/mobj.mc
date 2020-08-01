@@ -1,0 +1,6 @@
+Name: mobj.mc
+Type: file
+Size: 66409
+Last-Modified: '1992-10-23T04:41:26Z'
+SHA-1: 92240B7FCC7620D071215A712DCE7847D0B9D178
+Description: null

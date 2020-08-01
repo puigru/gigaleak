@@ -1,0 +1,6 @@
+Name: C2-1.ASM
+Type: file
+Size: 9651
+Last-Modified: '1992-12-22T16:17:58Z'
+SHA-1: E5FA0131FD4EAD83EB0E5F4ED06225F815527EDE
+Description: null

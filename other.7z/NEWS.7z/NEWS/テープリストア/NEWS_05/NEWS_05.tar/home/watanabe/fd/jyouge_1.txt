@@ -1,0 +1,6 @@
+Name: jyouge_1.txt
+Type: file
+Size: 747
+Last-Modified: '1995-03-23T05:50:58Z'
+SHA-1: B11B0135F5D937E8C696874594380D0FEF87DCB8
+Description: null

@@ -1,0 +1,6 @@
+Name: anim.c
+Type: file
+Size: 31757
+Last-Modified: '1995-04-14T01:24:43Z'
+SHA-1: E1A03B4E2B99A0759CDAE37D4210AB10E814289E
+Description: null

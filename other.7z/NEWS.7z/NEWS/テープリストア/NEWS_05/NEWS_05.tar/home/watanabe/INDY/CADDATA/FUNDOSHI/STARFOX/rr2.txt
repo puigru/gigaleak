@@ -1,0 +1,6 @@
+Name: rr2.txt
+Type: file
+Size: 559
+Last-Modified: '1994-07-28T03:00:02Z'
+SHA-1: 2204BC9B47CFBDAEF53626BC35A8CFFF947D1948
+Description: null

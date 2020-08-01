@@ -1,0 +1,6 @@
+Name: LHAED.txt
+Type: file
+Size: 1275
+Last-Modified: '1994-07-28T02:59:44Z'
+SHA-1: 27EE20DFA5DD69E41B9C2ED721AA7CED8C80754E
+Description: null

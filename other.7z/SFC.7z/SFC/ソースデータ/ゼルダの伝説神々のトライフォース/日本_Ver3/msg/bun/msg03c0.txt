@@ -1,0 +1,6 @@
+Name: msg03c0.txt
+Type: file
+Size: 665
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: ABF66E34F6E4E131F2F8CD74C14BD27DB493E0AB
+Description: null

@@ -1,0 +1,6 @@
+Name: HITO1.txt
+Type: file
+Size: 1220
+Last-Modified: '1994-07-28T02:59:42Z'
+SHA-1: 6F750E30C96F56EBBF58A99BF3C935952F8940C2
+Description: null

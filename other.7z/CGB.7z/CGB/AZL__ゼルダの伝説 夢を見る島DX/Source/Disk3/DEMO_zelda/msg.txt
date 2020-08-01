@@ -1,0 +1,6 @@
+Name: msg.txt
+Type: file
+Size: 214775
+Last-Modified: '1998-09-19T05:10:56Z'
+SHA-1: F66D8055A75AD521C88EC4094A3598AF4DA056DF
+Description: null

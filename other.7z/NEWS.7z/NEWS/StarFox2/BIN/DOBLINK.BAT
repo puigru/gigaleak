@@ -1,0 +1,6 @@
+Name: DOBLINK.BAT
+Type: file
+Size: 66
+Last-Modified: '1994-02-18T01:32:20Z'
+SHA-1: 2CEBB721ECAB6704FFF1F1164398C8421A34231B
+Description: null

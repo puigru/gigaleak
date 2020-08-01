@@ -1,0 +1,6 @@
+Name: UTIL.C
+Type: file
+Size: 2504
+Last-Modified: '1994-12-02T08:30:58Z'
+SHA-1: 5680E883FF825FD24F27A2FE27AFB3359B539F3B
+Description: null

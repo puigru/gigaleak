@@ -1,0 +1,6 @@
+Name: tama_1.txt
+Type: file
+Size: 1466
+Last-Modified: '1994-11-04T02:39:57Z'
+SHA-1: 75313EEEDEFDC27A82F98FBA487B3B3B454E07FC
+Description: null

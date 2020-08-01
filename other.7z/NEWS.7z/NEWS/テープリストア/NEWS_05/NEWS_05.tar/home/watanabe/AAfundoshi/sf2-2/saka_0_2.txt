@@ -1,0 +1,6 @@
+Name: saka_0_2.txt
+Type: file
+Size: 227
+Last-Modified: '1994-07-28T02:44:00Z'
+SHA-1: 6914545B7BD721C636E9836035E4F5D46ABF55BC
+Description: null

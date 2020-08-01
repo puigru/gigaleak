@@ -1,0 +1,6 @@
+Name: phodoro.CSD
+Type: file
+Size: 720
+Last-Modified: '1998-10-27T12:31:40Z'
+SHA-1: EF1C341932A6AC55FD5CEF08D9158D32D43A142C
+Description: null

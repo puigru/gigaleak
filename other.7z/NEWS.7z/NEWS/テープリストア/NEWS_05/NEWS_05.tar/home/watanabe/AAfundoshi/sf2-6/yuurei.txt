@@ -1,0 +1,6 @@
+Name: yuurei.txt
+Type: file
+Size: 1701
+Last-Modified: '1994-07-28T02:33:13Z'
+SHA-1: 91FF839058A2C40296FAAA940302FBE8B25EAC9C
+Description: null

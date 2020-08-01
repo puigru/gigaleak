@@ -1,0 +1,6 @@
+Name: エンディング(JP).txt
+Type: file
+Size: 1077
+Last-Modified: '1998-11-06T15:17:00Z'
+SHA-1: 971EEF3DC8F28AE22CA4BF1FAE761F84AC0A9DF3
+Description: null

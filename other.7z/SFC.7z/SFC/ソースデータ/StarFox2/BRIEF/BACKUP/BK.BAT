@@ -1,0 +1,6 @@
+Name: BK.BAT
+Type: file
+Size: 52
+Last-Modified: '1994-08-02T05:06:22Z'
+SHA-1: F6FF5552FCFCE7498F46D8E73462CD3FDE09E4BD
+Description: null

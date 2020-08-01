@@ -1,0 +1,6 @@
+Name: COPYALL.BAT
+Type: file
+Size: 84
+Last-Modified: '1995-02-14T03:32:06Z'
+SHA-1: 669D82302CAC8585F60375D68F674E872A63B9C0
+Description: null

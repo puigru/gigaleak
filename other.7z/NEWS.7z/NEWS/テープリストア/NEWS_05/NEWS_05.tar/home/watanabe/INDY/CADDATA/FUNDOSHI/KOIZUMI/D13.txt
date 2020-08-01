@@ -1,0 +1,6 @@
+Name: D13.txt
+Type: file
+Size: 58
+Last-Modified: '1994-07-28T02:59:38Z'
+SHA-1: 4F3C70C09EFC6191097C3CD9B6057CC21C327DC9
+Description: null

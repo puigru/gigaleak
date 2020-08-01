@@ -1,0 +1,6 @@
+Name: zed.s
+Type: file
+Size: 56533
+Last-Modified: '1998-06-18T05:33:40Z'
+SHA-1: 7BB94920CA266C6DD1652A4C267F275009BB9F43
+Description: null

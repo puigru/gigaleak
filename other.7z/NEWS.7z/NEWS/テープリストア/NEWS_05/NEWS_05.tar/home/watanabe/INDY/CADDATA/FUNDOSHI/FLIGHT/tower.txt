@@ -1,0 +1,6 @@
+Name: tower.txt
+Type: file
+Size: 380
+Last-Modified: '1994-07-28T03:00:26Z'
+SHA-1: 915E8FED05C2F1A436C29F7509E7CE3E56F20818
+Description: null

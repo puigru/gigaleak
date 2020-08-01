@@ -1,0 +1,6 @@
+Name: huku.txt
+Type: file
+Size: 1389
+Last-Modified: '1998-09-22T07:59:48Z'
+SHA-1: 072953D3FACF5FD7AFABD2718FB071456710B1CB
+Description: null

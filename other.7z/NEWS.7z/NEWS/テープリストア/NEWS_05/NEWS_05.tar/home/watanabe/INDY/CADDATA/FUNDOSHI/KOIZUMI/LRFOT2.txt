@@ -1,0 +1,6 @@
+Name: LRFOT2.txt
+Type: file
+Size: 1012
+Last-Modified: '1994-07-28T02:59:50Z'
+SHA-1: 9EAD96141D854886A474F164FD4F01D40CD6788C
+Description: null

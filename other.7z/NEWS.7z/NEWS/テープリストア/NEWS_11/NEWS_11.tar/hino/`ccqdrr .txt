@@ -1,0 +1,6 @@
+Name: "\x82`\x82c\x82c\x82q\x82d\x82r\x82r\x92 .txt"
+Type: file
+Size: 1548
+Last-Modified: '1994-10-25T13:06:32Z'
+SHA-1: 1EE678BA291FD53E8CE621CB155B866E082FB479
+Description: null

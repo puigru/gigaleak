@@ -1,0 +1,6 @@
+Name: ASMVARS.INC
+Type: file
+Size: 2
+Last-Modified: '1993-10-15T06:30:30Z'
+SHA-1: BA8AB5A0280B953AA97435FF8946CBCBB2755A27
+Description: null

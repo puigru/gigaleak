@@ -1,0 +1,6 @@
+Name: msg05e2.txt
+Type: file
+Size: 101
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: FB5C07EC402318E6511F3190178CC21295EAE211
+Description: null

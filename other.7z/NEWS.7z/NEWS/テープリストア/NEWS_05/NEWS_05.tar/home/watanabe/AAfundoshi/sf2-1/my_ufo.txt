@@ -1,0 +1,6 @@
+Name: my_ufo.txt
+Type: file
+Size: 678
+Last-Modified: '1994-07-28T02:42:03Z'
+SHA-1: D781FE656EAC99568A51073DDCAF5E7D426F4C42
+Description: null

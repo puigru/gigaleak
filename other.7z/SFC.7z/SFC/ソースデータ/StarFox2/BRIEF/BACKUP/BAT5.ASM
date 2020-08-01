@@ -1,0 +1,6 @@
+Name: BAT5.ASM
+Type: file
+Size: 789
+Last-Modified: '1994-08-26T06:27:40Z'
+SHA-1: 929BA33B6E64DF4A65CCE02AB4619B80E88A79B5
+Description: null

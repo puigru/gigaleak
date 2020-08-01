@@ -1,0 +1,6 @@
+Name: LIGHT.ASM
+Type: file
+Size: 2226
+Last-Modified: '1994-11-29T06:08:04Z'
+SHA-1: F914C8F85D66FB8DDB74BA2425D60DB5FD15F274
+Description: null

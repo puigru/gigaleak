@@ -1,0 +1,6 @@
+Name: msg04e0.txt
+Type: file
+Size: 311
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 4D4B45FD4936115519E310168DA3080FE7F22F19
+Description: null

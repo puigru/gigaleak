@@ -1,0 +1,6 @@
+Name: BANK4.ASM
+Type: file
+Size: 396
+Last-Modified: '1995-06-24T12:15:46Z'
+SHA-1: 5D3A6CF7CC1A5D05D11D7FD0EEA0F4A721FDE40C
+Description: null

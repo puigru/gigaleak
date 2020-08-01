@@ -1,0 +1,6 @@
+Name: fuusen.txt
+Type: file
+Size: 712
+Last-Modified: '1994-11-07T07:50:59Z'
+SHA-1: 1CD1F65D68C02FE340A29CA8E7C8904171E54124
+Description: null

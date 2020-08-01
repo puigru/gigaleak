@@ -1,0 +1,6 @@
+Name: msg008f.txt
+Type: file
+Size: 47
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 5F05EDF67197429243207DC3F1AD04A79A86F21F
+Description: null

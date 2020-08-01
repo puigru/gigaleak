@@ -1,0 +1,6 @@
+Name: msg0047.txt
+Type: file
+Size: 243
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 4C56AE15340C956924D17ACA2D19AF6767748044
+Description: null

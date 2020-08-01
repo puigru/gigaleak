@@ -1,0 +1,6 @@
+Name: D2.txt
+Type: file
+Size: 240
+Last-Modified: '1994-07-28T02:59:39Z'
+SHA-1: 58AAC1DC186C0CB26A3E28E5C68DF81245A06210
+Description: null

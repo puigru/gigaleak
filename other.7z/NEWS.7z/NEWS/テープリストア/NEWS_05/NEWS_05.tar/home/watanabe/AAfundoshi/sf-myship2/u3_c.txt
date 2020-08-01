@@ -1,0 +1,6 @@
+Name: u3_c.txt
+Type: file
+Size: 265
+Last-Modified: '1994-07-28T02:52:30Z'
+SHA-1: D2740496184C4FCC7D53F30DC695B0A4386E3436
+Description: null

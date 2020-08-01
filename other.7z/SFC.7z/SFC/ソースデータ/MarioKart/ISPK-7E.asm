@@ -1,0 +1,6 @@
+Name: ISPK-7E.asm
+Type: file
+Size: 7432
+Last-Modified: '1992-07-01T15:00:00Z'
+SHA-1: 791BE768C7EA7755BF11EA76D0C0628D622FDCA2
+Description: null

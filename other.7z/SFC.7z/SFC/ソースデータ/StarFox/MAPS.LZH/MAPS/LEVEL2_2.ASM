@@ -1,0 +1,6 @@
+Name: LEVEL2_2.ASM
+Type: file
+Size: 91
+Last-Modified: '1992-12-11T00:22:56Z'
+SHA-1: A022B233A9F65F1E0536375453CF2D6CECBCA730
+Description: null

@@ -1,0 +1,6 @@
+Name: BHOLE.ASM
+Type: file
+Size: 1720
+Last-Modified: '1992-12-17T14:14:18Z'
+SHA-1: 58B2ED63C5F29BF365083262A9EF2EF7A898769F
+Description: null

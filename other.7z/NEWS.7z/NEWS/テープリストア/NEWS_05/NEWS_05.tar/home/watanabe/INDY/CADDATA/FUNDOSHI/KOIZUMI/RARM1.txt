@@ -1,0 +1,6 @@
+Name: RARM1.txt
+Type: file
+Size: 70
+Last-Modified: '1994-07-28T02:59:52Z'
+SHA-1: 6E32C6AC2CF26A91765F5D23FD69817806761842
+Description: null

@@ -1,0 +1,6 @@
+Name: u2_l.txt
+Type: file
+Size: 280
+Last-Modified: '1994-07-28T02:52:30Z'
+SHA-1: 73A2507E410D54D0F34E81DC32F06C8BA8436C98
+Description: null

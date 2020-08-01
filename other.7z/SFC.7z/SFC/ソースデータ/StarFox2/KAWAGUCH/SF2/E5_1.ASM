@@ -1,0 +1,6 @@
+Name: E5_1.ASM
+Type: file
+Size: 5072
+Last-Modified: '1995-05-24T08:15:40Z'
+SHA-1: 2E59515D7A7AF3AA501A636AEE9DA471510853FD
+Description: null

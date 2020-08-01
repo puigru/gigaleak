@@ -1,0 +1,6 @@
+Name: RAW2GIF.C
+Type: file
+Size: 8703
+Last-Modified: '1995-02-06T04:38:22Z'
+SHA-1: 7D81D88027DC7FEA82542520B2F1488A9D032A06
+Description: null

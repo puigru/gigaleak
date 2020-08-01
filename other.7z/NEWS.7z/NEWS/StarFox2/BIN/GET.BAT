@@ -1,0 +1,6 @@
+Name: GET.BAT
+Type: file
+Size: 1224
+Last-Modified: '1994-02-09T10:54:14Z'
+SHA-1: A46C5D15D896088A39BDADE610ABA0F153347FB1
+Description: null

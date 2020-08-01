@@ -1,0 +1,6 @@
+Name: MMACS.MC
+Type: file
+Size: 14002
+Last-Modified: '1993-02-15T08:40:38Z'
+SHA-1: 59279F47E009274AAF38E269D9BF738EAA38E715
+Description: null

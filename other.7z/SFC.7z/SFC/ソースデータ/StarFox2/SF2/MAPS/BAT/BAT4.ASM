@@ -1,0 +1,6 @@
+Name: BAT4.ASM
+Type: file
+Size: 997
+Last-Modified: '1994-10-11T08:15:54Z'
+SHA-1: 1CA2F0A88808009AC7F2008D560E6E8328043C3C
+Description: null

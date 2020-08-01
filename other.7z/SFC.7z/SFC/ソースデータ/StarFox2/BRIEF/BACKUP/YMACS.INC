@@ -1,0 +1,6 @@
+Name: YMACS.INC
+Type: file
+Size: 995
+Last-Modified: '1994-08-02T05:16:52Z'
+SHA-1: 4E64F377E3A9B30B7007E3B46A30718C5B371B2F
+Description: null

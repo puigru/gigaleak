@@ -1,0 +1,6 @@
+Name: M2.BAT
+Type: file
+Size: 95
+Last-Modified: '1993-03-03T05:19:44Z'
+SHA-1: 2D593727AF8A1BC45A60B8B36A38262EC5E18703
+Description: null

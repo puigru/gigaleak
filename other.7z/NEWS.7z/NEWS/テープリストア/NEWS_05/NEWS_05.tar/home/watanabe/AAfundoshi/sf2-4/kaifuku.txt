@@ -1,0 +1,6 @@
+Name: kaifuku.txt
+Type: file
+Size: 491
+Last-Modified: '1994-07-28T02:47:03Z'
+SHA-1: 909BE0C9BC6C804E2C8802B912BFF9DA864E79ED
+Description: null

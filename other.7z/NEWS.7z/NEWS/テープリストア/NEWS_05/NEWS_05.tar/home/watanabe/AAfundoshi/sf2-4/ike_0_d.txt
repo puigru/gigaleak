@@ -1,0 +1,6 @@
+Name: ike_0_d.txt
+Type: file
+Size: 1555
+Last-Modified: '1994-07-28T02:47:02Z'
+SHA-1: 5BFF9401B66D1B02F79A99620A54B0A18F87B210
+Description: null

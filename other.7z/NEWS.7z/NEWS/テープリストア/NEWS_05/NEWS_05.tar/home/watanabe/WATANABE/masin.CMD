@@ -1,0 +1,6 @@
+Name: masin.CMD
+Type: file
+Size: 11265
+Last-Modified: '1991-11-26T00:48:34Z'
+SHA-1: 841D1DF1CB688BA06D01A2CB0078A38D89E723C4
+Description: null

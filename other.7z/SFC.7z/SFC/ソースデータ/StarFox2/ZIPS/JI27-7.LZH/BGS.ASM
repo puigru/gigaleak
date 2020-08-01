@@ -1,0 +1,6 @@
+Name: BGS.ASM
+Type: file
+Size: 24022
+Last-Modified: '1995-07-04T12:30:14Z'
+SHA-1: 53D21F7B2D6EB8F83D07F19C56D9C69118E88D9F
+Description: null

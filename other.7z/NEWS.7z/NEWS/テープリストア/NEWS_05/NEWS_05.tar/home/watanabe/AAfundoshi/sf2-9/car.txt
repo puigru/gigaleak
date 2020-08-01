@@ -1,0 +1,6 @@
+Name: car.txt
+Type: file
+Size: 675
+Last-Modified: '1994-09-30T05:47:24Z'
+SHA-1: 66F5506075955B8B22AA226F53297673993C05D6
+Description: null

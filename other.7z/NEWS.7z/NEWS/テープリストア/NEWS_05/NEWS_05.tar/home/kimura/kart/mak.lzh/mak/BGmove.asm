@@ -1,0 +1,6 @@
+Name: BGmove.asm
+Type: file
+Size: 11864
+Last-Modified: '1992-02-13T07:47:41Z'
+SHA-1: 28303A634288D3119BEA57D993BAF819D0EC4098
+Description: null

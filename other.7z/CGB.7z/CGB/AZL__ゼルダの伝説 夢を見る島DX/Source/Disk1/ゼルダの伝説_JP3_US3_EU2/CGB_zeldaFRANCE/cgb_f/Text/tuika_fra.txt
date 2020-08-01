@@ -1,0 +1,6 @@
+Name: tuika_fra.txt
+Type: file
+Size: 1128
+Last-Modified: '1998-11-27T03:39:30Z'
+SHA-1: A55FE988BC6D16EA116E1BAED81AA22B018A94D1
+Description: null

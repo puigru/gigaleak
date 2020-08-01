@@ -1,0 +1,6 @@
+Name: ss1.txt
+Type: file
+Size: 612
+Last-Modified: '1994-07-28T02:52:21Z'
+SHA-1: B50347B806179BA08EF7A79D93A8C8CDF5632948
+Description: null

@@ -1,0 +1,6 @@
+Name: sum8.c
+Type: file
+Size: 590
+Last-Modified: '1992-11-19T04:55:50Z'
+SHA-1: 5FBF06AC76BC975D28DD17C1805BE4A6160D7607
+Description: null

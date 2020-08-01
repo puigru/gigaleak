@@ -1,0 +1,6 @@
+Name: GIF_HASH.C
+Type: file
+Size: 5581
+Last-Modified: '1990-09-05T22:19:06Z'
+SHA-1: 49EE3A8D132721E6A903962E78E33DB07EAAFE4D
+Description: null

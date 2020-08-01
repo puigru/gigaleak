@@ -1,0 +1,6 @@
+Name: ZFADE.s
+Type: file
+Size: 12683
+Last-Modified: '1998-10-26T07:17:28Z'
+SHA-1: A459C4150163870A5ED842C2BEAEEB1D1A1133F9
+Description: null

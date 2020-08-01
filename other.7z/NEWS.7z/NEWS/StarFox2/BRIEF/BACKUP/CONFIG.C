@@ -1,0 +1,6 @@
+Name: CONFIG.C
+Type: file
+Size: 3992
+Last-Modified: '1995-05-22T10:28:24Z'
+SHA-1: 2916EBD2322E1772EA969928CC0FC05DA84D97F3
+Description: null

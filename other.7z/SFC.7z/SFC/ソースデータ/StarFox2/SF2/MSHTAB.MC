@@ -1,0 +1,6 @@
+Name: MSHTAB.MC
+Type: file
+Size: 1099
+Last-Modified: '1994-05-13T08:22:36Z'
+SHA-1: E3CD853630EA02BBA751AAA8A79888C6C38FE2AF
+Description: null

@@ -1,0 +1,6 @@
+Name: nazca_0.txt
+Type: file
+Size: 707
+Last-Modified: '1994-07-28T02:47:09Z'
+SHA-1: 1C4EA14C1BAD8931310E56651340BCD1DD0E5532
+Description: null

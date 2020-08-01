@@ -1,0 +1,6 @@
+Name: spin_2.txt
+Type: file
+Size: 271
+Last-Modified: '1994-07-28T02:45:53Z'
+SHA-1: 0AF7283A08A6B7CABCB87F7B6B42611F80B18CBC
+Description: null

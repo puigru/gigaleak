@@ -1,0 +1,6 @@
+Name: CPALL.BAT
+Type: file
+Size: 2367
+Last-Modified: '1995-08-31T02:42:02Z'
+SHA-1: D84163A4424F0728BB301C32AA6277B756D25DCE
+Description: null

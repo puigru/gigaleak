@@ -1,0 +1,6 @@
+Name: xmodmap.luna.org
+Type: file
+Size: 222
+Last-Modified: '1990-09-28T08:07:02Z'
+SHA-1: AAFEB96E0EB3715980263CB303FB26265BB98CED
+Description: null

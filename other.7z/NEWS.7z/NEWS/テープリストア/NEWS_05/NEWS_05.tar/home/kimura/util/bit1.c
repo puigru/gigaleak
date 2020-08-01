@@ -1,0 +1,6 @@
+Name: bit1.c
+Type: file
+Size: 6324
+Last-Modified: '1994-02-22T05:59:33Z'
+SHA-1: 287B388670FBCC9E0F4DC1794A072EA380B12DA2
+Description: null

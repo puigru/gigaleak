@@ -1,0 +1,6 @@
+Name: MyColor.c
+Type: file
+Size: 278
+Last-Modified: '2016-05-13T04:52:55Z'
+SHA-1: A691445BB9B54214850BF9762FB9763FC02EDBA4
+Description: null

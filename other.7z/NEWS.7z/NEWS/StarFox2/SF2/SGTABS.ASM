@@ -1,0 +1,6 @@
+Name: SGTABS.ASM
+Type: file
+Size: 368
+Last-Modified: '1994-05-10T10:48:36Z'
+SHA-1: C3914E815A114ECBE3E5C74EA02AF034687C2CD0
+Description: null

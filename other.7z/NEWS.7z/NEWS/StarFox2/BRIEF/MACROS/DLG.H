@@ -1,0 +1,6 @@
+Name: DLG.H
+Type: file
+Size: 4148
+Last-Modified: '1993-09-07T04:51:50Z'
+SHA-1: 0761464675076A18F7ABC038D47BAEE89865E5C0
+Description: null

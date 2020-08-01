@@ -1,0 +1,6 @@
+Name: START.ICE
+Type: file
+Size: 57
+Last-Modified: '1994-04-13T03:49:42Z'
+SHA-1: 6A6AF0B1F89486E671F20C5AF45799F81BFAD47D
+Description: null

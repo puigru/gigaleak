@@ -1,0 +1,6 @@
+Name: Pause.asm
+Type: file
+Size: 45691
+Last-Modified: '1992-07-01T15:00:00Z'
+SHA-1: F2DC2DB2995B8B9DD1E90109DFB997D31A6B7400
+Description: null

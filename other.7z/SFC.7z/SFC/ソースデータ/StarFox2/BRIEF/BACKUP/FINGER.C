@@ -1,0 +1,6 @@
+Name: FINGER.C
+Type: file
+Size: 2714
+Last-Modified: '1994-06-13T05:53:24Z'
+SHA-1: 77CFF32FFAD6EF9312E543B09B0FD0C46194050C
+Description: null

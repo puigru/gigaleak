@@ -1,0 +1,6 @@
+Name: DEMO3.ASM
+Type: file
+Size: 432
+Last-Modified: '1995-05-30T13:07:44Z'
+SHA-1: 55B9F30BEAA1DD768B1F8D23434B9082510E4BBD
+Description: null

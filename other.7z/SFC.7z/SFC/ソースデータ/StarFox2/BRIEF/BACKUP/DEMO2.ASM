@@ -1,0 +1,6 @@
+Name: DEMO2.ASM
+Type: file
+Size: 341
+Last-Modified: '1994-11-30T12:32:12Z'
+SHA-1: 33D3F502A23BD4B0802D037112FA148554FF8F75
+Description: null

@@ -1,0 +1,6 @@
+Name: E3_F.ASM
+Type: file
+Size: 5259
+Last-Modified: '1995-06-01T08:41:34Z'
+SHA-1: 5B1FF89D5A172965481CF83171CDAF6F4891C88F
+Description: null

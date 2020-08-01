@@ -1,0 +1,6 @@
+Name: msg008d.txt
+Type: file
+Size: 215
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: 83882D40881FEE293D1D6DEFDCF2638618E10CDA
+Description: null

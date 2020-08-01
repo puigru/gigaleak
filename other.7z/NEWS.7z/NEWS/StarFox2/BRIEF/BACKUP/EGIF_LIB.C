@@ -1,0 +1,6 @@
+Name: EGIF_LIB.C
+Type: file
+Size: 27373
+Last-Modified: '1995-02-04T09:43:06Z'
+SHA-1: 54846C756940F66A9E53541ACEF6E1A20D6951E9
+Description: null

@@ -1,0 +1,6 @@
+Name: MAP2_1A.ASM
+Type: file
+Size: 18
+Last-Modified: '1992-10-13T10:25:28Z'
+SHA-1: A27C01C539810713538958B64969A2E73BA12CEF
+Description: null

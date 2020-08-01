@@ -1,0 +1,6 @@
+Name: msg00ba.txt
+Type: file
+Size: 118
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 90E308FE2BBE701916B3741BE253CDDBE7629586
+Description: null

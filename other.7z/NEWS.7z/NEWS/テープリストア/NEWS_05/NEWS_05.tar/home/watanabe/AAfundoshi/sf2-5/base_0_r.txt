@@ -1,0 +1,6 @@
+Name: base_0_r.txt
+Type: file
+Size: 356
+Last-Modified: '1994-07-28T02:49:49Z'
+SHA-1: 94253CAD54A87DB5F28A6A20D1BC9C525AF374B2
+Description: null

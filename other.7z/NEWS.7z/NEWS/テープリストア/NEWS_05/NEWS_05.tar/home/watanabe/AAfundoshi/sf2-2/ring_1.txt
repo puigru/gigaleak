@@ -1,0 +1,6 @@
+Name: ring_1.txt
+Type: file
+Size: 484
+Last-Modified: '1994-07-28T02:43:57Z'
+SHA-1: 3752808C1F137784D8F93F4B29ECDFEFBCE057F0
+Description: null

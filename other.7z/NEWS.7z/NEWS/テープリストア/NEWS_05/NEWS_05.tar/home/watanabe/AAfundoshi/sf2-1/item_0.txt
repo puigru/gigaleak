@@ -1,0 +1,6 @@
+Name: item_0.txt
+Type: file
+Size: 222
+Last-Modified: '1994-07-28T02:42:00Z'
+SHA-1: DFBCAD906BA0712B9D70A599BE6322C0ED591A30
+Description: null

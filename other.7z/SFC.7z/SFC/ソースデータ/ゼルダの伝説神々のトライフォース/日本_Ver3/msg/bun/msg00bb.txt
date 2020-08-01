@@ -1,0 +1,6 @@
+Name: msg00bb.txt
+Type: file
+Size: 111
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 0FBE5D513A67A7AC75D7261A839A066866983D48
+Description: null

@@ -1,0 +1,6 @@
+Name: KEN.txt
+Type: file
+Size: 48
+Last-Modified: '1994-07-28T02:59:43Z'
+SHA-1: 2C3BA2D0F0D25805D3A71F96AE8A3641F7E12411
+Description: null

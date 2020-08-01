@@ -1,0 +1,6 @@
+Name: zpr.s
+Type: file
+Size: 55376
+Last-Modified: '1998-11-27T08:40:24Z'
+SHA-1: 3B4110927BB9929754705D9466DAD4E53E9E9BCB
+Description: null

@@ -1,0 +1,6 @@
+Name: MAP.BAT
+Type: file
+Size: 1004
+Last-Modified: '1995-06-07T06:16:56Z'
+SHA-1: 86F6B84CA48B86268E6266BF49EA90184A0A5DC2
+Description: null

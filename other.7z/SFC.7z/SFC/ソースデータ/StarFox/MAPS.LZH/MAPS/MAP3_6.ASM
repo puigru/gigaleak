@@ -1,0 +1,6 @@
+Name: MAP3_6.ASM
+Type: file
+Size: 5049
+Last-Modified: '1992-12-22T13:07:20Z'
+SHA-1: D35EAA3D15928284D8157BE6F192EADAAC526652
+Description: null

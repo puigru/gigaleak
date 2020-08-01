@@ -1,0 +1,6 @@
+Name: zchr.s
+Type: file
+Size: 17886
+Last-Modified: '1998-12-14T01:12:54Z'
+SHA-1: 298DCA743A18462F4F40CA464DC67B11D5422178
+Description: null

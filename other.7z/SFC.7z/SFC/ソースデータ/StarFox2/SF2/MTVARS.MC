@@ -1,0 +1,6 @@
+Name: MTVARS.MC
+Type: file
+Size: 1016
+Last-Modified: '1994-11-17T02:50:48Z'
+SHA-1: 6EA02FB4B35EFE323E9F5E17E718B4D474CFB9B9
+Description: null

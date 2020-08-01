@@ -1,0 +1,6 @@
+Name: pyramid1.txt
+Type: file
+Size: 111
+Last-Modified: '1994-07-28T02:45:49Z'
+SHA-1: 3726421E96A021BA3018E63D41C7BB804A604321
+Description: null

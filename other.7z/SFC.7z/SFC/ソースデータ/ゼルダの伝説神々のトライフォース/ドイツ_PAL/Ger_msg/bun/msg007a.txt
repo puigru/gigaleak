@@ -1,0 +1,6 @@
+Name: msg007a.txt
+Type: file
+Size: 1246
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: DC8C6401FB7FFF68E2F8816E28250340869D5A29
+Description: null

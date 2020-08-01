@@ -1,0 +1,6 @@
+Name: msg00cb.txt
+Type: file
+Size: 117
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 54E6EC3584026CBB6C07E6BF0B53ABC2A44C5B38
+Description: null

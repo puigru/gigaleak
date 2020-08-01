@@ -1,0 +1,6 @@
+Name: TRA2.ASM
+Type: file
+Size: 2699
+Last-Modified: '1994-10-24T01:35:54Z'
+SHA-1: EA666842949584207415AB10B4B55D8C132E2711
+Description: null

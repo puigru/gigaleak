@@ -1,0 +1,6 @@
+Name: MCLIP.MC
+Type: file
+Size: 30364
+Last-Modified: '1995-05-25T10:55:42Z'
+SHA-1: 4A83425C9FE8766E9E59F76EEC3965EDF6FE881E
+Description: null

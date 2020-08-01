@@ -1,0 +1,6 @@
+Name: msg0240.txt
+Type: file
+Size: 284
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: E5064E8E989EE4F1336E8E9F8B86328EF80FD58C
+Description: null

@@ -1,0 +1,6 @@
+Name: PC2.BAT
+Type: file
+Size: 639
+Last-Modified: '1993-03-03T09:38:10Z'
+SHA-1: 54B62827F7B6015FC75FF11A41E6788ED6252C52
+Description: null

@@ -1,0 +1,6 @@
+Name: EMAP1_2.ASM
+Type: file
+Size: 7309
+Last-Modified: '1993-02-08T10:09:50Z'
+SHA-1: 5D147993374C79609013E69183D65545D8954DD5
+Description: null

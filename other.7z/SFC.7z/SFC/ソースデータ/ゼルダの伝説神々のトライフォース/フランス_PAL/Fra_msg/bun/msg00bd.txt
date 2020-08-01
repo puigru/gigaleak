@@ -1,0 +1,6 @@
+Name: msg00bd.txt
+Type: file
+Size: 149
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: CBFD73E5CD10D558268C7CEE606E79247D04F8C9
+Description: null

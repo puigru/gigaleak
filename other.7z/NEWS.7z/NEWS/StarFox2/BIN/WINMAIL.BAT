@@ -1,0 +1,6 @@
+Name: WINMAIL.BAT
+Type: file
+Size: 42
+Last-Modified: '1994-02-15T02:18:42Z'
+SHA-1: D7B86F6BE21821600806D59B332E840D0B851223
+Description: null

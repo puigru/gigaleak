@@ -1,0 +1,6 @@
+Name: ship_0.txt
+Type: file
+Size: 770
+Last-Modified: '1994-07-28T02:44:02Z'
+SHA-1: 9FC7018D92AF8A2E778B365EF747A0925119492F
+Description: null

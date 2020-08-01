@@ -1,0 +1,6 @@
+Name: G1_ 1208.txt
+Type: file
+Size: 3669
+Last-Modified: '1998-12-09T06:09:34Z'
+SHA-1: FF61CC531387D0FFBD86543CC055AD2BDA1B57FF
+Description: null

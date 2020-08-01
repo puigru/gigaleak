@@ -1,0 +1,6 @@
+Name: zgd.s
+Type: file
+Size: 153670
+Last-Modified: '1998-10-05T14:11:34Z'
+SHA-1: 2013C73C19FD63C28F411079783E2CC526AC4F48
+Description: null

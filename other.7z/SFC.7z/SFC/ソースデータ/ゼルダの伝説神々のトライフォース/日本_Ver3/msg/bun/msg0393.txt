@@ -1,0 +1,6 @@
+Name: msg0393.txt
+Type: file
+Size: 91
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 92EE42BEE092014C98DB255C351CFE348EE2D29E
+Description: null

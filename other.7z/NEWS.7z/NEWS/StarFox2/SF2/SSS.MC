@@ -1,0 +1,6 @@
+Name: SSS.MC
+Type: file
+Size: 18581
+Last-Modified: '1994-10-06T10:27:20Z'
+SHA-1: 8A5258C3DB4037D928CF146D7D195A00D8208F52
+Description: null

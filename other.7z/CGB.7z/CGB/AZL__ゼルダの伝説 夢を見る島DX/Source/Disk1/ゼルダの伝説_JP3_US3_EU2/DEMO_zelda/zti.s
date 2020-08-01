@@ -1,0 +1,6 @@
+Name: zti.s
+Type: file
+Size: 86073
+Last-Modified: '1999-09-22T09:22:14Z'
+SHA-1: 1F6A06594BD7E1C7D03928D70C38DE8F9B92C899
+Description: null

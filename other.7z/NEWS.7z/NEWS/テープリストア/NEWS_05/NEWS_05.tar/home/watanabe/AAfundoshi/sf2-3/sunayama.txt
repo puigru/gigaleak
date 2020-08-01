@@ -1,0 +1,6 @@
+Name: sunayama.txt
+Type: file
+Size: 164
+Last-Modified: '1994-07-28T02:45:54Z'
+SHA-1: 270612AFEBAB2A18D29D5B649AA89DF0258F8032
+Description: null

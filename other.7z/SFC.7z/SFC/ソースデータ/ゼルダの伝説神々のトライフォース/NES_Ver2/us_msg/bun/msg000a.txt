@@ -1,0 +1,6 @@
+Name: msg000a.txt
+Type: file
+Size: 55
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: 5627DDFFFE086905242AD732395410874D33E691
+Description: null

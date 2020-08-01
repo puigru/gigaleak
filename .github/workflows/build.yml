@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Prepare
+      id: prepare
+      run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"    
+    - name: Install dependencies
+      run: pip install pyyaml
+    - name: Build tree
+      run: python build.py other.7z build.json
+    - uses: actions/upload-artifact@v2
+      with:
+        name: build
+        path: build.json
+    - name: Create release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.prepare.outputs.sha_short }}
+        release_name: ${{ steps.prepare.outputs.sha_short }}
+        draft: false
+        prerelease: false
+    - name: Upload release
+      id: upload_release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./build.json
+        asset_name: build.json
+        asset_content_type: application/json

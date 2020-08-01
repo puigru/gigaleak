@@ -1,0 +1,6 @@
+Name: zmap.s
+Type: file
+Size: 55220
+Last-Modified: '1998-11-05T12:12:58Z'
+SHA-1: 8E681C71B60984189ADA534C6622E0350DB5CB31
+Description: null

@@ -1,0 +1,6 @@
+Name: MKAWA.MC
+Type: file
+Size: 6087
+Last-Modified: '1995-02-27T02:34:00Z'
+SHA-1: E19865B6283A94E986EE0128598937C3DF72F43B
+Description: null

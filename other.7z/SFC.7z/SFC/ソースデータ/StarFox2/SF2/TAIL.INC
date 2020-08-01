@@ -1,0 +1,6 @@
+Name: TAIL.INC
+Type: file
+Size: 1240
+Last-Modified: '1995-05-01T12:30:16Z'
+SHA-1: 4A91832C5992BE7A12EE72520098B9342A444C26
+Description: null

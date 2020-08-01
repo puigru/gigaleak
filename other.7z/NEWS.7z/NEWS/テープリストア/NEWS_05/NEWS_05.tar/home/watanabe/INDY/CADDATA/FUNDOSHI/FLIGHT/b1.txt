@@ -1,0 +1,6 @@
+Name: b1.txt
+Type: file
+Size: 143
+Last-Modified: '1994-07-28T03:00:16Z'
+SHA-1: 69ED71880CE1448C160AE08BF9FF71AD2C1FFEAA
+Description: null

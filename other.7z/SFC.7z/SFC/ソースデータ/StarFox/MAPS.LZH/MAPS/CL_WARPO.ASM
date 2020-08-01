@@ -1,0 +1,6 @@
+Name: CL_WARPO.ASM
+Type: file
+Size: 81
+Last-Modified: '1992-11-05T20:42:26Z'
+SHA-1: FD472DC1D1A15A67AA2DB333C8AA8A9CF788FD76
+Description: null

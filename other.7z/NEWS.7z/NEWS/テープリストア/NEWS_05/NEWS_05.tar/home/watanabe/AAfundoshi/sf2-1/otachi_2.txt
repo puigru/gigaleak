@@ -1,0 +1,6 @@
+Name: otachi_2.txt
+Type: file
+Size: 503
+Last-Modified: '1994-07-28T02:42:05Z'
+SHA-1: 89687A138CC4FB76D484145E352074142A34F38B
+Description: null

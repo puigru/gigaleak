@@ -1,0 +1,6 @@
+Name: color.txt
+Type: file
+Size: 96873
+Last-Modified: '1998-12-08T06:33:00Z'
+SHA-1: 6D594EFBE8A5429127C03889F07B61F7CE18CD92
+Description: null

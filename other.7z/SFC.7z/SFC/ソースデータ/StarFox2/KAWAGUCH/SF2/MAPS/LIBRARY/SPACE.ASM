@@ -1,0 +1,6 @@
+Name: SPACE.ASM
+Type: file
+Size: 4661
+Last-Modified: '1993-12-15T08:13:38Z'
+SHA-1: 611174E514D9345521FEC1E85C05AFE0F742966B
+Description: null

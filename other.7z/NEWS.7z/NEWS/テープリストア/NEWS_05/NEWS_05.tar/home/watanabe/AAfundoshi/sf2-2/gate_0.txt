@@ -1,0 +1,6 @@
+Name: gate_0.txt
+Type: file
+Size: 416
+Last-Modified: '1994-07-28T02:43:44Z'
+SHA-1: BA487CFD30AE7918851012C11D07F9022066CC0A
+Description: null

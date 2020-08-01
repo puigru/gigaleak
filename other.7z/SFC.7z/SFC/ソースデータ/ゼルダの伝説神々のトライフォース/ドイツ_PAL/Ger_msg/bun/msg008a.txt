@@ -1,0 +1,6 @@
+Name: msg008a.txt
+Type: file
+Size: 73
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: F6CB72D3779D13C5736CD7C609902322B565C0B1
+Description: null

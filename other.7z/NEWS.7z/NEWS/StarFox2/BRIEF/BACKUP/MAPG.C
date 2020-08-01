@@ -1,0 +1,6 @@
+Name: MAPG.C
+Type: file
+Size: 693
+Last-Modified: '1995-05-22T10:21:26Z'
+SHA-1: 4DFA5686E42A652E3A8130DD18E3A26F35103609
+Description: null

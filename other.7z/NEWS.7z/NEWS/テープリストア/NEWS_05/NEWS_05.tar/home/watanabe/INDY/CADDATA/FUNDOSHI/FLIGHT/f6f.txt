@@ -1,0 +1,6 @@
+Name: f6f.txt
+Type: file
+Size: 1702
+Last-Modified: '1994-07-28T03:00:22Z'
+SHA-1: A6E337B30D62303CD0A19CC265DFECE603974507
+Description: null

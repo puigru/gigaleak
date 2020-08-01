@@ -1,0 +1,6 @@
+Name: m_iwa_6.txt
+Type: file
+Size: 686
+Last-Modified: '1994-07-28T02:50:01Z'
+SHA-1: C21EBF509FFE2EED2C1BFDDA4159989BCDA3D785
+Description: null

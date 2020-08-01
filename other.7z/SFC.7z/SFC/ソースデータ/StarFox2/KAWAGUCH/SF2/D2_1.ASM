@@ -1,0 +1,6 @@
+Name: D2_1.ASM
+Type: file
+Size: 7184
+Last-Modified: '1994-08-29T00:47:34Z'
+SHA-1: 4A9E328884BF59A754131B9E2D31CAE95C88E159
+Description: null

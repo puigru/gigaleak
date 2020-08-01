@@ -1,0 +1,6 @@
+Name: YALCS.H
+Type: file
+Size: 3
+Last-Modified: '1995-08-23T02:33:46Z'
+SHA-1: 624E5FB965CF03D50ECC8286F982ABFDC754529C
+Description: null

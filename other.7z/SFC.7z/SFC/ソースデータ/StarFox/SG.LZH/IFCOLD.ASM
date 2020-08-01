@@ -1,0 +1,6 @@
+Name: IFCOLD.ASM
+Type: file
+Size: 198
+Last-Modified: '1993-02-15T08:40:38Z'
+SHA-1: 7E10FB6AFDD868DD98376A434AE31FDF35D191D7
+Description: null

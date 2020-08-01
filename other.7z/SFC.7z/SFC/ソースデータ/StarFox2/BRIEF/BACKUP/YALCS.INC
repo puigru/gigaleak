@@ -1,0 +1,6 @@
+Name: YALCS.INC
+Type: file
+Size: 5435
+Last-Modified: '1994-08-14T04:39:16Z'
+SHA-1: 05A781B62C2467C061C48326E07EF620CC48AD81
+Description: null

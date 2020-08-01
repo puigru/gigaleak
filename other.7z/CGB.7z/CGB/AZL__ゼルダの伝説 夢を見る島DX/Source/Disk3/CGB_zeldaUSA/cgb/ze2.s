@@ -1,0 +1,6 @@
+Name: ze2.s
+Type: file
+Size: 167063
+Last-Modified: '1998-09-30T11:07:00Z'
+SHA-1: 4AC325CA41F80ADCD496A2F9DCF6351F8EBF6866
+Description: null

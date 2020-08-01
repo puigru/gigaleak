@@ -1,0 +1,6 @@
+Name: PolyMain.c
+Type: file
+Size: 12644
+Last-Modified: '1995-04-14T01:24:43Z'
+SHA-1: 85F4B369B3C5582D27B3B3BF7B5904D49BFBF5F8
+Description: null

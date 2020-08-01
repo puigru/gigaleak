@@ -1,0 +1,6 @@
+Name: LNECK.txt
+Type: file
+Size: 172
+Last-Modified: '1994-07-28T02:59:50Z'
+SHA-1: F7F674C88F1FC88313BD77948F5EBA9EB6B5BCCB
+Description: null

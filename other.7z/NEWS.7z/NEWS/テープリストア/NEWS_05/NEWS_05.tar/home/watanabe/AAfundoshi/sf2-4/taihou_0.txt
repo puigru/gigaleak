@@ -1,0 +1,6 @@
+Name: taihou_0.txt
+Type: file
+Size: 322
+Last-Modified: '1994-07-28T02:47:18Z'
+SHA-1: 44F81686D7BA617B6C297E40946DF74C43D85378
+Description: null

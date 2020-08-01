@@ -1,0 +1,6 @@
+Name: chika.txt
+Type: file
+Size: 3335
+Last-Modified: '1995-01-26T04:10:39Z'
+SHA-1: 3D78801C939C1911830E7B18D5353398821FED76
+Description: null

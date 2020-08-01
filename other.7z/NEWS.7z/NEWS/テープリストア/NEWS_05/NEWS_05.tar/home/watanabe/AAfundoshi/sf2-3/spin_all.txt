@@ -1,0 +1,6 @@
+Name: spin_all.txt
+Type: file
+Size: 2999
+Last-Modified: '1994-07-28T02:45:54Z'
+SHA-1: 2E5F60F0576968C059B7C3387C7DC208F7615A44
+Description: null

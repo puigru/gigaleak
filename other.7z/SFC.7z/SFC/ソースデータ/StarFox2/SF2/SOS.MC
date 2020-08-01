@@ -1,0 +1,6 @@
+Name: SOS.MC
+Type: file
+Size: 19493
+Last-Modified: '1994-10-06T10:20:38Z'
+SHA-1: 4084FB1EF102C9811D746BA55C6174338736FDC3
+Description: null

@@ -1,0 +1,6 @@
+Name: msg055e.txt
+Type: file
+Size: 112
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 2E4FA988E86655B3F58EB1D22ECCDABAE7A221A5
+Description: null

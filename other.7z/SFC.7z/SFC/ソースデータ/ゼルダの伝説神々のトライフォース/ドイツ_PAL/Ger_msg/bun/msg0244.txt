@@ -1,0 +1,6 @@
+Name: msg0244.txt
+Type: file
+Size: 190
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: AE11AD3547DE9C323355F4C4CC63133B63317DF9
+Description: null

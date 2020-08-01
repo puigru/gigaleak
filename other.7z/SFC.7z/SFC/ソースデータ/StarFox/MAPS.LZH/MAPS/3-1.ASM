@@ -1,0 +1,6 @@
+Name: 3-1.ASM
+Type: file
+Size: 10070
+Last-Modified: '1992-12-19T15:38:18Z'
+SHA-1: D6427AD4C96C8C6C05F0C3F79627B09745A70568
+Description: null

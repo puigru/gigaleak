@@ -1,0 +1,6 @@
+Name: msg0521.txt
+Type: file
+Size: 70
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 88B7D0C175F903CC5D75BABC8FFA0838D320FAC2
+Description: null

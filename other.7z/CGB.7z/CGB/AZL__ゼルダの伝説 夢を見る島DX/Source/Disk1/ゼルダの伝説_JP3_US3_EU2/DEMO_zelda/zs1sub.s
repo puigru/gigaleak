@@ -1,0 +1,6 @@
+Name: zs1sub.s
+Type: file
+Size: 56194
+Last-Modified: '1998-12-24T02:43:22Z'
+SHA-1: 4F2E531F63E6B67F44BE7D471A056E399F9DEFB1
+Description: null

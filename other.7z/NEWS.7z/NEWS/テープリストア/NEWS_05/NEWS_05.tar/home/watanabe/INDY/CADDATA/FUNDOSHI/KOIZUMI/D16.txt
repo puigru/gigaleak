@@ -1,0 +1,6 @@
+Name: D16.txt
+Type: file
+Size: 28
+Last-Modified: '1994-07-28T02:59:39Z'
+SHA-1: DBAAE1616C3D31081C0D75D66EE709298CFC5A47
+Description: null

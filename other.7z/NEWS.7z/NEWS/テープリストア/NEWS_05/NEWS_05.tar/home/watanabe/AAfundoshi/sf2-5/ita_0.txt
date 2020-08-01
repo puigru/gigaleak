@@ -1,0 +1,6 @@
+Name: ita_0.txt
+Type: file
+Size: 246
+Last-Modified: '1994-07-28T02:49:55Z'
+SHA-1: 7908CA7E90DBC11E26DE7E90D2C6A5952ACAF51A
+Description: null

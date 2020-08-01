@@ -1,0 +1,6 @@
+Name: xmodmap.ews.org
+Type: file
+Size: 214
+Last-Modified: '1990-09-28T08:07:01Z'
+SHA-1: A79478FAA2A0512A81FD2E472D679D3C925B076C
+Description: null

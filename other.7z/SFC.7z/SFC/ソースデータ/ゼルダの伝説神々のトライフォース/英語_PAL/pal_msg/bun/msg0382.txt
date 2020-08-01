@@ -1,0 +1,6 @@
+Name: msg0382.txt
+Type: file
+Size: 159
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 5FCC929BE8DC926225B0EFEFFBECEBFD9A89B136
+Description: null

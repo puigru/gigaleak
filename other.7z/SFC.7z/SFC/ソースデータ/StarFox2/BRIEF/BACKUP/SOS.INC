@@ -1,0 +1,6 @@
+Name: SOS.INC
+Type: file
+Size: 1040
+Last-Modified: '1994-08-14T01:44:02Z'
+SHA-1: B39E09D2FBF1CE28741937DD89213B11A0045A62
+Description: null

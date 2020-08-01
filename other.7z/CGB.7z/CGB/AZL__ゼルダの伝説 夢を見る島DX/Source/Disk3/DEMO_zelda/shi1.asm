@@ -1,0 +1,6 @@
+Name: shi1.asm
+Type: file
+Size: 23701
+Last-Modified: '1998-04-03T04:22:54Z'
+SHA-1: 62C126547ACE6D7A5CEB15A1EAF1286BFD1D190D
+Description: null

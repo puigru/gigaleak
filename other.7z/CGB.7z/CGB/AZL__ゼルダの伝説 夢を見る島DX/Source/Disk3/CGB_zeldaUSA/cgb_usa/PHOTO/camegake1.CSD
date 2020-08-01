@@ -1,0 +1,6 @@
+Name: camegake1.CSD
+Type: file
+Size: 720
+Last-Modified: '1998-10-08T14:46:22Z'
+SHA-1: A44A0FED97127FDED5E1889AC4175C1E1FABA2B9
+Description: null

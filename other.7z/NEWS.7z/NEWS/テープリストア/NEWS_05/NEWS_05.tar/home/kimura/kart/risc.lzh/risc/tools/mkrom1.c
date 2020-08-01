@@ -1,0 +1,6 @@
+Name: mkrom1.c
+Type: file
+Size: 4127
+Last-Modified: '1992-01-07T00:12:36Z'
+SHA-1: 98598CFE97E0E8F234A8CC10A28173E264326C73
+Description: null

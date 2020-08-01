@@ -1,0 +1,6 @@
+Name: noru_3_2.txt
+Type: file
+Size: 365
+Last-Modified: '1994-07-28T02:47:11Z'
+SHA-1: B6C3C1624C3A1AB910E3E1335C59F79F59B08980
+Description: null

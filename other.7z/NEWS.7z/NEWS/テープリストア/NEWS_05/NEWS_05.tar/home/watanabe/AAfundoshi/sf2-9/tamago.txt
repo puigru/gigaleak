@@ -1,0 +1,6 @@
+Name: tamago.txt
+Type: file
+Size: 824
+Last-Modified: '1994-10-28T05:36:47Z'
+SHA-1: 8E8D20F2DC2260EF55A9168924E7BBF18BB258EE
+Description: null

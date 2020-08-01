@@ -1,0 +1,6 @@
+Name: yousai_d.txt
+Type: file
+Size: 356
+Last-Modified: '1994-07-28T02:47:25Z'
+SHA-1: AF66E86F05F5F16EF72DB5072CE50D782FDDC6DB
+Description: null

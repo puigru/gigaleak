@@ -1,0 +1,6 @@
+Name: msg0071.txt
+Type: file
+Size: 365
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 67875FBB6B7A58414135A2998B7936149A868B05
+Description: null

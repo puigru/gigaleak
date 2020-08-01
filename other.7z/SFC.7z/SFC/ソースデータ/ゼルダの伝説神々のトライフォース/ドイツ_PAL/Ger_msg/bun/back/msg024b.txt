@@ -1,0 +1,6 @@
+Name: msg024b.txt
+Type: file
+Size: 131
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 52AB9E8761918B490856F02ED3485DE58B7852EA
+Description: null

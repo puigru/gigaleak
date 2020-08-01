@@ -1,0 +1,6 @@
+Name: msg024e.txt
+Type: file
+Size: 107
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 04238CE18C974A839F062E64D41E042EBD2A4004
+Description: null

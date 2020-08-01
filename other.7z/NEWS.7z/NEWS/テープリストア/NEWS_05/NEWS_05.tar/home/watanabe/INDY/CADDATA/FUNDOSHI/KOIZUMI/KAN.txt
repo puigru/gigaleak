@@ -1,0 +1,6 @@
+Name: KAN.txt
+Type: file
+Size: 1249
+Last-Modified: '1994-07-28T02:59:43Z'
+SHA-1: 5A9EED1F7DC0AB0951F55771D763A2049F19C0A4
+Description: null

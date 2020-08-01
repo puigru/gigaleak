@@ -1,0 +1,6 @@
+Name: ispk1.c
+Type: file
+Size: 15826
+Last-Modified: '1992-12-03T04:54:08Z'
+SHA-1: B4329B523E137CD9595D584F7E6ADE43063C0F7A
+Description: null

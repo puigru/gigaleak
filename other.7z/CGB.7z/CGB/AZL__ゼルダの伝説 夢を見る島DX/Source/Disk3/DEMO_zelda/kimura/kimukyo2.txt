@@ -1,0 +1,6 @@
+Name: kimukyo2.txt
+Type: file
+Size: 9720
+Last-Modified: '1998-11-04T11:28:00Z'
+SHA-1: C250D9ADD90B1A71D19DA679F41FF05C14F1608E
+Description: null

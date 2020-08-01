@@ -1,0 +1,6 @@
+Name: CPUregs.h
+Type: file
+Size: 967
+Last-Modified: '2016-05-13T04:52:55Z'
+SHA-1: 32CCBE52A8620383FEE7959B7F65ED7D38D1F064
+Description: null

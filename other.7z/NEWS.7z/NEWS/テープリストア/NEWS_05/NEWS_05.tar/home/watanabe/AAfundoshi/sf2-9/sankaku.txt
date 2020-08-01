@@ -1,0 +1,6 @@
+Name: sankaku.txt
+Type: file
+Size: 175
+Last-Modified: '1994-09-12T04:38:17Z'
+SHA-1: BE360BDE3BCBC924797F0F02F0137EDA42A8B806
+Description: null

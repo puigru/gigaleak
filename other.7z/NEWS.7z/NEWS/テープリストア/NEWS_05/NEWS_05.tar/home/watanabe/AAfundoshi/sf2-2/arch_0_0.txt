@@ -1,0 +1,6 @@
+Name: arch_0_0.txt
+Type: file
+Size: 142
+Last-Modified: '1994-07-28T02:43:37Z'
+SHA-1: 422C7B321083851C1D98302062B357595A2E1AE0
+Description: null

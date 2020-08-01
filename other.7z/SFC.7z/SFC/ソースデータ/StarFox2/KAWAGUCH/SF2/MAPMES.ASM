@@ -1,0 +1,6 @@
+Name: MAPMES.ASM
+Type: file
+Size: 963
+Last-Modified: '1995-06-07T10:45:38Z'
+SHA-1: 49E1AD6698C9F1BF81B5F33148627E5915BA9C87
+Description: null

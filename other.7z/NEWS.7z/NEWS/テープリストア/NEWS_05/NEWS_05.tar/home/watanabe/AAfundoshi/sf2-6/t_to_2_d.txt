@@ -1,0 +1,6 @@
+Name: t_to_2_d.txt
+Type: file
+Size: 165
+Last-Modified: '1994-07-28T02:33:12Z'
+SHA-1: ED6BB30DF9B6EAA6907424962E803D4933230F63
+Description: null

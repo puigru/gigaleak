@@ -1,0 +1,6 @@
+Name: tank.txt
+Type: file
+Size: 2977
+Last-Modified: '1994-09-17T05:57:31Z'
+SHA-1: 64AB0D6C0C08F1EC222AAA97E07B8A15A5057434
+Description: null

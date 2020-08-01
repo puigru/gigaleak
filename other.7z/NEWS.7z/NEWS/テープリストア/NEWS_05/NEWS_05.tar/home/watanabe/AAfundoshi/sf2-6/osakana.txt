@@ -1,0 +1,6 @@
+Name: osakana.txt
+Type: file
+Size: 459
+Last-Modified: '1994-07-28T02:33:12Z'
+SHA-1: 6274EF2768D668DBFFAB08CA4736E08CB5254BD1
+Description: null

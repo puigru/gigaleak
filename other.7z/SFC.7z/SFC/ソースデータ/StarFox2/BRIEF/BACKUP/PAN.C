@@ -1,0 +1,6 @@
+Name: PAN.C
+Type: file
+Size: 24554
+Last-Modified: '1995-03-27T05:44:04Z'
+SHA-1: 8A47A87B797C6755894763F6E888F519F6C63250
+Description: null

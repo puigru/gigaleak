@@ -1,0 +1,6 @@
+Name: WINDOW.C
+Type: file
+Size: 16111
+Last-Modified: '1994-06-23T05:57:36Z'
+SHA-1: B507CF3C9180BEF8F6C0A144AC3154C330D9B012
+Description: null

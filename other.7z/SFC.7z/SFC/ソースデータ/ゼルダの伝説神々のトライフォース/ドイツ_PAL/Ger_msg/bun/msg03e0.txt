@@ -1,0 +1,6 @@
+Name: msg03e0.txt
+Type: file
+Size: 92
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 86BCC78B11D50CA978FCA2736655B599B827F48A
+Description: null

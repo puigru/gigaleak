@@ -1,0 +1,6 @@
+Name: msg01c5.txt
+Type: file
+Size: 31
+Last-Modified: '2016-05-13T04:20:48Z'
+SHA-1: 1FD4587830A8607163E99540C0A442CED20D2360
+Description: null

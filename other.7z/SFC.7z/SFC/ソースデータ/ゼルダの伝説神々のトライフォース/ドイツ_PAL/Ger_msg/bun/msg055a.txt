@@ -1,0 +1,6 @@
+Name: msg055a.txt
+Type: file
+Size: 89
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 53930DA45FA03779E0FEA919A58D5A2719D3E25F
+Description: null

@@ -1,0 +1,6 @@
+Name: TELIX.BAT
+Type: file
+Size: 86
+Last-Modified: '1994-02-28T05:08:06Z'
+SHA-1: FD9FA58D644009DA7033839B56FE3143E1D1AEA8
+Description: null

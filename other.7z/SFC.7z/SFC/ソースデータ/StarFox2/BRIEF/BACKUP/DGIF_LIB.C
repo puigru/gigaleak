@@ -1,0 +1,6 @@
+Name: DGIF_LIB.C
+Type: file
+Size: 30437
+Last-Modified: '1995-02-04T09:43:26Z'
+SHA-1: 8EC8475457BD3EEAA265EB5CFBE2779240AE9F04
+Description: null

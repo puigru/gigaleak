@@ -1,0 +1,6 @@
+Name: m2.txt
+Type: file
+Size: 72
+Last-Modified: '1994-07-28T03:00:23Z'
+SHA-1: FF2FB18304CF687019173A08BACF810F6FE7AEDC
+Description: null

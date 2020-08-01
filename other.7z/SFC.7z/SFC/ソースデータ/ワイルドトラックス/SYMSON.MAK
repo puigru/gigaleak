@@ -1,0 +1,6 @@
+Name: SYMSON.MAK
+Type: file
+Size: 9
+Last-Modified: '1993-07-21T09:39:54Z'
+SHA-1: EAC43E6D6B18372DF53CEAC7BA05B3A010D502F4
+Description: null

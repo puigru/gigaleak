@@ -1,0 +1,6 @@
+Name: cos.p
+Type: file
+Size: 284
+Last-Modified: '1991-04-18T07:35:55Z'
+SHA-1: EB1DA75DD154EE8D486E2A4874BFCCF378EA7406
+Description: null

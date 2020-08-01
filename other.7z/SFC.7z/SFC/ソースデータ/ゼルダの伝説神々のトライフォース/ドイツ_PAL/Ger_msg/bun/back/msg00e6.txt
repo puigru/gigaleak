@@ -1,0 +1,6 @@
+Name: msg00e6.txt
+Type: file
+Size: 170
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: C7FC6B815F252B38FF3897B5793CEDB7F44C54DA
+Description: null

@@ -1,0 +1,6 @@
+Name: KALCS.INC
+Type: file
+Size: 2783
+Last-Modified: '1993-02-08T10:38:26Z'
+SHA-1: C02478F34CAD2DAC4BED80E715B88F9F1A43D11D
+Description: null

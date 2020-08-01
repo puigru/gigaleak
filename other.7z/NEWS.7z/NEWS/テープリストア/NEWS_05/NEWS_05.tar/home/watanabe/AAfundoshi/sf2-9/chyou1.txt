@@ -1,0 +1,6 @@
+Name: chyou1.txt
+Type: file
+Size: 630
+Last-Modified: '1994-10-28T09:43:29Z'
+SHA-1: 298295307D4DE931E3C1C9F4AB3DC147CA24619D
+Description: null

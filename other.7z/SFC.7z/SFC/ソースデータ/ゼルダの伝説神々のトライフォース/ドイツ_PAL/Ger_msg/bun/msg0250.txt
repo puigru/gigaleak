@@ -1,0 +1,6 @@
+Name: msg0250.txt
+Type: file
+Size: 104
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 2259545CB81CAD6B91A037F3F6DA9C343DD6F05D
+Description: null

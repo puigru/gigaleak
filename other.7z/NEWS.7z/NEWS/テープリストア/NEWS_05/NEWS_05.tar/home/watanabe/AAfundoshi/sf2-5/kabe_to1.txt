@@ -1,0 +1,6 @@
+Name: kabe_to1.txt
+Type: file
+Size: 749
+Last-Modified: '1994-07-28T02:49:59Z'
+SHA-1: D052751C3B0ED52C36F524BC266DEDACCAE09A13
+Description: null

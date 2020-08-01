@@ -1,0 +1,6 @@
+Name: SOUND.INC
+Type: file
+Size: 2794
+Last-Modified: '1995-08-10T14:17:18Z'
+SHA-1: 259738E14F2693E0B861C504560030AA3254E586
+Description: null

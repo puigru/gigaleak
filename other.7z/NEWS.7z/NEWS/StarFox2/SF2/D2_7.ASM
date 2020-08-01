@@ -1,0 +1,6 @@
+Name: D2_7.ASM
+Type: file
+Size: 1299
+Last-Modified: '1994-10-19T09:22:36Z'
+SHA-1: 6B0D76B832683B3B721726DEB0B08BCF8D32D78A
+Description: null

@@ -1,0 +1,6 @@
+Name: lift_0.txt
+Type: file
+Size: 458
+Last-Modified: '1994-07-28T02:42:01Z'
+SHA-1: 07420D0BEDD8B1A7A1A0BBA9A83FA820A5B09229
+Description: null

@@ -1,0 +1,6 @@
+Name: shi.txt
+Type: file
+Size: 14
+Last-Modified: '1998-11-18T08:48:52Z'
+SHA-1: EBFD57B0127D008750FDBFD4B67D428127C3D7B6
+Description: null

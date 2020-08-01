@@ -1,0 +1,6 @@
+Name: room_0_2.txt
+Type: file
+Size: 342
+Last-Modified: '1994-07-28T02:47:13Z'
+SHA-1: 29F450B075E2731AFF9A99F4CCCB89C0B6B8CE50
+Description: null

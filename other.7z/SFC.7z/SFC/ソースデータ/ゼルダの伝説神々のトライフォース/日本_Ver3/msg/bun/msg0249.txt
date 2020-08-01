@@ -1,0 +1,6 @@
+Name: msg0249.txt
+Type: file
+Size: 93
+Last-Modified: '2016-05-13T04:36:32Z'
+SHA-1: 1771C68C3F64AD7FEBCD8640992703E6D6E70D8E
+Description: null

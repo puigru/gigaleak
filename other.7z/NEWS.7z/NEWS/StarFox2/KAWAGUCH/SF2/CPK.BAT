@@ -1,0 +1,6 @@
+Name: CPK.BAT
+Type: file
+Size: 1639
+Last-Modified: '1994-11-17T02:23:58Z'
+SHA-1: A43F91442EE6A2156B17B22D3D5EA6660672E628
+Description: null

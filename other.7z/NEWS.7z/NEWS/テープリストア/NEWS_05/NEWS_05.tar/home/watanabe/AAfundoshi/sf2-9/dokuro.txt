@@ -1,0 +1,6 @@
+Name: dokuro.txt
+Type: file
+Size: 4587
+Last-Modified: '1994-10-15T12:39:56Z'
+SHA-1: 170434927B9DB113C16EFFEA43D0278F19E4B26A
+Description: null

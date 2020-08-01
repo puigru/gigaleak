@@ -1,0 +1,6 @@
+Name: Frzeldae2.TXT
+Type: file
+Size: 10548
+Last-Modified: '1998-11-20T00:37:34Z'
+SHA-1: 8FD6219BF626025E0AFEB04B95C4DA46377E7794
+Description: null

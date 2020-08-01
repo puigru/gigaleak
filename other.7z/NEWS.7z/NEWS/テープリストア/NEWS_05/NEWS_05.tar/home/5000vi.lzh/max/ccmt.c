@@ -1,0 +1,6 @@
+Name: ccmt.c
+Type: file
+Size: 1106
+Last-Modified: '1993-10-31T17:07:15Z'
+SHA-1: BB905B9851A2B8D736FA52D4450DCBE4841A0CDC
+Description: null

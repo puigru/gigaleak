@@ -1,0 +1,6 @@
+Name: msg0519.txt
+Type: file
+Size: 37
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 4E29A5B37BBBC74FC7B4F8CEAEB12C09E218711F
+Description: null

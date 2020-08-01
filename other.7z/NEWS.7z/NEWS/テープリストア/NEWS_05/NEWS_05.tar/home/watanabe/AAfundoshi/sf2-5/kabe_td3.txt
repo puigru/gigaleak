@@ -1,0 +1,6 @@
+Name: kabe_td3.txt
+Type: file
+Size: 353
+Last-Modified: '1994-07-28T02:49:59Z'
+SHA-1: E56CD4C825715C203318EFE0EE9696D7545EAD33
+Description: null

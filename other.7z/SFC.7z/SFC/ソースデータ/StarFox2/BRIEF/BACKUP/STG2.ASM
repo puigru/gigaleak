@@ -1,0 +1,6 @@
+Name: STG2.ASM
+Type: file
+Size: 21612
+Last-Modified: '1995-05-20T06:10:02Z'
+SHA-1: DB479691E0ECD96E7BF0E5D62C39A05DFEE3C5AB
+Description: null

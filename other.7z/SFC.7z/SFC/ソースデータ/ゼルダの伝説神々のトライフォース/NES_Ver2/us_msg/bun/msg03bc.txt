@@ -1,0 +1,6 @@
+Name: msg03bc.txt
+Type: file
+Size: 199
+Last-Modified: '2016-05-13T04:27:09Z'
+SHA-1: 1D38C68A390559C2C70E49203F92F8CD1AF86E2E
+Description: null

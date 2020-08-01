@@ -1,0 +1,6 @@
+Name: MSGS.TXT
+Type: file
+Size: 53
+Last-Modified: '1994-10-25T04:54:16Z'
+SHA-1: 1C924E586058C657CFC69C05B1CC71964BE3F717
+Description: null

@@ -1,0 +1,6 @@
+Name: font_l.txt
+Type: file
+Size: 285
+Last-Modified: '1994-07-28T02:41:57Z'
+SHA-1: 8E746D0BA965C3DE884B687976D37A7B9183BA0F
+Description: null

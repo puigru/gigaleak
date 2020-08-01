@@ -1,0 +1,6 @@
+Name: DOG.txt
+Type: file
+Size: 1374
+Last-Modified: '1994-07-28T02:59:40Z'
+SHA-1: 5B12E49044F5CFC24FA614516FA20E8B6BE565D1
+Description: null

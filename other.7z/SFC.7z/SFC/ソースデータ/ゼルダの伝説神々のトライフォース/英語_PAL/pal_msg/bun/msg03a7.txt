@@ -1,0 +1,6 @@
+Name: msg03a7.txt
+Type: file
+Size: 205
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 85166AAE2DAD5DB10D59D673805CDE4F0A338027
+Description: null

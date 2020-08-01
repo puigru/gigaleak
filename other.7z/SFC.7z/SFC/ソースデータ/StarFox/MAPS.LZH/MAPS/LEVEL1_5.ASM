@@ -1,0 +1,6 @@
+Name: LEVEL1_5.ASM
+Type: file
+Size: 222
+Last-Modified: '1992-12-03T17:15:02Z'
+SHA-1: C40D8AFAE7342666C9883110A9E636123D26D0B4
+Description: null

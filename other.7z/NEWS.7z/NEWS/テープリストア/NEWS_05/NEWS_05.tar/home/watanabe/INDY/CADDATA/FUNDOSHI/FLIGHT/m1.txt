@@ -1,0 +1,6 @@
+Name: m1.txt
+Type: file
+Size: 70
+Last-Modified: '1994-07-28T03:00:23Z'
+SHA-1: 3C3224F79DB577AE5DEF0800F0D07636BC87AE73
+Description: null

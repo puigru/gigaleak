@@ -1,0 +1,6 @@
+Name: msg03d5.txt
+Type: file
+Size: 200
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: DB7A3A16360279E842056D951141EE87AA95B553
+Description: null

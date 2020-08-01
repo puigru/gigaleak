@@ -1,0 +1,6 @@
+Name: MWCROT.MC
+Type: file
+Size: 4173
+Last-Modified: '1993-09-20T12:38:42Z'
+SHA-1: 40ADF48E4EF625BD86BC9BE7D2177F33B850A7A3
+Description: null

@@ -1,0 +1,6 @@
+Name: rr3.txt
+Type: file
+Size: 646
+Last-Modified: '1994-07-28T02:52:19Z'
+SHA-1: 45EAEDC89D78C733C9294661CF087471E35C670D
+Description: null

@@ -1,0 +1,6 @@
+Name: Color.c
+Type: file
+Size: 8292
+Last-Modified: '1994-07-28T02:58:36Z'
+SHA-1: 0958792B103E9F2966EB0D1672EF3213EA00B1D0
+Description: null

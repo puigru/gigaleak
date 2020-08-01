@@ -1,0 +1,6 @@
+Name: NET.BAT
+Type: file
+Size: 355
+Last-Modified: '1995-09-25T02:53:14Z'
+SHA-1: 4F313261155FAF4A3CAB6695E33C1DF28ED52C89
+Description: null

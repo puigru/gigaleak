@@ -1,0 +1,6 @@
+Name: OBJ.ASM
+Type: file
+Size: 10684
+Last-Modified: '1993-02-15T08:40:38Z'
+SHA-1: 92EAFCBA5756F8C4D19052356BD04BC83514195B
+Description: null

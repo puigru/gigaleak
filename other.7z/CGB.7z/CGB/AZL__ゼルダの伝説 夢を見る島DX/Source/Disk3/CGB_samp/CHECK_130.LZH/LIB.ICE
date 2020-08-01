@@ -1,0 +1,6 @@
+Name: LIB.ICE
+Type: file
+Size: 44
+Last-Modified: '1998-06-10T01:10:38Z'
+SHA-1: F7B3541CBFE9980282E511CC542A7920B3DC49A0
+Description: null

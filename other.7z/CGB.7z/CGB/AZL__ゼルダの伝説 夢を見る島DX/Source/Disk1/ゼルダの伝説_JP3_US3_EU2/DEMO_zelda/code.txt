@@ -1,0 +1,6 @@
+Name: code.txt
+Type: file
+Size: 2513
+Last-Modified: '1998-09-18T04:56:10Z'
+SHA-1: AC82E28F672699E87BF91C377E0F3D261F39B667
+Description: null

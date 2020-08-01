@@ -1,0 +1,6 @@
+Name: kao.txt
+Type: file
+Size: 981
+Last-Modified: '1994-07-28T02:45:47Z'
+SHA-1: 54E29490FC1F18697E88C696893FCCF2803849BD
+Description: null

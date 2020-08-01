@@ -1,0 +1,6 @@
+Name: msg03d2.txt
+Type: file
+Size: 95
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 2F96BA51238A1ED37C9EB2FEB1BBC7C1B7DD8572
+Description: null

@@ -1,0 +1,6 @@
+Name: AAA.ASM
+Type: file
+Size: 547
+Last-Modified: '1995-06-16T06:19:58Z'
+SHA-1: B56061E267627787ACA424136F67688A22D91F39
+Description: null

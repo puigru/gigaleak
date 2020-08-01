@@ -1,0 +1,6 @@
+Name: wel_0_d.txt
+Type: file
+Size: 261
+Last-Modified: '1994-07-28T02:47:20Z'
+SHA-1: F3081720E4921465E3C8BFFDE5D333EC83386AA3
+Description: null

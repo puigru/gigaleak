@@ -1,0 +1,6 @@
+Name: test_dai.txt
+Type: file
+Size: 309
+Last-Modified: '1994-07-28T02:52:29Z'
+SHA-1: CD538B4B4921DAC3D2845E3D9FDA28B9603F09E9
+Description: null

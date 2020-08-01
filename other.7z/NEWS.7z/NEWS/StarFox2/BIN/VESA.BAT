@@ -1,0 +1,6 @@
+Name: VESA.BAT
+Type: file
+Size: 22
+Last-Modified: '1994-04-08T07:29:12Z'
+SHA-1: 3A63BF67485054EA96FD4F24FFB8ADBA14617F13
+Description: null

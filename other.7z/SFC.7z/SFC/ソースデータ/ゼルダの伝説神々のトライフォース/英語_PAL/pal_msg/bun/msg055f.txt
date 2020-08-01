@@ -1,0 +1,6 @@
+Name: msg055f.txt
+Type: file
+Size: 143
+Last-Modified: '2016-05-13T04:25:37Z'
+SHA-1: 62BFEDF7C2B1E7C68FBB4E32F8C5AA57BF1B234D
+Description: null

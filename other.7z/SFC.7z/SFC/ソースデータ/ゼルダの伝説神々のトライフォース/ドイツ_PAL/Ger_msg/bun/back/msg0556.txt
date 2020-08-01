@@ -1,0 +1,6 @@
+Name: msg0556.txt
+Type: file
+Size: 124
+Last-Modified: '2016-05-13T04:23:03Z'
+SHA-1: 59167E406C80A4C7A80BB3B17F33B3BC8E41C8E1
+Description: null
