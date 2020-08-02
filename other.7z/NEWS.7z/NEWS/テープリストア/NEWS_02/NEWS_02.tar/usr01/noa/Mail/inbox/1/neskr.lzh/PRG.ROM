@@ -3,4 +3,7 @@ Type: file
 Size: 524288
 Last-Modified: '1993-03-11T20:48:14Z'
 SHA-1: 7EFAA47E5F61394741EC78239A59A2C7C0047099
-Description: null
+Description: |
+  Famicom PRG ROM of Kirby's Adventure. Unknown build.
+  Can replace the PRG ROM in the USA retail dump.
+  https://tcrf.net/Kirby%27s_Adventure
